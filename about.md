@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About LAH Publishing
+title: About LAH Photographs
 permalink: /about.html
 ---
 <p>
