@@ -35,4 +35,4 @@ permalink: /books.html
 <p>Schönert,	Rudolf:	(Oakleaves): NJG2:	PHOTO (clipped): £15.00</p>
 <p>Streib,	Werner:	(Swords):	NJG1:	PHOTO, NOTE: £30.00</p>
 <p>Zorner,	Paul:	(Oakleaves): NJG3:	PHOTO, PRINT OUT: £25.00</p>
-<p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
+<p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
