@@ -10,7 +10,7 @@ permalink: /europeanvolunteer.html
   
 <p><b>Below is a selection of Afrika Korps Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<p><b><centre>Luftwaffe</centre></b></p>
+<p><b><centre>Heer</centre></b></p>
 <p>Audorff,	Paul: Grenadier Regiment 754:	PHOTO, LETTER, ENVELOPE: £25.00</p>
 <p>Behr,	Winrich: III. Aufk. Btl., 3.Pz.Div.: 	PHOTO:	£15.00</p>
 <p>Briel,	Georg: Heeres Flak Btl. 606:	PHOTO: £15.00</p>
