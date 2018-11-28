@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Axis Forces Magazine
+title: Waffen-SS Knight's Cross holders
 permalink: /axisforces.html
 ---
 
@@ -42,7 +42,3 @@ permalink: /axisforces.html
 <p>Ullrich,	Karl:	(Oakleaves): 3. SS-Panzer Division "Totenkopf":	PHOTO, +1 copy PHOTO:	£35.00
 <p>Weidinger,	Otto:	(Swords): 2. SS-Panzer Division "Das Reich": PHOTO (clipped)		£20.00
 <p>Zeiher,	Robert:	SS Radolfzell:	PHOTO: £25.00</p>
-<br />
-<p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
-  
-
