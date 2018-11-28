@@ -20,7 +20,7 @@ class: book_cover
 <p>Matheja,	Siegmund: Panzerhaubitzen Abteilung "GD":	  PHOTO (postwar), LETTER: £15.00</p>
 <p>Remer,	Otto-Ernst (Oakleaves):	Gren. Rgt. "Grossdeutschland":	  PHOTO: £20.00</p>
 <p>Röger,	Hans: Pz. Fus. Rgt. "Grossdeutschland":	  PHOTO, LETTER:	£20.00</p>
-<p>Schrödter	Erich	(Oakleaves): Pz. Aufk. Abt. "Grossdeutschland":	  PHOTO, LETTER, PRINT OUT (signed), PRINT OUT:	£35.00</p>
+<p>Schrödter	Erich	(Oakleaves): Pz. Aufk. Abt. "GD":	  PHOTO, LETTER, PRINT OUT (signed), PRINT OUT:	£35.00</p>
 <p>Sommer,	Clemens: Pz.Gren.Rgt. "Grossdeutschland":	  PHOTO, NOTE, ENVELOPE, CV:	£25.00</p>
 <p>Später,	Helmuth: Grossdeutschland & Brandenburg:	  PHOTO, LETTER, CV, ENVELOPE:	£30.00</p>
 <p>Strojek,	Helmut: Gren. Rgt. 986, 276. "GD":	  PHOTO, LETTER, CV, ENVELOPE:	£30.00</p>
