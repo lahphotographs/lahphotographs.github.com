@@ -6,83 +6,46 @@ permalink: /axisforces.html
 
 <div id="axisforces">
 
-  <h3>"Axis Forces - WW2 magazine"</h3>
+  <h3>"Waffen-SS Knight's Cross Holders"</h3>
   
-  <p>New magazine (booklet) of military history (English language) dedicated to German and Axis forces.</p>
-
-  <p>Format: 25.5 X 18</p>
-  <p>Pages: 80 approx</p>
-  <p>Price £10.00, postage extra</p>
-  <p>Publisher: Massimiliano Afiero</p>
-  <p>Printed quarterly</p> 
-  
-  <br />
-  
-  <h3>Edition 1 (January 2017) Contents</h3>
-  <img src="./assets/Axis Forces cover 1.jpg" alt="Axis Forces first edition" class="books" />
-  
-  <p>April 1941: SS motorcyclists in Belgrade</p>
-  <p>SS cavalry units on the Eastern Front, Autumn-Winter 1941-42</p>
-  <p>LUARITS JENSEN Free Corps Denmark</p>
-  <p>The French volunteers of N.S.K.K motorgruppe Luftwaffe</p>
-  <p>The SS-Division Wiking in the Caucasus: Autumn 1942</p>
-  <p>Foreign Volunteer Legion Stamp Propaganda in the Third Reich</p>
-  
-  <br />
-  
-  <h3>Edition 2 (April 2017) contents</h3>
-  <img src="./assets/Axis Forces cover 2.jpg" alt="Axis Forces second edition" class="books" />
-  
-  <p>Flemish Legion</p>
-  <p>Felix Steiner and the European Volunteers</p>
-  <p>The Wiking and the battles in the Izyum area, July 1943</p>
-  <p>SS-Unterscharführer Max Rudolf Pesarra</p>
-  <p>The Italian SS Legion</p>
-  <p>Foreign Volunteer Legion Military Award & Insignia</p>
-  
-  <br />
-  
-  <h3>Edition 3 (July 2017) contents</h3>
-  <img src="./assets/Axis Forces cover 3.jpg" alt="Axis Forces third edition" class="books" />
-  
-  <p>Attack against the ‘Stalin Line’</p>
-  <p>Karl Nicolussi-Leck, Italian Volunteer in the Waffen-SS</p>
-  <p>The “MONTEROSA” Alpine Division of the R.S.I.</p>
-  <p>Spanish in the Waffen-SS</p>
-  <p>German perception of volunteers of the Muslim division of the SS</p>
-  <p>A Swedish Hero: Gösta Hallberg-Cuula</p>
-  
-  <br />
-  <br />
-  
-  <h3>Edition 4 (October 2017) contents</h3>
-  <img src="./assets/Axis Forces cover 4.jpg" alt="Axis Forces fourth edition" class="books" />
-  
-  <p>The battle for Narva, 1944</p>
-  <p>Heinrich Sonne, Knight's Cross Holder with the 1.SS-Inf.Brigade</p>
-  <p>The "MONTEROSA" Alpine Division of the R.S.I.</p>
-  <p>The 14. SS-Freiwilligen-Division Galizische</p>
-  <p>Japan in War</p>
-  <p>Eastern Volunteers insignia</p>
-  
-  <br />
-  <br />
-  
-  <h3>Edition 5 (January 2018) contents</h3>
-  <img src="./assets/Axis 005.jpg" alt="Axis Forces fifth edition" class="books" />
-  
-  <p>The battle for Narva, 1944 – 2nd part</p>
-  <p>Georg Diers – (s) SS-Pz. Abt. 503 Tank Commander</p>
-  <p>The Albanian element of Waffen-SS</p>
-  <p>The Leibstandarte with Army Group North</p>
-  <p>Hungarian Armored Forces in WW2</p>
-  <p>Italian Eastern Front Awards</p>
-
+<p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
+<br />
+<br />
+<p>Bachmann,	Erwin: 10. SS-Pz. Div. "Frundsberg":	PHOTO, ENVELOPE:	£30.00
+<p>Barkmann,	Ernst: 2. SS-Pz. Div. "Das Reich":	PHOTO:	£30.00
+<p>Beßlein,	Georg-Robert:	Festung Breslau:	PHOTO, LETTER:	£25.00
+<p>Brosow,	Siegfried: 2. SS-Division "Das Reich":	PHOTO:	£25.00
+<p>Buck,	Friedrich:	SS-Kavallerie "Florian Geyer":	PHOTO, LETTER, PRINT OUT (signed):	£35.00
+<p>Darges,	Fritz: 5. SS-Panzer Division "Wiking":	PHOTO:	£35.00
+<p>Euling,	Karl-Heinz:	10. SS-Pz. Div. "Frundsberg":	PHOTO, LETTER, PRINT OUT:	£25.00
+<p>Fiedler,	Johann:	3. SS-Pz.Div. "Totenkopf":	PHOTO:	£25.00
+<p>Frey,	Albert:	(Oakleaves):1. SS-Pz. Div. "LSSAH":	PHOTO: 	£30.00
+<p>Gieseler,	Karl-Heinz:	11. SS-Pz.Gren.Div. "Nordland": LETTER (signed) and CV (signed):	£20.00
+<p>Göhler,	Johannes:	8. SS-Kav. Div. "Florian Geyer":	PHOTO, NOTE:	£30.00
+<p>Hampel,	Desiderius: 13. SS-Gebirgs. Div. "Handschar":	PHOTO, ENVELOPE:	£30.00
+<p>Henke,	Fritz: LSSAH Sturmgeschütz:	PHOTO: £25.00
+<p>Jürgens,	Heinz: 4. SS-Polizei Division:	PHOTO, LETTER:	£30.00
+<p>Kam,	Sören: 5. SS-Panzer Division "Wiking":	PHOTO:	£25.00
+<p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO, LETTER, CV: £35.00
+<p>Macher,	Heinz:	(Oakleaves)	: 2. SS-Panzer Division "Das Reich":	PHOTO:	£30.00
+<p>Nicolussi-Leck,	Karl:	5. SS-Panzer Divisions "Wiking": PHOTO, LETTER, ENVELOPE:	£25.00
+<p>Nugiseks,	Harald:	20. SS-Division (Estnische Nr. 1):	PHOTO: 	£15.00
+<p>Reber,	Gustav-Peter:	Kampfgruppe XI. SS-Panzer Korps:	PHOTO:	£15.00
+<p>Riedel,	Franz:	10. SS-Panzer Div. "Frundsberg": PHOTO:	£25.00
+<p>Rieflin,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO, ENVELOPE:	£30.00
+<p>Rudolf,	Richard: 12. SS-Panzer Div. "Hitlerjugend":	PHOTO:	£25.00
+<p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO:	£25.00
+<p>Schmidt,	Walter:	(Oakleaves): 5. SS-Panzer Division "Wiking":	PHOTO (colour):	£35.00
+<p>Schnaubelt,	Alois: 5. SS-Panzer Division "Wiking":	PHOTO:	£15.00
+<p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £25.00
+<p>Senghas,	Paul:	5. SS-Panzer Division "Wiking":	PHOTO (clipped), LETTER, ENVELOPE: £30.00
+<p>Springer,	Heinrich:	1. SS-Pz. Div. "LSSAH":	PHOTO, + 1 copy PHOTO:	£35.00
+<p>Ullrich,	Karl:	(Oakleaves): 3. SS-Panzer Division "Totenkopf":	PHOTO, +1 copy PHOTO:	£35.00
+<p>Weidinger,	Otto:	(Swords): 2. SS-Panzer Division "Das Reich": PHOTO (clipped)		£20.00
+<p>Zeiher,	Robert:	SS Radolfzell:	PHOTO: £25.00</p>
   <br />
   <br />
   <br />
+  <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
   
-  <h3>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></h3>
-
-</div>
 
