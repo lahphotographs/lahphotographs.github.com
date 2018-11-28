@@ -6,10 +6,9 @@ permalink: /axisforces.html
 
 <div id="axisforces">
 
-  <h3>"Waffen-SS Knight's Cross Holders"</h3>
+  <h3>Waffen-SS Knight's Cross Holders</h3>
   
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
-<br />
 <br />
 <p>Bachmann,	Erwin: 10. SS-Pz. Div. "Frundsberg":	PHOTO, ENVELOPE:	£30.00
 <p>Barkmann,	Ernst: 2. SS-Pz. Div. "Das Reich":	PHOTO:	£30.00
@@ -43,9 +42,7 @@ permalink: /axisforces.html
 <p>Ullrich,	Karl:	(Oakleaves): 3. SS-Panzer Division "Totenkopf":	PHOTO, +1 copy PHOTO:	£35.00
 <p>Weidinger,	Otto:	(Swords): 2. SS-Panzer Division "Das Reich": PHOTO (clipped)		£20.00
 <p>Zeiher,	Robert:	SS Radolfzell:	PHOTO: £25.00</p>
-  <br />
-  <br />
-  <br />
-  <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
+<br />
+<p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
   
 
