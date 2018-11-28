@@ -43,4 +43,3 @@ class: book_cover
 <p>Wiebe,	Karl-Heinz: (U-178):	PHOTO:	£15.00</p>
 <p>Witte,	Helmut: (U-159):	PHOTO, LETTER, CV, PRINT OUT, ENVELOPE: £35.00</p>
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
-</div>
