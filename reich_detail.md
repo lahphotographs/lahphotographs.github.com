@@ -7,7 +7,7 @@ class: book_cover
 ---
 
 <img src="./assets/Reich main cover 2.png" id="detail" class="center"/>
-<p>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on 'Grossdeutschland" and the (schwere) Panzer Abteilungen</p>
+<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on 'Grossdeutschland" and the (schwere) Panzer Abteilungen</b></p>
 <p>Anding	Friedrich,	Grossdeutschland Pz.Jg. Abt,	Photo: £25.00</p>
 <p>Beck-Broichsitter	Helmut, Grossdeutschland Pz.Jg. Kp., Photo, letter:	£20.00</p>
 <p>Burmester	Hans-Jürgen, (schwere) Panzer Abteilung 509,	Photo, letter, note: £25.00</p>
@@ -39,5 +39,4 @@ class: book_cover
 <p>Werthern, von	Freiherr Thilo, Schutzen Regiment 394 & "GD",	Photo, CV, envelope:	£25.00</p>
 <p>Wietersheim, von	Walter, Grossdeutschland Panzer Reg., Photo, envelope:	£20.00</p>
 <p>Wirsching	Maximilian, (schwere) Panzer Abteilung 507,	Photo, letter: £20.00</p>
-<p>Once that fighting concluded, he was taken prisoner and spent 5 years in Soviet prisoner of war camps.</p>
 </div>
