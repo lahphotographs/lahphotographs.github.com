@@ -6,7 +6,6 @@ permalink: /published.html
 
 <div id="publishedByLAH">
 
-<h3>Fallschirmjäger Knight's Cross holders</h3>
 <img src="./assets/elite.png"/>
 <p><b>Below is a selection of Fallschirmjäger Knight's Cross holder photographs currently for sale.</b></p>
 <br />
