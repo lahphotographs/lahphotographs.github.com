@@ -1,13 +1,13 @@
 ---
 layout: page
-title: For the defence of Berlin
+title: Kriegsmarine Knight's Cross holders
 permalink: /berlin_detail.html
 slider: true
 class: book_cover
 ---
 
 <img src="./assets/Berlin front cover.jpg" id="detail" class="center"/>
-<p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, initially focusing on the U-Boat men.</b></p>
+<p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, initially focusing on the U-Boat men.</b><br />
 <p>Bargsten,	Klaus: (U-521):	PHOTO, LETTER: £20.00</p>
 <p>Bielig,	Gerhard: (U-177):	PHOTO, CV: £20.00</p>
 <p>Brasack,	Paul: (U-737):	PHOTO: £15.00</p>
@@ -42,4 +42,5 @@ class: book_cover
 <p>Westphalen,	Otto: (U-121, U-968):	PHOTO, ENVELOPE: £20.00</p>
 <p>Wiebe,	Karl-Heinz: (U-178):	PHOTO:	£15.00</p>
 <p>Witte,	Helmut: (U-159):	PHOTO, LETTER, CV, PRINT OUT, ENVELOPE: £35.00</p>
+<br />
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
