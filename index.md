@@ -9,7 +9,7 @@ layout: default
     <li><a href="./berlin_detail.html">Kriegsmarine Knight's Cross holder photos for sale</a></li>
     <li><a href="./books.html">Luftwaffe Knight's Cross holder photos for sale</a></li>
     <li><a href="./axisforces.html">Waffen-SS Knight's Cross holder photos for sale</a></li>
-    <li><a href="./published.html">Fallshirmjaeger Knight's Cross holder photos for sale</a></li>
+    <li><a href="./published.html">Fallschirmjaeger Knight's Cross holder photos for sale</a></li>
     <li><a href="./europeanvolunteer.html">Afrika Korps Knight's Cross holder photos for sale</a></li>
     <li><a href="./signedphotos.html">Loyalty and Honour Publishing / books</a></li>
     <li><a href="./testimonials.html">Customer Testimonials</a></li>
