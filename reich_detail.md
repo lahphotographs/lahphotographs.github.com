@@ -8,6 +8,7 @@ class: book_cover
 
 <img src="./assets/Reich main cover 2.png" id="detail" class="center"/>
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on: 'Grossdeutschland' and the (schwere) Panzer Abteilungen.</b></p>
+<br />
 <p><b><center>'GROSSDEUTSCHLAND'</center></b></p>
 <p>Anding,	Friedrich:	Grossdeutschland Pz.Jg. Abt:	  PHOTO: £25.00</p>
 <p>Beck-Broichsitter,	Helmut: Grossdeutschland Pz.Jg. Kp.:   PHOTO, LETTER:	£20.00</p>
@@ -28,6 +29,7 @@ class: book_cover
 <p>Wegner,	Wilhelm: Sturmgeschütz Abt. "GD":	  PHOTO (clipped):	£10.00</p>
 <p>Werthern, von	Freiherr Thilo: Schutzen Regiment 394 & "GD":	  PHOTO, CV, ENVELOPE:	£25.00</p>
 <p>Wietersheim, von	Walter: Grossdeutschland Panzer Reg.:   PHOTO, ENVELOPE:	£20.00</p>
+<br />
 <p><b><center>'(schwere) PANZER ABTEILUNGEN'</center></b></p>
 <p>Burmester,	Hans-Jürgen: (schwere) Panzer Abteilung 509:	  PHOTO, LETTER, NOTE: £25.00</p>
 <p>Diest-Körber, von	Ernst Nordewin: (schwere) Panzer Abteilung 503:	  PHOTO, LETTER, CV, ENVELOPE: £30.00</p>
@@ -41,6 +43,5 @@ class: book_cover
 <p>Reuter,	Erich: (schwere) Panzerjäger Abt. 519:	  PHOTO, LETTER, ENVELOPE, PRINT OUT:	£30.00</p>
 <p>Scherf,	Walter: (schwere) Panzer Abteilung 503:	  PHOTO: £15.00</p>
 <p>Wirsching,	Maximilian: (schwere) Panzer Abteilung 507:	  PHOTO, LETTER: £20.00</p>
-<p></p>
-<p></p>
+<br />
 <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
