@@ -29,7 +29,8 @@ class: book_cover
 <p>Werthern, von	Freiherr Thilo: Schutzen Regiment 394 & "GD":	  PHOTO, CV, ENVELOPE:	£25.00</p>
 <p>Wietersheim, von	Walter: Grossdeutschland Panzer Reg.:   PHOTO, ENVELOPE:	£20.00</p>
 <p></p>
-(/div>
+<p></p>
+<p></p>
 <p>Burmester,	Hans-Jürgen: (schwere) Panzer Abteilung 509:	  PHOTO, LETTER, NOTE: £25.00</p>
 <p>Diest-Körber, von	Ernst Nordewin: (schwere) Panzer Abteilung 503:	  PHOTO, LETTER, CV, ENVELOPE: £30.00</p>
 <p>Ernst,	Albert: (schwere) Panzerjäger-Abt. 519:	  PHOTO, LETTER, ENVELOPE: £25.00</p>
