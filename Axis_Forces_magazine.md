@@ -5,8 +5,6 @@ permalink: /axisforces.html
 ---
 
 <div id="axisforces">
-
-  <h3>Waffen-SS Knight's Cross Holders</h3>
   
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
