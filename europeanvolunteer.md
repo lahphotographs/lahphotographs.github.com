@@ -6,7 +6,6 @@ permalink: /europeanvolunteer.html
 
 <div id="europeanvolunteer">
 
-  <h3>Afrika Korps Knight's Cross Holders</h3>
   
 <p><b>Below is a selection of Afrika Korps Knight's Cross holder photographs currently for sale.</b></p>
 <br />
