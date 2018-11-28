@@ -1,30 +1,43 @@
 ---
 layout: page
-title: For the defence of the Reich
+title: Heer Knight's Cross holder photographs
 permalink: /reich_detail.html
 slider: true
 class: book_cover
 ---
 
 <img src="./assets/Reich main cover 2.png" id="detail" class="center"/>
-<p>This latest publication covers the memoirs of Klaus Grotjahn.  He was a member of the Hitler Youth and served on a searchlight crew in Dusseldorf, before being sent to Stettin when he turned 16 years old. He was assigned to the crew of an 88mm Flak gun and that crew is credited with shooting down 5 enemy aircraft and also the destruction of 5 enemy tanks.</p>
-<p>In early-April 1945, Klaus was sent into Berlin as the Soviet troops made their way through Pommerania. Due to that move, he was caught up in the final battle for the capital of the Third Reich.</p>
+<p>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on 'Grossdeutschland" and the (schwere) Panzer Abteilungen</p>
+<p>Anding	Friedrich,	Grossdeutschland Pz.Jg. Abt,	Photo: £25.00</p>
+<p>Beck-Broichsitter	Helmut, Grossdeutschland Pz.Jg. Kp., Photo, letter:	£20.00</p>
+<p>Burmester	Hans-Jürgen, (schwere) Panzer Abteilung 509,	Photo, letter, note: £25.00</p>
+<p>Diest-Körber, von	Ernst Nordewin, (schwere) Panzer Abteilung 503,	Photo, letter, CV, envelope: £30.00</p>
+<p>Ernst	Albert, (schwere) Panzerjäger-Abt. 519,	Photo, letter, envelope: £25.00</p>
+<p>Fabian	Heinz-Otto (Oakleaves), Fuhrer Begleit Brigade "GD",	Note and envelope only:	£15.00</p>
+<p>Fabich	Maximilian, Panzer Fusilier Regiment "GD",	Photo, letter, unsigned photo: £20.00</p>
+<p>Frantz	Peter (Oakleaves), Grossdeutschland Sturmgeschütz,	Photo, envelope: £20.00</p>
+<p>Gebhardt	Rolf, (schwere) Panzer Abteilung 507,	Photo: £15.00</p>
+<p>Jähde	Willy, (schwere) Panzer Abteilung 502, Photo, note, envelope:	£25.00</p>
+<p>Kagenek, von	Graf Clemens-Heinrich	(Oakleaves), (schwere) Panzer Abteilung 503,	Photo (colour): £25.00</p>
+<p>Kerscher	Albert, (schwere) Panzer Abteilung 502,	Photo: £15.00</p>
+<p>Klemz	Bernhard, Panzer Regt. Grossdeutschland, Photo:	£15.00</p>
+<p>Koltermann	Wolfgang, (schwere) Panzer Abteilung 507,	Photo, letter, CV, address label:	£30.00</p>
+<p>Konopka	Gerhard, Gren. Rgt. Grossdeutschland,	Photo (colour), letter:	£25.00</p>
+<p>Kreßmann	Erwin, (schwere) Panzerjäger-Abt. 519,	Photo:	£15.00</p>
+<p>Matheja	Siegmund, Panzerhaubitzen Abteilung "GD",	Photo (postwar), letter: £15.00</p>
+<p>Remer	Otto-Ernst (Oakleaves),	Gren. Rgt. "Grossdeutschland",	Photo: £20.00</p>
+<p>Reuter	Erich, (schwere) Panzerjäger Abt. 519,	Photo, letter, envelope, print out:	£30.00</p>
+<p>Röger	Hans, Pz. Fus. Rgt. "Grossdeutschland",	Photo, letter:	£20.00</p>
+<p>Scherf	Walter, (schwere) Panzer Abteilung 503,	Photo: £15.00</p>
+<p>Schrödter	Erich	(Oakleaves), Pz. Aufk. Abt. "Grossdeutschland",	Photo, letter, print out (signed), print out:	£35.00</p>
+<p>Sommer	Clemens, Pz.Gren.Rgt. "Grossdeutschland",	Photo, note, envelope, CV:	£25.00</p>
+<p>Später	Helmuth, Grossdeutschland & Brandenburg,	Photo, letter, CV, envelope:	£30.00</p>
+<p>Strojek	Helmut, Gren. Rgt. 986, 276. "GD",	Photo, letter, CV, envelope:	£30.00</p>
+<p>Tornau	Gottfried, Sturmartillerie Brigade "GD",	Photo, letter, signed CV:	£25.00</p>
+<p>Wätjen	Rudolf, Pz. Aufkl. Abt. "Großdeutschland",	Letter only: £10.00</p>
+<p>Wegner	Wilhelm, Sturmgeschütz Abt. "GD",	Photo (clipped):	£10.00</p>
+<p>Werthern, von	Freiherr Thilo, Schutzen Regiment 394 & "GD",	Photo, CV, envelope:	£25.00</p>
+<p>Wietersheim, von	Walter, Grossdeutschland Panzer Reg., Photo, envelope:	£20.00</p>
+<p>Wirsching	Maximilian, (schwere) Panzer Abteilung 507,	Photo, letter: £20.00</p>
 <p>Once that fighting concluded, he was taken prisoner and spent 5 years in Soviet prisoner of war camps.</p>
-<ul class="over">
-  <li>225 pages</li>
-  <li>A5, hardbacked book, full gloss internal pages</li>
-  <li>90 photographs / documents - the vast majority from the personal archive of Klaus Grotjahn</li>
-  <li>Price is £22.50 (postage to be confirmed at the time of order)</li>
-  <li>Limited Edition signed by Klaus Grotjahn: Price is £32.50 (postage to be confirmed at the time of order)</li>
-  <li>Signed photographs of Klaus Grotjahn are also available: Price is £10.00 each (4 to choose from)</li>
-</ul>
-
-<div id="folio" class="svwp">
-  <ul>
-    <li><img alt="Contents page" src="./assets/Reich full cover 2.png" /></li>
-    <li><img alt="Internal page" src="./assets/Reich dad.png" /></li>
-    <li><img alt="Additional internals" src="./assets/Reich internal 1.png" /></li>
-    <li><img alt="Full cover" src="./assets/Reich internal 2.png" /></li>
-    <li><img alt="Cover edge" src="./assets/Reich internal 3.png" /></li>
-  </ul>
 </div>
