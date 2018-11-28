@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Books By The Same Author
+title: Luftwaffe Knight's Cross holders
 permalink: /books.html
 
 ---
 <div id="booksBySameAuthor">
-  <h3>Waffen-SS Knights and their Battles Volume 4: January - May 1944</h3>
+  <h3>Luftwaffe Knight's Cross holders</h3>
   <img src="./assets/Waffen-SS Knights V4 cover.jpg" alt="Waffen-SS Knights and their Battles Volume 4" class="books" />
 <p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, initially focusing on the Night-Fighter men.</b></p>
 <p>Bahr,	Günther:	NJG6:	PHOTO, LETTER, KILL LIST:	£25.00</p>
@@ -36,5 +36,3 @@ permalink: /books.html
 <p>Streib,	Werner:	(Swords):	NJG1:	PHOTO, NOTE: £30.00</p>
 <p>Zorner,	Paul:	(Oakleaves): NJG3:	PHOTO, PRINT OUT: £25.00</p>
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
-</div>
-
