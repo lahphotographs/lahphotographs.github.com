@@ -51,5 +51,4 @@ permalink: /published.html
 <p>Vitali,	Viktor:	Fallschirmjäger Regiment 1:	Photo: £25.00
 <p>Wangerin,	Friedrich-Wilhelm: Fallschirmjäger Regiment 16:	Photo, letter, envelope: £35.00
 <p>Witzig,	Rudolf	(Oakleaves):Fallschirmjäger Strm. Abt. "Koch":	Photo:	£40.00</p>
-<br />
-<p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
+
