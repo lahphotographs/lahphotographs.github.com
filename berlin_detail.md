@@ -33,8 +33,8 @@ class: book_cover
 <p>Öhrn,	Victor: U-Boot (U-37):	PHOTO, LETTER: £20.00</p>
 <p>Östen,	Jürgen: U-Boot (U-106):	PHOTO, LETTER, CV: £25.00</p>
 <p>Olschewski,	Georg: U-Boot (U-66):	PHOTO: £15.00</p>
-<p>Rösing,	Hans Rudolf: U-Boot (U-48):	PHOTO (clipped), CV, LETTER, signed PRINT OUT: £25.00</p>
-<p>Rohweder,	Hellmut: U-Boot (U-69, U-514):	PHOTO, CV (3pges): £20.00</p>
+<p>Rösing,	Hans Rudolf: U-Boot (U-48):	PHOTO (clipped), CV, LETTER, PRINT OUT (signed): £25.00</p>
+<p>Rohweder,	Hellmut: U-Boot (U-69, U-514):	PHOTO, CV (3 pages): £20.00</p>
 <p>Schnee,	Adalbert	(Oakleaves): U-Boot (U-201)	PHOTO: £20.00</p>
 <p>Schröteler,	Heinrich: U-Boot (U-1023):	PHOTO, LETTER, ENVELOPE, CV: £25.00</p>
 <p>Schröter, von	Horst: U-Boot (U-123):	PHOTO: £15.00</p>
@@ -42,5 +42,5 @@ class: book_cover
 <p>Westphalen,	Otto: U-Boot (U-121, U-968):	PHOTO, ENVELOPE: £20.00</p>
 <p>Wiebe,	Karl-Heinz: U-Boot (U-178):	PHOTO:	£15.00</p>
 <p>Witte,	Helmut: U-Boot (U-159):	PHOTO, LETTER, CV, PRINT OUT, ENVELOPE: £35.00</p>
-<p>bove? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
+<p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
 </div>
