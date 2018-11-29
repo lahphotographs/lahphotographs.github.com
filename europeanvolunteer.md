@@ -5,8 +5,13 @@ permalink: /europeanvolunteer.html
 ---
 
 <div id="europeanvolunteer">
-
-  
+<p float="left">
+<img src="./assets/Emil Berner.jpg"/>
+<img src="./assets/Kurt Kuhlmey.jpg"/>
+<img src="./assets/Werner Mildebrath.jpg"/>
+<img src="./assets/Konrad Rittmeyer.jpg"/>
+</p>  
+<br />
 <p><b>Below is a selection of Afrika Korps Knight's Cross holder photographs currently for sale.</b></p>
 <br />
 <p><b><centre>Heer</centre></b></p>
