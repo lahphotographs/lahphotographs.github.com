@@ -5,7 +5,13 @@ permalink: /books.html
 
 ---
 <div id="booksBySameAuthor">
-  <img src="./assets/Waffen-SS Knights V4 cover.jpg" alt="Waffen-SS Knights and their Battles Volume 4" class="books" />
+  <p float="left">
+<img src="./assets/Kurt Bundrock.jpg"/>
+<img src="./assets/Josef Flogel.jpg"/>
+<img src="./assets/Josef Kammhuber.jpg"/>
+<img src="./assets/Hans-Georg Shierholz.jpg"/>
+</p>  
+<br />
 <p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, initially focusing on the Night-Fighter men.</b></p>
 <p>Bahr,	Günther:	NJG6:	PHOTO, LETTER, KILL LIST:	£25.00</p>
 <p>Becker,	Martin: (Oakleaves):NJG6:	PHOTO, PRINT OUT: £20.00</p>
