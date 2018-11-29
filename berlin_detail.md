@@ -6,7 +6,13 @@ slider: true
 class: book_cover
 ---
 
-<img src="./assets/Berlin front cover.jpg" id="detail" class="center"/>
+<p float="left">
+<img src="./assets/Alfred Eick.jpg"/>
+<img src="./assets/Paul Brasack.jpg"/>
+<img src="./assets/Carl Landfermann.jpg"/>
+<img src="./assets/Otto Westphalen.jpg"/>
+</p>  
+<br />
 <p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, initially focusing on the U-Boat men.</b><br />
 <p>Bargsten,	Klaus: (U-521):	PHOTO, LETTER: £20.00</p>
 <p>Bielig,	Gerhard: (U-177):	PHOTO, CV: £20.00</p>
