@@ -8,8 +8,11 @@ class: book_cover
 
 <p float="left">
 <img src="./assets/Friedrich Anding.jpg"/>
+<br />
 <img src="./assets/Hans Roger.jpg"/>
+<br />
 <img src="./assets/Albert Ernst.jpg"/>
+<br />
 <img src="./assets/Willy Jahde.jpg"/>
 </p>  
 <br />
