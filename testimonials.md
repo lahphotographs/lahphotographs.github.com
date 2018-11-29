@@ -8,7 +8,7 @@ maps: true
 <br />
 <p>These templates contain the key details of the soldier's career, including: command positions held, awards obtained and campaigns fought in; they also contain military unit emblems that the person served within.</p>
 <br />
-<p>Each template is printed on different colour paper for each arms of service (Green for Heer, Blue for Luftwaffe and Kriegsmarine, Biege for Waffen-SS). They cost an additional £15.00 per template. If you would like any to go with your photo, please allow time to create each one; something that can discussed at the time of your order.</p>
+<p>Each template is printed on different colour paper for each arms of service (Green for Heer, Blue for Luftwaffe and Kriegsmarine, Biege for Waffen-SS). They cost an additional £15.00 per template. If you would like a template to go with your photo, please allow time to create each one; something that can discussed at the time of your order.</p>
 <p>
 <img src="./assets/Hajo Hermann template.jpg"/>
 <img src="./assets/Alfred Grislawski template.jpg"/>
