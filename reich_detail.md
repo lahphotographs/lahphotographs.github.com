@@ -6,7 +6,7 @@ slider: true
 class: book_cover
 ---
 
-<img src="./assets/Reich main cover 2.png" id="detail" class="center"/>
+<img src="./assets/Friedrich Anding.jpg" id="detail" class="center"/>
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on: 'Grossdeutschland' and the (schwere) Panzer Abteilungen.</b></p>
 <br />
 <p><b><center>'GROSSDEUTSCHLAND'</center></b></p>
