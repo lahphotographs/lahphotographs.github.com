@@ -12,7 +12,7 @@ layout: default
     <li><a href="./published.html">Fallschirmjäger Knight's Cross holder photos for sale</a></li>
     <li><a href="./europeanvolunteer.html">Afrika Korps Knight's Cross holder photos for sale</a></li>
     <li><a href="./signedphotos.html">Loyalty and Honour Publishing / books</a></li>
-    <li><a href="./testimonials.html">Customer Testimonials</a></li>
+    <li><a href="./testimonials.html">Photo mounting options</a></li>
     <li><a href="./contact.html">Contact LAH Photographs</a></li>
     <li><a href="./shows.html">Shows we're attending </a></li>
     <li><a href="./payment&postage.html">Payment Methods &amp; Postage costs </a></li>
