@@ -7,6 +7,10 @@ class: book_cover
 ---
 
 <img src="./assets/Friedrich Anding.jpg" id="detail" class="center"/>
+<img src="./assets/Hans Roger.jpg" id="detail" class="center"/>
+<img src="./assets/Albert Ernst.jpg" id="detail" class="center"/>
+<img src="./assets/Willy Jahde.jpg" id="detail" class="center"/>
+<br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on: 'Grossdeutschland' and the (schwere) Panzer Abteilungen.</b></p>
 <br />
 <p><b><center>'GROSSDEUTSCHLAND'</center></b></p>
