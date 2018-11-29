@@ -15,7 +15,7 @@ class: book_cover
 <p>Dammeier,	Heinrich: (U-270):	PHOTO, LETTER, ENVELOPE, CV: £30.00</p>
 <p>Dobratz,	Kurt Karl Anton: (U-1232):	PHOTO: £15.00</p>
 <p>Dommes,	Wilhelm: (U-431):	PHOTO, LETTER, 2 x PRINT OUTS:	£25.00</p>
-<p>Eick,	Alfred: (U-510):	PHOTO, LETTER, PRINT OUT: £25.00</p>
+<p>Eick,	Alfred: (U-510):	PHOTO, LETTER, PRINT OUT, CV: £30.00</p>
 <p>Franke,	Heinz: (U-262):	PHOTO, LETTER: £20.00</p>
 <p>Gelhaus,	Harald: (U-107):	PHOTO: £15.00</p>
 <p>Hardegen,	Reinhard: (U-123):	PHOTO: £20.00</p>
