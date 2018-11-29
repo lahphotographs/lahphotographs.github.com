@@ -6,10 +6,12 @@ slider: true
 class: book_cover
 ---
 
-<img src="./assets/Friedrich Anding.jpg" id="detail" class="center"/>
-<img src="./assets/Hans Roger.jpg" id="detail" class="center"/>
-<img src="./assets/Albert Ernst.jpg" id="detail" class="center"/>
-<img src="./assets/Willy Jahde.jpg" id="detail" class="center"/>
+<p float="left">
+<img src="./assets/Friedrich Anding.jpg"/>
+<img src="./assets/Hans Roger.jpg"/>
+<img src="./assets/Albert Ernst.jpg"/>
+<img src="./assets/Willy Jahde.jpg"/>
+</p>  
 <br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on: 'Grossdeutschland' and the (schwere) Panzer Abteilungen.</b></p>
 <br />
