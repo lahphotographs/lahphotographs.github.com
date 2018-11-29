@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Signed Knight's Cross holder photographs / documents
+title: Loyalty and Honour Publishing
 permalink: /signedphotos.html
 ---
 
 <div id="signedphotos">
   
-  <p>The previous list of signed Waffen-SS Knight's Cross holder photographs and documents have all been sold</p>
+  <p>Interested in obtaining books written about the personal histories of Waffen-SS soldiers? If yes, please click on the following link to view the titles currently available.</p>
 
-  <p>However, I am expecting delivery of a new batch (August 2018), so keep watching this space for details</p>
-  <p>Thanks</p>
