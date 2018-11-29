@@ -20,5 +20,5 @@ layout: default
 </nav>
 
 <div id="logo">
-  <img src="./assets/logo.png">
+  <img src="./assets/Voigtlander.gif">
 </div>
