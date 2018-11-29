@@ -5,7 +5,13 @@ permalink: /axisforces.html
 ---
 
 <div id="axisforces">
-  
+<p float="left">
+<img src="./assets/Erwin Bachmann.jpg"/>
+<img src="./assets/Soren Kam.jpg"/>
+<img src="./assets/Nicolussi-Leck.jpg"/>
+<img src="./assets/Walter Schmidt.jpg"/>
+</p>  
+<br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
 <p>Bachmann,	Erwin: 10. SS-Pz. Div. "Frundsberg":	PHOTO, ENVELOPE:	£30.00
