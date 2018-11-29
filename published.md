@@ -6,7 +6,13 @@ permalink: /published.html
 
 <div id="publishedByLAH">
 
-<img src="./assets/elite.png"/>
+<p float="left">
+<img src="./assets/Karl-Heinz Becker.jpg"/>
+<img src="./assets/Walter Liebing.jpg"/>
+<img src="./assets/Cord Tietjen.jpg"/>
+<img src="./assets/Heinz Trettner.jpg"/>
+</p>  
+<br />
 <p><b>Below is a selection of Fallschirmjäger Knight's Cross holder photographs currently for sale.</b></p>
 <br />
 <p>Becker,	Karl-Heinz	(Oakleaves): Fallschirmjäger Regiment 1:	Photo: £30.00
