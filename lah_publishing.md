@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loyalty and Honour Publishing
-permalink: /signedphotos.html
+permalink: /lah_publishing.html
 ---
 
 <div id="signedphotos">
