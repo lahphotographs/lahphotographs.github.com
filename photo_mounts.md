@@ -2,7 +2,6 @@
 layout: page
 title: Photo mounts
 permalink: /photo_mounts.html
-maps: true
 ---
 <p>Protecting your photos, whilst displaying them, is always a challenge. To potentially help in this key area, I have designed mounting templates. They can easily be stored in clear A4 wallets and kept in a folder. Alternatively, they can be mounted within an A3 frame easily, ready to be added to your wall.</p>
 <br />
