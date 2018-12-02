@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Waffen-SS Knight's Cross holders
-permalink: /axisforces.html
+permalink: /waffen_ss_photos.html
 ---
 
 <div id="axisforces">
