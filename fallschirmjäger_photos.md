@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fallschirmjäger Knight's Cross holders
-permalink: /published.html
+permalink: /fallschirmjäger_photos.html
 ---
 
 <div id="publishedByLAH">
