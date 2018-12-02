@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heer Knight's Cross holder photographs
-permalink: /reich_detail.html
+permalink: /heer_photos.html
 slider: true
 class: book_cover
 ---
