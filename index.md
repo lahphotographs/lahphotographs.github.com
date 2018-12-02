@@ -5,7 +5,7 @@ layout: default
 <nav>
   <ul class="over">
     <li><a href="./about.html">About LAH Photographs</a></li>
-    <li><a href="./reich_detail.html">Heer Knight's Cross holder photos for sale</a></li>
+    <li><a href="./heer_photos.html">Heer Knight's Cross holder photos for sale</a></li>
     <li><a href="./berlin_detail.html">Kriegsmarine Knight's Cross holder photos for sale</a></li>
     <li><a href="./books.html">Luftwaffe Knight's Cross holder photos for sale</a></li>
     <li><a href="./axisforces.html">Waffen-SS Knight's Cross holder photos for sale</a></li>
