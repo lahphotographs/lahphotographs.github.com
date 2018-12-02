@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Luftwaffe Knight's Cross holders
-permalink: /books.html
+permalink: /luftwaffe_photos.html
 
 ---
 <div id="booksBySameAuthor">
