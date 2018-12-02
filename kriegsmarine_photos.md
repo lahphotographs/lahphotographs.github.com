@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kriegsmarine Knight's Cross holders
-permalink: /berlin_detail.html
+permalink: /kriegsmarine_photos.html
 slider: true
 class: book_cover
 ---
