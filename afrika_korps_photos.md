@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Afrika Korps Knight's Cross holders
-permalink: /europeanvolunteer.html
+permalink: /afrika_korps_photos.html
 ---
 
 <div id="europeanvolunteer">
