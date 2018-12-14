@@ -28,7 +28,6 @@ permalink: /fallschirmjäger_photos.html
 <p>Gericke,	Walter (Oakleaves): Fallschirmjäger Regiment 1:	Photo: £35.00
 <p>Germer,	Ernst: Fallschirmjäger Regiment 1:	Photo: £25.00
 <p>Gerstner,	Siegfried: Fallschirmjäger Regiment 1:	Photo, address card: £30.00
-<p>Gröschke,	Kurt	(Oakleaves): Fallschirmjäger Regiment 1:	Photo: £30.00
 <p>Herrmann,	Harry: Fallschirmjäger Regiment 1:	Photo: £35.00
 <p>Hübner,	Eduard:	1. Fallschirmjäger Armee:	Photo (clipped): £20.00
 <p>Jamrowski,	Siegfried: Fallschirmjäger Regiment 3:	Photo, letter: £30.00
@@ -55,5 +54,4 @@ permalink: /fallschirmjäger_photos.html
 <p>Veth,	Kurt:	Fallschirmjäger Regiment 3:	Photo: £25.00
 <p>Vitali,	Viktor:	Fallschirmjäger Regiment 1:	Photo: £25.00
 <p>Wangerin,	Friedrich-Wilhelm: Fallschirmjäger Regiment 16:	Photo, letter, envelope: £35.00
-<p>Witzig,	Rudolf	(Oakleaves):Fallschirmjäger Strm. Abt. "Koch":	Photo:	£40.00</p>
 
