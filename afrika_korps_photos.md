@@ -24,7 +24,6 @@ permalink: /afrika_korps_photos.html
 <p>Halm,	Günther: Panzer.Gren.Rgt. 104: PHOTO, LETTER, ENVELOPE:	£25.00</p>
 <p>Hißmann,	Josef: Heeres Flak Abt. 617:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
 <p>Mildebrath,	Werner:	Panzer Regiment 5:	PHOTO:	£15.00</p>
-<p>Nehring,	Walter (Swords): Afrikakorps C.O., General der Panzertruppen:	PHOTO (clipped):	£30.00</p>
 <p>Reißmann,	Werner:	Schutzen Regiment 104:	PHOTO:	£15.00</p>
 <p>Rittmeyer,	Konrad:	90. Leichte Afrika Div.:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
 <p>Zahn,	Dr. rer. Pol. Eberhard	(Oakleaves): Panzerjäger Abt. 33:	PHOTO:	£20.00</p>
