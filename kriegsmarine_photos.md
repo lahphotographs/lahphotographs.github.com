@@ -7,13 +7,13 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Heinz Birnbacher.jpg"/>
 <img src="./assets/Feldt.jpg"/>
 <img src="./assets/Kurt Fimmen.jpg"/>
 <img src="./assets/Ekkehard Martienssen.jpg"/>
-<img src="./assets/Alfred Muser.jpg"/>
 <img src="./assets/Hans Rehm.jpg"/>
 <img src="./assets/Hermann Witt.jpg"/>
+<img src="./assets/Heinz Birnbacher.jpg"/>
+<img src="./assets/Alfred Muser.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, this batch focusing on the S-Boat and other surface fleet naval-men.</b><br />
