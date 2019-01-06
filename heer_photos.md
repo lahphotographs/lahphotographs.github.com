@@ -7,44 +7,63 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Friedrich Anding.jpg"/>
-<img src="./assets/Hans Roger.jpg"/>
-<img src="./assets/Albert Ernst.jpg"/>
-<img src="./assets/Willy Jahde.jpg"/>
+<img src="./assets/Klaus Duwell.jpg"/>
+<img src="./assets/Leopold Schrems.jpg"/>
+<img src="./assets/Herbert Hodurek.jpg"/>
+<img src="./assets/Hans Rohr.jpg"/>
+<img src="./assets/Theodor Busse.jpg"/>
+<img src="./assets/Hellmuth Reymann.jpg"/>
+<img src="./assets/Adolf Raegener.jpg"/>
+<img src="./assets/Karl-Gunther von Hase.jpg"/>
+<img src="./assets/Leo Hartmann.jpg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, initially focusing on: 'Grossdeutschland' and the (schwere) Panzer Abteilungen.</b></p>
+<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: Gebrigsjäger and Festung related Knight's Crosses, or Commanders.</b></p>
 <br />
-<p><b><center>'GROSSDEUTSCHLAND'</center></b></p>
-<p>Anding,	Friedrich:	Grossdeutschland Pz.Jg. Abt:	  PHOTO: £25.00</p>
-<p>Beck-Broichsitter,	Helmut: Grossdeutschland Pz.Jg. Kp.:   PHOTO, LETTER:	£20.00</p>
-<p>Fabian,	Heinz-Otto (Oakleaves): Fuhrer Begleit Brigade "GD":	  NOTE and ENVELOPE only:	£15.00</p>
-<p>Fabich,	Maximilian: Panzer Fusilier Regiment "GD":	  PHOTO, LETTER, UNSIGNED PHOTO: £20.00</p>
-<p>Frantz,	Peter (Oakleaves): Grossdeutschland Sturmgeschütz:	  PHOTO, ENVELOPE: £20.00</p>
-<p>Klemz,	Bernhard: Panzer Regt. Grossdeutschland:   PHOTO:	£15.00</p>
-<p>Konopka,	Gerhard: Gren. Rgt. Grossdeutschland:	  PHOTO (colour), LETTER:	£25.00</p>
-<p>Matheja,	Siegmund: Panzerhaubitzen Abteilung "GD":	  PHOTO (postwar), LETTER: £15.00</p>
-<p>Röger,	Hans: Pz. Fus. Rgt. "Grossdeutschland":	  PHOTO, LETTER:	£20.00</p>
-<p>Schrödter	Erich	(Oakleaves): Pz. Aufk. Abt. "GD":	  PHOTO, LETTER, PRINT OUT (signed), PRINT OUT:	£35.00</p>
-<p>Sommer,	Clemens: Pz.Gren.Rgt. "Grossdeutschland":	  PHOTO, NOTE, ENVELOPE, CV:	£25.00</p>
-<p>Später,	Helmuth: Grossdeutschland & Brandenburg:	  PHOTO, LETTER, CV, ENVELOPE:	£30.00</p>
-<p>Strojek,	Helmut: Gren. Rgt. 986, 276. "GD":	  PHOTO, LETTER, CV, ENVELOPE:	£30.00</p>
-<p>Tornau,	Gottfried: Sturmartillerie Brigade "GD":	  PHOTO, LETTER, CV (signed):	£25.00</p>
-<p>Wätjen,	Rudolf: Pz. Aufkl. Abt. "Großdeutschland":	  LETTER only: £10.00</p>
-<p>Wegner,	Wilhelm: Sturmgeschütz Abt. "GD":	  PHOTO (clipped):	£10.00</p>
-<p>Werthern, von	Freiherr Thilo: Schutzen Regiment 394 & "GD":	  PHOTO, CV, ENVELOPE:	£25.00</p>
-<p>Wietersheim, von	Walter: Grossdeutschland Panzer Reg.:   PHOTO, ENVELOPE:	£20.00</p>
+<p><b><center>'GEBIRGSJÄGER</center></b></p>
+<p>Audenreith,	Georg:	Gebirgsjäger Regiment 99:	  PHOTO: £25.00</p>
+<p>Bachmaier,	Friedrich: Gebirgsjäger Regiment 100:   PHOTO, NOTE, ENVELOPE:	£25.00</p>
+<p>Bader,	Friedrich: Hochsgebirgsjäger Btl. 3:	  PHOTO, LETTER:	£20.00</p>
+<p>Burghartswieser,	Max: Gebirgsjäger Regiment 100:	  PHOTO, LETTER, PRINT OUT X 2: £25.00</p>
+<p>Clemente,	Ernst: Gebirgsjäger Regiment 13:	  PHOTO, LETTER, PRINT OUT X 2, ENVELOPE: £30.00</p>
+<p>Düwell,	Klaus: Gebirgsjäger Regiment 137:   PHOTO, LETTER:	£20.00</p>
+<p>Göttinger,	Rudolf: Gebirgsjäger Regiment 91:	  PHOTO, (COPY) LETTER:	£20.00</p>
+<p>Gsinn,	Josef: Hochgebirgsjäger Bataillon 3:	  PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Hengstler,	Friedrich: Gebirgsjäger Regiment 98:	  PHOTO:	£15.00</p>
+<p>Hodurek,	Herbert: Gebirgsjäger Regiment 144:	  PHOTO, LETTER:	£20.00</p>
+<p>Hörl,	Ludwig: Gebirgsjäger Regiment 91:	  PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Holzinger,	Anton: Gebirgsjäger Regiment 138:	  PHOTO, LETTER:	£20.00</p>
+<p>Kurz,	Karl: Gebirgsjäger Artillery Regiment 95:	  PHOTO:	£15.00</p>
+<p>Pfeiffer,	Franz: Gebirgsjäger Regiment 100:	  PHOTO, LETTER:	£20.00</p>
+<p>Pössinger,	Michael (Oakleaves): Gebirgsjäger Regiment 98:  PHOTO: £20.00</p>
+<p>Raithel,	Heribert: Gebirgsjäger Artillery Regiment 95:	  PHOTO:	£15.00</p>
+<p>Rall, Carl: Gebirgsjäger Regiment 98:	  PHOTO:	£15.00</p>
+<p>Rohr, Hans: Gebirgsjäger Regiment 139:   PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Ropp, Max: Gebirgsjäger Regiment 143:   PHOTO, ENVELOPE, NOTE, 2 X LETTERS:	£30.00</p>
+<p>Rüf, Karl: Gebirgsjäger Regiment 143:   PHOTO:	£15.00</p>
+<p>Schmied, Lorenz: Gebirgsjäger Regiment 100:   PHOTO:	£15.00</p>
+<p>Schrems, Leopold: Gebirgsjäger Regiment 85:   PHOTO, ENVELOPE:	£20.00</p>
+<p>Schuler, Emil: Gebirgsjäger Regiment 218:   PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Stautner, Ludwig: Gebirgsjäger Regiment 139:   PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Strachwitz v. Groß-Zauche u. Camminetz, Graf Ernst: Gebirgsjäger Regiment 137:   PHOTO, LETTER:	£20.00</p>
+<p>Wittmann, August: Gebirgsjäger Artillery Reg. 95:   PHOTO:	£15.00</p>
+<p>Wriedt, Walter: Gebirgsjäger Regiment 138:   PHOTO, LETTER:	£20.00</p>
 <br />
-<p><b><center>'(schwere) PANZER ABTEILUNGEN'</center></b></p>
-<p>Burmester,	Hans-Jürgen: (schwere) Panzer Abteilung 509:	  PHOTO, LETTER, NOTE: £25.00</p>
-<p>Diest-Körber, von	Ernst Nordewin: (schwere) Panzer Abteilung 503:	  PHOTO, LETTER, CV, ENVELOPE: £30.00</p>
-<p>Gebhardt,	Rolf: (schwere) Panzer Abteilung 507:	  PHOTO: £15.00</p>
-<p>Jähde,	Willy: (schwere) Panzer Abteilung 502:   PHOTO, NOTE, ENVELOPE:	£25.00</p>
-<p>Kagenek, von	Graf Clemens-Heinrich	(Oakleaves): (schwere) Panzer Abteilung 503:	  PHOTO (colour): £25.00</p>
-<p>Kerscher,	Albert: (schwere) Panzer Abteilung 502:	  PHOTO: £15.00</p>
-<p>Koltermann,	Wolfgang: (schwere) Panzer Abteilung 507:	  PHOTO, LETTER, CV, ADDRESS LABEL:	£30.00</p>
-<p>Reuter,	Erich: (schwere) Panzerjäger Abt. 519:	  PHOTO, LETTER, ENVELOPE, PRINT OUT:	£30.00</p>
-<p>Scherf,	Walter: (schwere) Panzer Abteilung 503:	  PHOTO: £15.00</p>
-<p>Wirsching,	Maximilian: (schwere) Panzer Abteilung 507:	  PHOTO, LETTER: £20.00</p>
+<p><b><center>'Festung-related' Knight's Crosses / Commanders</center></b></p>
+<p>Barge,	Johannes: Festung Gren. Rgt. 'Kreta':	  PHOTO, NOTE: £20.00</p>
+<p>Biehler,	Ernst: GENERAL MAJOR Festung Frankfurt / Oder:	  PHOTO: £40.00</p>
+<p>Busse,	Theodor: GENERAL DER INFANTERIE 9. Armee Commander:	  PHOTO, ADDRESS CARD (SIGNED): £55.00</p>
+<p>Delius,	Paul: Festungs Komm. Abschnitt 44:	  PHOTO, LETTER: £20.00</p>
+<p>Grehl,	Heinz: Festung Breslau:   PHOTO:	£15.00</p>
+<p>Hartmann, Leo: Panzerjäger Abteilung Breslau:	  PHOTO: £15.00</p>
+<p>Hase, von,	Karl-Günther: Festung Schneidemühl:	  PHOTO: £15.00</p>
+<p>Hempel,	Alfred: Festung Kolberg:	  PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Mohr,	Walter-Peter: Gren. Rgt. 'Mohr" Fest. Breslau:	  PHOTO, LETTER:	£20.00</p>
+<p>Rägener,	Adolf (Oakleaves): GENERALLEUTNANT Festung Kustrin, Division Rägener:	  PHOTO, LETTER: £50.00</p>
+<p>Reymann,	Hellmuth (Oakleaves): GENERALLEUTNANT Berlin City Commandant to 22nd April 1945:	  PHOTO (clipped), ENVELOPE: £40.00</p>
+<p>Rieger,	Siegfried: Sprengkommando Aghta Berlin:	  PHOTO, PRINT OUT: £20.00</p>
+<p>Sauer,	Hermann: Festung Breslau:	  PHOTO, ADDRESS LABEL: £20.00</p>
+<p>Tenschert,	Günther: Festung Breslau:	  PHOTO, LETTER, NOTE, PRINT OUT X 2: £30.00</p>
+<p>Wüstenhagen,	Albrecht: Festung Küstrin (Inf. Gesch. Kp.):	  PHOTO, LETTER: £20.00</p>
 <br />
 <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
