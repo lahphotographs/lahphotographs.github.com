@@ -17,13 +17,10 @@ permalink: /waffen_ss_photos.html
 <p>Bachmann,	Erwin: 10. SS-Pz. Div. "Frundsberg":	PHOTO, ENVELOPE:	£30.00
 <p>Beßlein,	Georg-Robert:	Festung Breslau:	PHOTO, LETTER:	£25.00
 <p>Brosow,	Siegfried: 2. SS-Division "Das Reich":	PHOTO:	£25.00
-<p>Buck,	Friedrich:	SS-Kavallerie "Florian Geyer":	PHOTO, LETTER, PRINT OUT (signed):	£35.00
 <p>Darges,	Fritz: 5. SS-Panzer Division "Wiking":	PHOTO:	£35.00
 <p>Euling,	Karl-Heinz:	10. SS-Pz. Div. "Frundsberg":	PHOTO, LETTER, PRINT OUT:	£25.00
 <p>Fiedler,	Johann:	3. SS-Pz.Div. "Totenkopf":	PHOTO:	£25.00
-<p>Frey,	Albert:	(Oakleaves):1. SS-Pz. Div. "LSSAH":	PHOTO: 	£30.00
 <p>Gieseler,	Karl-Heinz:	11. SS-Pz.Gren.Div. "Nordland": LETTER (signed) and CV (signed):	£20.00
-<p>Göhler,	Johannes:	8. SS-Kav. Div. "Florian Geyer":	PHOTO, NOTE:	£30.00
 <p>Henke,	Fritz: LSSAH Sturmgeschütz:	PHOTO: £25.00
 <p>Jürgens,	Heinz: 4. SS-Polizei Division:	PHOTO, LETTER:	£30.00
 <p>Kam,	Sören: 5. SS-Panzer Division "Wiking":	PHOTO:	£25.00
