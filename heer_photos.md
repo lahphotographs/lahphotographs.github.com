@@ -22,22 +22,22 @@ class: book_cover
 <br />
 <p><b><center>'Panzerknacker'</center></b></p>
 <p>Audenreith,	Georg: Gebirgsjäger Regiment 99:  PHOTO: £25.00</p>
-<Anding,	Friedrich: Grossdeutschland Pz.Jg. Abt:	 PHOTO: £25.00</p>
-<Borck,	Hans-Georg: Panzer Pioneer Battalion 209:	PHOTO: £15.00</p>
-<Heichele,	Josef	(Oakleaves): Div. Fus. Btl. (Aufkl. Abt.) 129:	PHOTO: £20.00</p>
-<Lichte,	Karl-Heinz: 5. SS-Panzer Division "Wiking":	PHOTO, LETTER, CV: £35.00</p>
-<Osterhold,	Wilhelm	(Oakleaves): Fusilier Regiment 27:	PHOTO: £20.00</p>
-<Menzel,	Joachim: Heeres Flak Abteilung 277 (mot.):	PHOTO, PRINT OUT, ENVELOPE: £25.00</p>
-<Populo,	Theodor: Schutzen Regiment 4:	PHOTO, MEDALS PHOTO: £20.00</p>
-<Binnig,	Otto: Grenadier Regimenr 463:	PHOTO, LETTER, ENVELOPE, CV: £3O.00</p>
-<Grimberg,	Heinz: Panzer Pionier Bataillon 19:	PHOTO, LETTER: £20.00</p>
-<Haderecker,	Hermann: Panzer Grenadier Regiment 20:	PHOTO, LETTER: £20.00</p>
-<Lumpp,	Karl-Willi: Grenadier Regiment 226:	PHOTO: £15.00</p>
-<Niggemeyer,	Wilhelm	(Oakleaves): Pionier Bataillon 26:	PHOTO, NOTE X 2: £25.00</p>
-<Ostermann,	Felix: Division Battalion 260:	PHOTO, PRINT OUT, ADDRESS LABEL: £25.00</p>
-<Rothhaar,	Willi: Grenadier Regiment 544:	PHOTO, 2 X LETTER, 3 X PRINT OUTS: £30.00</p>
-<Schmitt,	Jakob: Grenadier Regiment 485:	PHOTO, LETTER: £20.00</p>
-<Schneck,	Ernst: Grenadier Regiment 698:	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<P>Anding,	Friedrich: Grossdeutschland Pz.Jg. Abt:	 PHOTO: £25.00</p>
+<p>Borck,	Hans-Georg: Panzer Pioneer Battalion 209:	PHOTO: £15.00</p>
+<p>Heichele,	Josef	(Oakleaves): Div. Fus. Btl. (Aufkl. Abt.) 129:	PHOTO: £20.00</p>
+<p>Lichte,	Karl-Heinz: 5. SS-Panzer Division "Wiking":	PHOTO, LETTER, CV: £35.00</p>
+<p>Osterhold,	Wilhelm	(Oakleaves): Fusilier Regiment 27:	PHOTO: £20.00</p>
+<p>Menzel,	Joachim: Heeres Flak Abteilung 277 (mot.):	PHOTO, PRINT OUT, ENVELOPE: £25.00</p>
+<p>Populo,	Theodor: Schutzen Regiment 4:	PHOTO, MEDALS PHOTO: £20.00</p>
+<p>Binnig,	Otto: Grenadier Regimenr 463:	PHOTO, LETTER, ENVELOPE, CV: £3O.00</p>
+<p>Grimberg,	Heinz: Panzer Pionier Bataillon 19:	PHOTO, LETTER: £20.00</p>
+<p>Haderecker,	Hermann: Panzer Grenadier Regiment 20:	PHOTO, LETTER: £20.00</p>
+<p>Lumpp,	Karl-Willi: Grenadier Regiment 226:	PHOTO: £15.00</p>
+<p>Niggemeyer,	Wilhelm	(Oakleaves): Pionier Bataillon 26:	PHOTO, NOTE X 2: £25.00</p>
+<p>Ostermann,	Felix: Division Battalion 260:	PHOTO, PRINT OUT, ADDRESS LABEL: £25.00</p>
+<p>Rothhaar,	Willi: Grenadier Regiment 544:	PHOTO, 2 X LETTER, 3 X PRINT OUTS: £30.00</p>
+<p>Schmitt,	Jakob: Grenadier Regiment 485:	PHOTO, LETTER: £20.00</p>
+<p>Schneck,	Ernst: Grenadier Regiment 698:	PHOTO, LETTER, ENVELOPE: £25.00</p>
 <br />
 <p><b><center>'Stalingrad' Knight's Crosses (Heer and Luftwaffe)</center></b></p>
 <p>Becker, Paul: Artillerie Regiment 3 (mot.):	PHOTO, LETTER, ENVELOPE: £25.00</p>
