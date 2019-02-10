@@ -6,75 +6,84 @@ permalink: /luftwaffe_photos.html
 ---
 <div id="booksBySameAuthor">
   <p float="left">
-<img src="./assets/Hermann Buchner.jpg"/>
-<img src="./assets/Karl Henze.jpg"/>
-<img src="./assets/Jakob Jenster.jpg"/>
-<img src="./assets/Walter Stimpel.jpg"/>
-<img src="./assets/Frank Neubert.jpg"/>
-<img src="./assets/Heinz Wetzel.jpg"/>
-<img src="./assets/Otto Schmidt.jpg"/>
+<img src="./assets/Beerenbrock.jpg"/>
+<img src="./assets/Duttmann 2.jpg"/>
+<img src="./assets/Karl Rammelt.jpg"/>
+<img src="./assets/Rossmann.jpg"/>
+<img src="./assets/Naumann.jpg"/>
+<img src="./assets/Broch Schleinhege.jpg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, this batch focusing on the Sturz and Schlacht Geschwader pilots.</b></p>
-<p>Axthammer,	Erich:	Sturzkampfeschwader 10:	PHOTO:	£15.00</p>
-<p>Berndl,	Alois: Sturzkampfeschwader 1:	PHOTO: £15.00</p>
-<p>Bleckl,	Karl:	Sturzkampfeschwader 1:	PHOTO, PRINT OUT, ENVELOPE:	£20.00</p>
-<p>Bromen,	Wilhelm:	Stuka-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Bruck,	Helmut:	(Oakleaves): Sturzkampfeschwader 77:	PHOTO: £20.00</p>
-<p>Brücker,	Heinrich:	Stuka-Geschwader 2 "Immelmann": PHOTO: £15.00</p>
-<p>Buchner,	Hermann: Schlacht-Geschwader 2 "Immelmann":	PHOTO, LETTER: £20.00</p>
-<p>Diekwisch,	Erwin: Sturzkampfeschwader 1:	PHOTO, ENVELOPE: £20.00</p>
-<p>Diepold,	Max:	(Pz.) SG77:	PHOTO: £15.00</p>
-<p>Ensle,	Wolfgang: Schlacht-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Fechner,	Konrad: Sturzkampfeschwader 77:	PHOTO: £15.00</p>
-<p>Fickel,	Helmut:	Schlacht-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Gies,	Alfred: Schlacht-Geschwader 2 "Immelmann":	PHOTO:	£15.00</p>
-<p>Gläser,	Alexander (Oakleaves): Sturzkampfeschwader 77:	PHOTO: £20.00</p>
-<p>Henze,	Karl (Oakleaves): Sturzkampfeschwader 77:	PHOTO, NOTE, ENVELOPE: £30.00</p>
-<p>Hermann,	Horst: Schlacht-Geschwader 2 "Immelmann":	PHOTO:	£15.00</p>
-<p>Hitschhold,	Hubertus (Oakleaves): Schlacht-Geschwader 2 "Immelmann": PHOTO: £20.00</p>
-<p>Honnefeller,	Günter: Sturzkampfeschwader 10:	PHOTO, PRINT OUT X 2: £20.00</p>
-<p>Honsberg,	Werner: Sturzkampfeschwader 77:	PHOTO: £15.00</p>
-<p>Huhn,	Kurt: Sturzkampfeschwader 77: PHOTO, LETTER: £20.00</p>
-<p>Jähnert,	Erhart: Stuka-Geschwader 3 (D.A.K.):	PHOTO (colour), LETTER: £25.00</p>
-<p>Jenster,	Jakob: Stuka-Geschwader 2 "Immelmann":	PHOTO, LETTER: £20.00</p>
-<p>Joswig,	Wilhelm: Stuka-Geschwader 2 "Immelmann":	PHOTO (clipped): £10.00</p>
-<p>Kaiser,	Wilhelm: Stuka-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Kennel,	Karl:	(Oakleaves): Sturzkampfeschwader 1:	PHOTO: £20.00</p>
-<p>Kieslich,	Franz:	(Oakleaves):	Sturzkampfeschwader 77:	PHOTO (colour), LETTER, CV: £35.00</p>
-<p>Klaus,	Hans: Sturzkampfeschwader 1:	PHOTO, LETTER, ENVELOPE: £25.00</p>
-<p>Köhne,	Hans-Günther:	Stuka-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Krohn,	Hans:	Stuka-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Kuhlmey,	Kurt:	Stuka-Geschwader 3 (D.A.K.):	PHOTO: £15.00</p>
-<p>Lang,	Friedrich:	(Swords): Stuka-Geschwader 2 "Immelmann":	PHOTO, NOTE, ENVELOPE: £35.00</p>
-<p>Lau,	Kurt:	Stuka-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Lion,	Karl-Hermann:	Sturzkampfeschwader 1:	PHOTO: £15.00</p>
-<p>Mahlke,	Helmut:	Stuka-Geschwader 1 (D.A.K.):	PHOTO: £15.00</p>
-<p>Meyn,	Wilhelm:	SG3:	PHOTO: £15.00</p>
-<p>Morgenstern,	Erich:	SG5:	PHOTO: £15.00</p>
-<p>Moßdorf,	Martin:	Stuka-Geschwader 3:	PHOTO, 2 X REUNION PHOTOS: £20.00</p>
-<p>Neubert,	Frank:	Stuka-Geschwader 2 "Immelmann":	PHOTO, LETTER, ENVELOPE: £25.00</p>
-<p>Niehuus,	Heinz:	Sturzkampfeschwader 77:	PHOTO, LETTER: £20.00</p>
-<p>Nippa,	Erhard:	SKG10:	PHOTO: £15.00</p>
-<p>Noller,	Wilhelm:	Schlacht-Geschwader 2 "Immelmann":	PHOTO, LETTER, ENVELOPE: £25.00</p>
-<p>Orzegowski,	Ernst:	SG10:	PHOTO, LETTER, CV: £25.00</p>
-<p>Pekrun,	Dietrich:	Stuka-Geschwader 2 "Immelmann":	PHOTO, LETTER, ADDRESS LABEL: £25.00</p>
-<p>Pipan,	Artur:	Stuka-Geschwader 1:	PHOTO (COLOUR): £20.00</p>
-<p>Piske,	Herbert:	Schlacht-Geschwader 10:	PHOTO: £15.00</p>
-<p>Plenzat,	Kurt:	(Oakleaves): Stuka-Geschwader 2 "Immelmann":	PHOTO: £20.00</p>
-<p>Pressler,	Gustav:	(Oakleaves): Stuka-Geschwader 2 "Immelmann":	PHOTO: £20.00</p>
-<p>Röll,	Werner:	Sturzkampfeschwader 77:	PHOTO, LETTER: £20.00</p>
-<p>Schäfer,	Elmar:	Stuka-Geschwader 1:	PHOTO: £15.00</p>
-<p>Schenck,	Wolfgang:	(Oakleaves): SKG210:	PHOTO: £20.00</p>
-<p>Schmidt,	Otto:	Sturzkampfeschwader 77:	PHOTO: £15.00</p>
-<p>Seyffardt,	Fritz:	Schlacht-Geschwader 2 "Immelmann":	PHOTO: £15.00</p>
-<p>Stahl,	Hendrik:	(Oakleaves): Schlacht-Geschwader 2 "Immelmann":	PHOTO (COLOUR): £25.00</p>
-<p>Starke,	Heinrich:	SG10:	PHOTO: £15.00</p>
-<p>Stepp,	Hans-Karl:	(Oakleaves): Stuka-Geschwader 2 "Immelmann":	PHOTO: £20.00</p>
-<p>Stimpel,	Walter:	Sturzkampfeschwader 77:	PHOTO: £15.00</p>
-<p>Stollnberger,	Hans:	SG1:	PHOTO: £15.00</p>  
-<p>Stüdemann,	Gerhard:	(Oakleaves): Sturzkampfeschwader 77:	PHOTO, LETTER: £25.00</p>
-<p>Trummer,	Hans:	SG5:	PHOTO, LETTER, ENVELOPE: £25.00</p>
-<p>Welzel,	Karl-Heinrich:	SG10:	PHOTO: £15.00</p>
+<p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, this batch focusing on the Jagd Geschwader pilots.</b></p>
+<p>Beerenbrock,	Franz-Josef	(Oakleaves): JG51 "Mölders":	PHOTO, PHOTO (UNSIGNED): £25.00</p>
+<p>Bennemann,	Dr. med. dent. Helmut: JG52: PHOTO: £15.00</p>
+<p>Benning,	Dr. Anton: JG301:	PHOTO: £15.00</p>
+<p>Bob,	Hans-Ekkehard: JG54:	PHOTO, SIGNED PRINT OUT: £20.00</p>
+<p>Broch,	Hugo: JG54:	PHOTO: £15.00</p>
+<p>Broch,	Hugo: JG54:	PHOTO (SIGNED BY HERMANN SCHLEINHEGE TOO): £35.00</p>
+<p>Crinius,	Wilhelm	(Oakleaves): JG53, (D.A.K.):	PHOTO, ENVELOPE: £25.00</p>
+<p>Dahl,	Walther	(Oakleaves): JG3 "Udet":	PHOTO, PRINT OUT, 2 X DOCUMENTS:	£30.00</p>
+<p>Dahmer,	Hugo: JG5:	PHOTO, LETTER, SIGNED PRINT: £25.00</p>
+<p>Dickfeld, Adolf	(Oakleaves): JG52:	PHOTO: £20.00</p>
+<p>Dombacher,	Kurt: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Düttmann,	Peter: JG52:	PHOTO: £15.00</p>
+<p>Eder,	Georg-Peter	(Oakleaves): JG1:	PHOTO: £20.00</p>
+<p>Ewald,	Heinz: JG52:	PHOTO, LETTER, PRINT OUT, ADDRESS LABEL:	£30.00</p>
+<p>Glunz,	Adolf	(Oakleaves): JG26 "Schlageter":	PHOTO: £20.00</p>
+<p>Grislawski,	Alfred	(Oakleaves): JG52:	PHOTO, 1 SIGNED MEDAL GROUPING PHOTO:	£30.00</p>
+<p>Hermichen,	Rolf	(Oakleaves): JG11:	PHOTO: £20.00</p>
+<p>Hrabak,	Dietrich	(Oakleaves): JG54:	PHOTO, PRINT OUT:	£25.00</p>
+<p>Huy,	Wolf-Dietrich	(Oakleaves): JG77:	PHOTO: £20.000</p>
+<p>Isken,	Eduard: JG53:	PHOTO, PRINT OUT:	£20.00</p>
+<p>Josten,	Günther	(Oakleaves): JG51: "Mölders":	PHOTO: £20.00</p>
+<p>Kaiser,	Herbert: JG77:	PHOTO, LETTER: £20.00</p>
+<p>Karch,	Fritz: JG2 "Richthofen":	LETTER ONLY:	£10.00</p>
+<p>Klein,	Alfons: JG11:	PHOTO (CLIPPED):	£10.00</p>
+<p>Knoke,	Heinz: JG11:	PHOTO, NOTE:	£20.00</p>
+<p>Köhler,	Armin: JG77:	LETTER ONLY:	£10.00</p>
+<p>Körner,	Friedrich: JG27 (D.A.K.):	PHOTO: £15.00</p>
+<p>Lange,	Heinz: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Lemke,	Siegfried: JG2 "Richthofen":	PHOTO: £15.00</p>
+<p>Loos,	Walter: JG300:	PHOTO: £15.00</p>
+<p>Losigkeit,	Fritz: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Marquardt,	Heinz: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Mayerl,	Maximilian: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Naumann,	Johannes: JG6:	PHOTO: £15.00</p>
+<p>Neumann,	Klaus: JG3 "Udet":	PHOTO: £15.00</p>
+<p>Obleser,	Friedrich: JG52: PHOTO, SIGNED POST-WAR CUT OUT: £20.00</p>
+<p>Ohlrogge,	Walter: JG3 "Udet":	PHOTO (CLIPPED): £10.00</p>
+<p>Petermann,	Viktor: JG52: 	PHOTO: £15.00</p>
+<p>Pichler,	Johann: JG77:	PHOTO, LETTER: £20.00</p>
+<p>Pingel,	Rolf: JG26 "Schlageter":	PHOTO: £15.00</p>
+<p>Rall,	Günther	(Swords): JG52:	PHOTO, PRINT OUT:	£30.00</p>
+<p>Rammelt,	Karl: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Rauch,	Alfred: JG51 "Mölders":	PHOTO, LETTER, ADDRESS LABEL:	£25.00</p>
+<p>Reinert,	Ernst-Wilhelm	(Swords): JG77 (D.A.K.):	COLOUR PHOTO:	£30.00</p>
+<p>Reschke,	Willi: JG301:	PHOTO, PRINT OUT:	£20.00</p>
+<p>Rödel,	Gustav-Siegfried	(Oakleaves): JG27 (D.A.K.):	PHOTO: £20.00</p>
+<p>Roßmann,	Edmund: JG52:	PHOTO, LETTER: £20.00</p>
+<p>Rudorffer,	Erich	(Swords): JG2 "Richthofen" (D.A.K.):	COLOUR PHOTO, PRINT OUT: £35.00</p>
+<p>Rübell,	Günther: JG51 "Mölders": PHOTO: £15.00</p>
+<p>Rüffler,	Helmut: JG3 "Udet":	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Rudorffer,	Erich	(Swords): JG2 "Richthofen":	PHOTO, LETTER:	£30.00</p>
+<p>Schack,	Günther	(Oakleaves): JG51 "Mölders":	COLOUR PHOTO:	£25.00</p>
+<p>Schleinhege,	Hermann: JG54: LETTER ONLY:	£10.00</p>
+<p>Schmidt,	Winfrid: JG3:	PHOTO: £15.00</p>
+<p>Schnell,	Karl-Heinz: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Schönfelder,	Helmut: JG51 "Mölders":	PHOTO: £15.00</p>
+<p>Schöpfel,	Gerhard: JG26 "Schlageter":	PHOTO, LETTER, PRINT OUT:	£25.00</p>
+<p>Schuck,	Walter	(Oakleaves): JG5:	PHOTO, LETTER:	£25.00</p>
+<p>Schultz,	Otto: JG51 "Mölders" (D.A.K.):	PHOTO: £15.00</p>
+<p>Seeger,	Günther: JG53: PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Seiler,	Reinhard	(Oakleaves): JG54:	PHOTO: £20.00</p>
+<p>Späte,	Wolfgang	(Oakleaves): JG54: PHOTO, ENVELOPE, £25.00</p>
+<p>Steinhoff,	Johannes	(Swords): JG52:	PHOTO (BUNDESWEHR), LETTER, PRINT OUT X 2: £30.00</p>
+<p>Stolle,	Bruno: JG2 "Richthofen":	PHOTO: £15.00</p>
+<p>Thyben,	Gerhard	(Oakleaves): JG54:	PHOTO: £20.00</p>
+<p>Trenkel,	Rudolf: JG52:	PHOTO (CLIPPED), LETTER:	£20.00</p>
+<p>Unger,	Willy: JG3 "Udet": LETTER ONLY:	£10.00</p>
+<p>Weik,	Hans: JG3 "Udet":	PHOTO, LETTER:	£20.00</p>
+<p>Woidich,	Franz: JG52:	PHOTO: £15.00</p>
+<p>Wolfrum,	Walter: JG52:	PHOTO: £15.00</p>
 <p>
 <b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
