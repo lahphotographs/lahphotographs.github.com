@@ -35,6 +35,7 @@ class: book_cover
 <p>Lumpp,	Karl-Willi: Grenadier Regiment 226:	PHOTO: £15.00</p>
 <p>Niggemeyer,	Wilhelm	(Oakleaves): Pionier Bataillon 26:	PHOTO, NOTE X 2: £25.00</p>
 <p>Ostermann,	Felix: Division Battalion 260:	PHOTO, PRINT OUT, ADDRESS LABEL: £25.00</p>
+<p>Ott, Rudolf (DKiG at Stalingrad): Jäger Regiment 56:	PHOTO, LETTER, CV, ENVELOPE, PRINT OUT: £35.00</P>
 <p>Rothhaar,	Willi: Grenadier Regiment 544:	PHOTO, 2 X LETTER, 3 X PRINT OUTS: £30.00</p>
 <p>Schmitt,	Jakob: Grenadier Regiment 485:	PHOTO, LETTER: £20.00</p>
 <p>Schneck,	Ernst: Grenadier Regiment 698:	PHOTO, LETTER, ENVELOPE: £25.00</p>
