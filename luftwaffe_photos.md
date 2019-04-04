@@ -6,12 +6,12 @@ permalink: /luftwaffe_photos.html
 ---
 <div id="booksBySameAuthor">
   <p float="left">
-<img src="./assets/Beerenbrock.jpg"/>
-<img src="./assets/Duttmann 2.jpg"/>
-<img src="./assets/Karl Rammelt.jpg"/>
-<img src="./assets/Rossmann.jpg"/>
-<img src="./assets/Naumann.jpg"/>
-<img src="./assets/Broch Schleinhege.jpg"/>
+<img src="./assets/Hajo Hermann 2.jpg"/>
+<img src="./assets/Gunther Bierbrauer 2.jpg"/>
+<img src="./assets/Wilhelm Odenhardt 2.jpg"/>
+<img src="./assets/Wilhelm Dipberger 2.jpg"/>
+<img src="./assets/Gerhard Kremms 2.jpg"/>
+<img src="./assets/Georg Ackermann 2.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, this batch focusing on the Kampfgeschwader aircrew.</b></p>
