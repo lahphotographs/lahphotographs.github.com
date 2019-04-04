@@ -47,6 +47,7 @@ class: book_cover
 <p>Ksiag,	Hans: Panzerjäger Abteilung 176: PHOTO, ENVELOPE, PRINT OUT: £25.00</p>
 <p>Löser,	Hans-Joachim: Fusilier Regiment 230: PHOTO, LETTER, BUNDESWEHR PHOTO: £25.00</p>
 <p>Lutze,	Helmut: Kradschützen Bataillon 64: PHOTO: £15.00</p>
+<p>Mikosch, Hans: 13. Pz. Div. CO, General Lt.: PHOTO: £45.00</p>
 <p>Neufeld,	Ernst: Kradschutzen Battalion 40: PHOTO, NOTE, PRINT OUT, ENVELOPE:	£30.00</p>
 <p>Paetow,	Heinz: Grenadier Regiment 132: PHOTO: £15.00</p>
 <p>Pohl,	Eberhard: Infanterie Regiment 134: PHOTO: £15.00</p>
