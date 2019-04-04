@@ -15,9 +15,6 @@ permalink: /luftwaffe_photos.html
 </p>  
 <br />
 <p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, this batch focusing on the Kampfgeschwader aircrew.</b></p>
-<p>Ackermann,	Franz-Josef	(Oakleaves): JG51 "Mölders":	PHOTO, PHOTO (UNSIGNED): £25.00</p>
-
-
 <p>Ackermann,	Georg: KG53 "Legion Condor": PHOTO, LETTER, ENVELOPE: £25.00</p>
 <p>Angerstein,	Karl: KG1 "Hindenburg": PHOTO, LETTER: £20.00</p>
 <p>Antrup,	Wilhelm	(Oakleaves): KG55:	PHOTO: £20.00</p>
