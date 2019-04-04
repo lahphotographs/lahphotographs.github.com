@@ -7,15 +7,12 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Hans-Georg Borck.jpg"/>
-<img src="./assets/Leopold Schrems.jpg"/>
-<img src="./assets/Karl-Heinz Lichte.jpg"/>
-<img src="./assets/Felix Osterhold.jpg"/>
-<img src="./assets/Hellmuth Schlomer.jpg"/>
-<img src="./assets/Hans Ksiag.jpg"/>
-<img src="./assets/Heinz Paetow.jpg"/>
-<img src="./assets/Hans-Joachim Loser.jpg"/>
-<img src="./assets/Carl Rodenburg.jpg"/>
+<img src="./assets/Werner Mildebrath 2.jpg"/>
+<img src="./assets/Bruno Kahl 2.jpg"/>
+<img src="./assets/Heinrich Eberbach.jpg"/>
+<img src="./assets/Kuno von Meyer 2.jpg"/>
+<img src="./assets/Fritz Rudolf Schultz 2.jpg"/>
+<img src="./assets/Hermann Bix 2.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Panzermen.</b></p>
