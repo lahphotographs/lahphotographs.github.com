@@ -7,10 +7,10 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Alfred Eick.jpg"/>
-<img src="./assets/Paul Brasack.jpg"/>
-<img src="./assets/Carl Landfermann.jpg"/>
-<img src="./assets/Otto Westphalen.jpg"/>
+<img src="./assets/Ekkehard Martienssen.jpg"/>
+<img src="./assets/Hans Rehm.jpg"/>
+<img src="./assets/Heinz Birnbacher.jpg"/>
+<img src="./assets/Hermann Witt.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, focusing on the surface fleet men.</b><br />
