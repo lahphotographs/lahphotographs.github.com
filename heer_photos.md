@@ -7,7 +7,6 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Werner Mildebrath 2.jpg"/>
 <img src="./assets/Bruno Kahl 2.jpg"/>
 <img src="./assets/Heinrich Eberbach.jpg"/>
 <img src="./assets/Kuno von Meyer 2.jpg"/>
