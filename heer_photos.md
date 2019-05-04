@@ -39,10 +39,8 @@ class: book_cover
 <p>Klemz,	Bernhard: Panzer Regt. Grossdeutschland: PHOTO: £15.00</p>
 <p>Kujacinski,	Norbert: Panzer Regiment 23: PHOTO:	£15.00</p>
 <p>Lange,	Gerhard: Panzer Regiment 35: PHOTO, LETTER:	£20.00</p>
-<p>Lauchert, von	Meinrad	(OAKLEAVES): Panzer Regiment 35: PHOTO (COLOUR) ENVELOPE:	£30.00</p>
 <p>Lemke,	Max, General Major: 7. Pz. Division: PHOTO: £40.00</p>
 <p>Meyer, von	Kuno (OAKLEAVES): Panzer Regiment 24: PHOTO, LETTER, ENVELOPE, CV: £35.00</p>
-<p>Mildebrath,	Werner: Panzer Regiment 5 (D.A.K.): PHOTO:	£15.00</p>
 <p>Müller,	Klaus: Panzer Abteilung 60: PHOTO, LETTER, ENVELOPE:	£25.00</p>
 <p>Neuer,	Walther: Panzer Regiment 118: PHOTO, 1 BW PHOTO, 1 UNSIGNED PHOTO, LETTER, NOTE X 2 SIGNED PRINT OUT, ENVELOPE:	£30.00</p>
 <p>Niemack,	Horst	(SWORDS) General Major: Panzer LEhr Div. C.O.: PHOTO :£45.00</p>
@@ -64,8 +62,8 @@ class: book_cover
 <p>Weidenbrück,	Wilhelm	(OAKLEAVES): 2. Panzer Division: PHOTO, LETTER, ENVELOPE: £30.00</p>
 <p>Weißflog,	Hans-Joachim: Panzer Regiment 16: PHOTO:	£15.00</p>
 <p>Wiesmann,	Hugo: Panzer Regiment 11: PHOTO:	£15.00</p>
-<p>Wolf,	Alfred: Panzer Regiment 23: PHOTO, LETTER:	£20.00</p>
 <p>Wollschläger,	Artur: Panzer Regiment 35: PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Wolf,	Alfred: Panzer Regiment 23: PHOTO, LETTER:	£20.00</p>
 <p>Zobel,	Horst: Panzer "Muncheberg": PHOTO, CV:	£20.00</p>
 <br />
 <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
