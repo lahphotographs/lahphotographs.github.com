@@ -26,7 +26,6 @@ permalink: /fallschirmjäger_photos.html
 <p>Genz,	Alfred:	Fallschirmjäger Sturm Rgt. 1: Photo: £25.00
 <p>Germer,	Ernst: Fallschirmjäger Regiment 1:	Photo: £25.00
 <p>Gerstner,	Siegfried: Fallschirmjäger Regiment 1:	Photo, address card: £30.00
-<p>Herrmann,	Harry: Fallschirmjäger Regiment 1:	Photo: £35.00
 <p>Hübner,	Eduard:	1. Fallschirmjäger Armee:	Photo (clipped): £20.00
 <p>Jamrowski,	Siegfried: Fallschirmjäger Regiment 3:	Photo, letter: £30.00
 <p>Kroymanns,	Willy: Fallschirmjäger Regiment 12:	Photo, letter: £30.00
@@ -34,6 +33,7 @@ permalink: /fallschirmjäger_photos.html
 <p>Meyer,	Heinz	(Oakleaves): Fallschirmjäger Regiment 4:	Photo (clipped / ripped): £25.00
 <p>Milch,	Dr. jur. Werner: Fallschirmjäger Granatwerf. Lehr:	Photo, print out:	£30.00
 <p>Neumann,	Dr. med. Heinrich: Fallschirmjäger Sturm Regiment:	Photo: £25.00
+<p>Rapgräger,	Dr.Jur. Ernst-Wilhelm: FJ Reg. "Barenthin" (D.A.K.):	Photo: £25.00
 <p>Reininghaus,	Adolf: Fallschirmjäger Regiment 7:	Photo, signed print out: £30.00
 <p>Riedel,	Gerd:	Fallschirmjäger Regiment 7 C.O.:	Photo, 2 letters, envelope:	£35.00
 <p>von Roon,	Arnold:	Fallschirmjäger Regiment 2:	Letter only: £15.00
@@ -42,6 +42,5 @@ permalink: /fallschirmjäger_photos.html
 <p>Teusen,	Hans:	Fallschirmjäger Regiment 2:	Photo, letter: £30.00
 <p>Trettner,	Heinrich	(Oakleaves): 4. Fallschirmjäger Division C.O.: Photo, letter, envelope, BW photo:	£50.00
 <p>Uhlig,	Alexander: Fallschirmjäger Regiment 6:	Photo, note, signed CV:	£35.00
-<p>Vitali,	Viktor:	Fallschirmjäger Regiment 1:	Photo: £25.00
 <p>Wangerin,	Friedrich-Wilhelm: Fallschirmjäger Regiment 16:	Photo, letter, envelope: £35.00
 
