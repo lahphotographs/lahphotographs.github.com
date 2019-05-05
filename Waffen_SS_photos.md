@@ -8,6 +8,10 @@ permalink: /waffen_ss_photos.html
 <p float="left">
 <img src="./assets/Erwin Bachmann.jpg"/>
 <img src="./assets/Walter Schmidt.jpg"/>
+<img src="./assets/Besslein.jpg"/>
+<img src="./assets/Scherg 2.jpg"/>
+<img src="./assets/Remi Schrijnen.jpg"/>
+<img src="./assets/Karl-Heinz Lichte.jpg"/>
 </p>  
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
