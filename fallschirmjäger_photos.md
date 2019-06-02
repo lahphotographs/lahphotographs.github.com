@@ -33,7 +33,6 @@ permalink: /fallschirmjäger_photos.html
 <p>Meyer,	Heinz	(Oakleaves): Fallschirmjäger Regiment 4:	Photo (clipped / ripped): £25.00
 <p>Milch,	Dr. jur. Werner: Fallschirmjäger Granatwerf. Lehr:	Photo, print out:	£30.00
 <p>Neumann,	Dr. med. Heinrich: Fallschirmjäger Sturm Regiment:	Photo: £25.00
-<p>Rapgräger,	Dr.Jur. Ernst-Wilhelm: FJ Reg. "Barenthin" (D.A.K.):	Photo: £25.00
 <p>Reininghaus,	Adolf: Fallschirmjäger Regiment 7:	Photo, signed print out: £30.00
 <p>Riedel,	Gerd:	Fallschirmjäger Regiment 7 C.O.:	Photo, 2 letters, envelope:	£35.00
 <p>von Roon,	Arnold:	Fallschirmjäger Regiment 2:	Letter only: £15.00
