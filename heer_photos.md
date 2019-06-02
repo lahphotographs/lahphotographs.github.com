@@ -7,8 +7,8 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Bruno Kahl 2.jpg"/>
-
+<img src="./assets/Emil Berner.jpg"/>
+<img src="./assets/Rudolf Heger.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Artillery men.</b></p>
