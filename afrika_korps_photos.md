@@ -7,8 +7,6 @@ permalink: /afrika_korps_photos.html
 <div id="europeanvolunteer">
 <p float="left">
 <img src="./assets/Emil Berner.jpg"/>
-<img src="./assets/Kurt Kuhlmey.jpg"/>
-<img src="./assets/Werner Mildebrath.jpg"/>
 <img src="./assets/Konrad Rittmeyer.jpg"/>
 </p>  
 <br />
