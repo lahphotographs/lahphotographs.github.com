@@ -9,9 +9,9 @@ class: book_cover
 <p float="left">
 <img src="./assets/Emil Berner.jpg"/>
 <img src="./assets/Rudolf Heger.jpg"/>
-<img src="./assets/Hans Ender.jpg"/>
-<img src="./assets/Fellgiebel.jpg"/>
-<img src="./assets/Flad.jpg"/>
+<img src="./assets/Hans Ender.jpeg"/>
+<img src="./assets/Fellgiebel.jpeg"/>
+<img src="./assets/Flad.jpeg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Artillery men.</b></p>
