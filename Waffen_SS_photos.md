@@ -7,7 +7,6 @@ permalink: /waffen_ss_photos.html
 <div id="axisforces">
 <p float="left">
 <img src="./assets/Erwin Bachmann.jpg"/>
-<img src="./assets/Walter Schmidt.jpg"/>
 <img src="./assets/Scherg 2.jpg"/>
 <img src="./assets/Remi Schrijnen.jpg"/>
 <img src="./assets/Karl-Heinz Lichte.jpg"/>
@@ -24,7 +23,6 @@ permalink: /waffen_ss_photos.html
 <p>Riedel,	Franz:	10. SS-Panzer Div. "Frundsberg": PHOTO:	£25.00
 <p>Rudolf,	Richard: 12. SS-Panzer Div. "Hitlerjugend":	PHOTO:	£25.00
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO:	£25.00
-<p>Schmidt,	Walter:	(Oakleaves): 5. SS-Panzer Division "Wiking":	PHOTO (colour):	£35.00
 <p>Schnaubelt,	Alois: 5. SS-Panzer Division "Wiking":	PHOTO:	£25.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £25.00
 <p>Zeiher,	Robert:	SS Radolfzell:	PHOTO: £25.00</p>
