@@ -29,7 +29,6 @@ class: book_cover
 <p>Heß,	Hans-Georg: (U-995):	PHOTO, NOTE: £20.00</p>
 <p>Koitschka,	Siegfried: (U-616): PHOTO, ENVELOPE, CV: £25.00</p>
 <p>Kraus,	Hans-Werner: (U-83):	PHOTO: £15.00</p>
-<p>Kretschmer,	Otto (Swords): (U-99): PHOTO: £35.00</p>
 <p>Landfermann,	Carl-August: (U-181):	PHOTO, PRINT OUT: £20.00</p>
 <p>Lange,	Hans-Günther (Oakleaves): (U-711):	PHOTO, LETTER, PRINT OUT: £30.00</p>
 <p>Marbach,	Karl-Heinz: (U-953):	PHOTO, 3-PAGE PRINT OUT, ADDRESS CARD: £25.00</p>
