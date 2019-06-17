@@ -21,7 +21,6 @@ permalink: /waffen_ss_photos.html
 <p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO, LETTER, CV: £35.00
 <p>Pitsch, Walter: 1. SS-Panzer Division "Leibstandarte SS-Adolf Hitler": PHOTO, LETTER: £30.00  
 <p>Riedel,	Franz:	10. SS-Panzer Div. "Frundsberg": PHOTO:	£25.00
-<p>Rudolf,	Richard: 12. SS-Panzer Div. "Hitlerjugend":	PHOTO:	£25.00
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO:	£25.00
 <p>Schnaubelt,	Alois: 5. SS-Panzer Division "Wiking":	PHOTO:	£25.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £25.00
