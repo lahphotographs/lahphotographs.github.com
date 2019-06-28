@@ -21,7 +21,7 @@ permalink: /luftwaffe_photos.html
 <p>Hemmer,	Hermann: Aufklärungs-Gruppe 122:	PHOTO:	£15.00
 <p>Hirn,	Johannes/Hans: Nahaufkl. Gruppe 32:	PHOTO, LETTER:	£20.00
 <p>Hofsäss,	Richard: Nahaufkl. Gruppe 2:	PHOTO, LETTER, ENVELOPE: £25.00
-<p>Knabe,	Konrad: Fernaufklarungs Staffel Lappland:	PHOTO:	£15.00
+<p>Knabe,	Konrad: Fernaufklärungs Staffel Lappland:	PHOTO:	£15.00
 <p>Kuhenne,	Helmut:	Fernaufklärungsgruppe 3:	PHOTO, LETTER:	£20.00
 <p>Lotter,	Hans: Aufklärungs Gruppe 12:	PHOTO:	£15.00
 <p>Meisel,	Martin:	Aufklärungs-Gruppe 123:	PHOTO:	£15.00
