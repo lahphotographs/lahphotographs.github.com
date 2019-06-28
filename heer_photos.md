@@ -7,53 +7,41 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Emil Berner.jpg"/>
-<img src="./assets/Rudolf Heger.jpg"/>
-<img src="./assets/Hans Ender.jpeg"/>
-<img src="./assets/Fellgiebel.jpeg"/>
-<img src="./assets/Flad.jpeg"/>
+<img src="./assets/Hermann Bix 2.jpg"/>
+<img src="./assets/Primozic.jpeg"/>
+<img src="./assets/Bruno Kahl 2.jpg"/>
+<img src="./assets/Brandner PW.jpeg"/>
+<img src="./assets/Bodo Spranz.jpeg"/>
+<img src="./assets/Amling.jpg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Artillery men.</b></p>
+<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, focusing on: Top scoring Panzer / Armour Aces.</b></p>
 <br />
-<p><b><center>'Artillerie Soldaten'</center></b></p>
-<p>Becker,	Paul: Artillerie Regiment 3 (mot.):	PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Benner,	Heinrich: Panzer Artillerie Regiment 102:	PHOTO, LETTER:	£20.00</p>
-<p>Carl,	Friedrich: Artillerie Regiment 269:	PHOTO:	£15.00</p>
-<p>Deisenberger,	Hermann: Panzer Artillerie Regiment 16: PHOTO, LETTER, ENVELOPE, CV:	£30.00</p>
-<p>Dinkelaker,	Ulrich: Artillery Regiment 36 (mot.):	PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Dittrich,	Dr. jur. Stefan: Artillerie Regiment 46:	PHOTO, LETTER:	£20.00</p>
-<p>Eckholt,	Oskar: Artillerie Regiment 178:	PHOTO:	£15.00</p>
-<p>Eichler,	Erich: Artillerie Regiment 20:	PHOTO:	£15.00</p>
-<p>Enders,	Hans: Panzer Artillerie Regiment 74: PHOTO, LETTER, ENVELOPE, PRINT OUT:	£20.00</p>
-<p>Fellgiebel,	Walther-Peer: Artillerie (leichte) Abteilung 935: PHOTO, LETTER:	£20.00</p>
-<p>Flad,	Kurt: Artillery Regiment 219:	PHOTO, COPY RK PRINT, PRINT OUT:	£25.00</p>
-<p>Giffhorn,	Karl-Heinz: Artillerie Regiment 190: PHOTO:	£15.00</p>
-<p>Golbach,	Paul: Artillery Regiment 263:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Grünwald,	Harry: Artillerie Regiment 18: PHOTO:	£15.00</p>
-<p>Heger, 	Rudolf: Artillerie Rgt. 96:	PHOTO: 	£15.00</p>
-<p>Heinrich,	Herbert: Artillerie Regiment 267:	PHOTO +1 BW photo:		£20.00</p>
-<p>Hintze,	Ingfried: Panzer Artillerie Regiment 103:	PHOTO:	£15.00</p>
-<p>Hunger,	Hans-Joachim: (schwere) Artillerie Abt. 526 (mot.):	PHOTO, LETTER:	£20.00</p>
-<p>Keiling,	Siegfried: Artillerie (Ost) Abteilung 919:	PHOTO, PRINT OUT X 2:	£20.00</p>
-<p>Knörrchen,	Egon: Artillerie-Regiment 218: PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Kremer,	Hermann: Artillery Regiment 129:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Kunert,	Hans: Artillery Regiment 5:	PHOTO, signed print out:		£20.00</p>
-<p>Müller,	Rudolf: Artillerie Regiment 24:	PHOTO, LETTER:	£20.00</p>
-<p>Neumann,	Joachim: Panzer Artillery Regiment 103:	PHOTO, LETTER:	£20.00</p>
-<p>Peterson,	Georg: Artillerie Abteilung 929:	PHOTO, LETTER:	£20.00</p>
-<p>Schmidt,	Hermann: Artillerie Regiment 81:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Schröder,	Albert: Artillery Abteilung 287	:	PHOTO (clipped):	£10.00</p>
-<p>Starck, von	Wilhelm: Artillerie Regiment 1553:	PHOTO:	£15.00</p>
-<p>Steinbacher,	Fritz: Artillerie Regiment 172	Photo, CV		£20.00</p>
-<p>Strobel,	Anton: Artillerie Regiment 219:	PHOTO: £15.00</p>
-<p>Stück,	Adolf: Artillerie Regiment 251:	PHOTO, LETTER, ENVELOPE: £30.00</p>
-<p>Tech,	Harry: Artillerie Abteilung 934:	PHOTO, NOTE, ENVELOPE:	£25.00</p>
-<p>Thiel,	Karl: Artillery Regiment 217:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Tietz,	Hermann: Artillery Regiment 240:	PHOTO, ENVELOPE:	£20.00</p>
-<p>Wagner,	Wilhelm: Artillerie Regiment 158:	PHOTO, ENVELOPE:	£20.00</p>
-<p>Wehking,	Hermann: Artillerie Regiment 146:	PHOTO:		£15.00</p>
-<p>Witt,	Hellmuth: Artillerie-Regiment 134:	PHOTO, LETTER, ENVELOPE, PRINT OUT:	£30.00</p>
-<p>Zimmermann,	Walter: Artillerie Regiment 205:	PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p><b><center>'Panzer Aces'</center></b></p>
+<p>Bölter,	Johannes: (OAKLEAVES),	(schwere) Panzer Abteilung 502:	(139 kills): PHOTO:	£20.00</p>
+<p>Sandrock,	Hans: Fallschirmjäger Pz. Rgt. "HG":	(123 kills): PHOTO, ENVELOPE, NOTE:	£25.00</p>
+<p>Fischer,	Gerhard: Panzer Regiment 23:	(102 kills): PHOTO, LETTER:	£20.00</p>
+<p>Kerscher,	Albert:	(schwere) Panzer Abteilung 502:	(100+ kills): PHOTO:	£15.00</p>
+<p>Bix,	Hermann: Panzer Regiment 35: (100 kills): PHOTO: £15.00</p>
+<p>Eckardt,	Hermann: Panzer Abteilung 8:	(78 Kills): PHOTO, LETTER, CV:	£25.00</p>
+<p>Spranz,	Bodo:	(OAKLEAVES): Sturmgeschütz Brigade 237:	(76 kills): PHOTO (colour):	£25.00</p>
+<p>Primozic,	Hugo:	(OAKLEAVES): Sturmgeschütz Brigade 667:	(68+ kills): PHOTO, LETTER:	£25.00</p>
+<p>Brandner,	Josef:	(OAKLEAVES): Heeres Strmartillerie Brig. 912:	(66 kills): PHOTO, ENVELOPE, 1 x COPY AWARD DOC, 1 PRINT OUT, POSTCARD:	£40.00</p>
+<p>Witte,	Albert: Sturmgeschütz Abteilung 394: (56 kills): PHOTO, LETTER: £20.00</p>
+<p>Sametreiter,	Kurt:	LSSAH	(stamped signature):	(56 kills):	PHOTO: £20.00</p>
+<p>Rohrbacher,	Josef: Sturmgeschütz Brigade 245:	(56 kills): PHOTO:	£15.00</p>
+<p>Arnold,	Friedrich: Sturmgeschütz Brigade 237:	(51 kills): PHOTO:	£15.00</p>
+<p>Adamowitsch,	Felix: Sturmgeschütz Brigade 309:	(50 kills): PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p>Kahl,	Bruno: (OAKLEAVES): Panzer Regiment 21:	(50 kills): PHOTO, 1 COPY AWARD DOC:	£25.00</p>
+<p>Spielmann,	Johann:	(OAKLEAVES): Sturmgeschütz Abteilung 197:	(49 kills): PHOTO, ENVELOPE, signed CV:	£30.00</p>
+<p>Bostell, von	Wolfgang:	(OAKLEAVES): Sturmgeschütz Kompanie 1023:	(49 kills): PHOTO, LETTER, CV, 5-PAGE PRINT OUT:	£35.00</p>
+<p>Zillmann,	Erich: Sturmgeschütz Brigade 245:	(48 kills): PHOTO, unsigned PHOTO and LETTER from wife:	£25.00</p>
+<p>Ahrend,	Hoper: Sturmgeschütz Abt. 202:	(47 kills): PHOTO, ENVELOPE:	£20.00</p>
+<p>Weißflog,	Hans-Joachim:	Panzer Regiment 16:	(47+ kills): PHOTO:	£15.00</p>
+<p>Deutsch,	Heinz: Fallschirmjäger Stug. Brig. 12:	(46 kills): PHOTO, LETTER:	£20.00</p>
+<p>Bose,	Georg: Sturmgeschütz Abteilung 177:	(44 kills): PHOTO:	£15.00</p>
+<p>Amling,	Fritz: Sturmgeschütz Abt. 202:	(42 kills): PHOTO (clipped):	£15.00</p>
+<p>Scharf,	Heinz: Sturmgeschütz Brigade 202:	(40+ kills): PHOTO, PRINT OUT:	£20.00</p>
+<p>Tornau,	Gottfried: Sturmartillerie Brigade "GD": (40 kills): PHOTO, LETTER, signed CV: £25.00</p>
 <br />
 <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
