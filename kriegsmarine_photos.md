@@ -1,50 +1,37 @@
----
-layout: page
-title: Kriegsmarine Knight's Cross holders
-permalink: /kriegsmarine_photos.html
-slider: true
-class: book_cover
----
-
 <p float="left">
+<img src="./assets/Alfred Eick.jpg"/>
+<img src="./assets/Paul Brasack.jpg"/>
 <img src="./assets/Carl Landfermann.jpg"/>
 <img src="./assets/Otto Westphalen.jpg"/>
-<img src="./assets/Feldt 2.jpg"/>
-<img src="./assets/Bramesfeld 2.jpg"/>
-<img src="./assets/Helmut Witt 2 2.jpg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, focusing on the U-Boat men.</b><br />
-<p>Bargsten,	Klaus: (U-521):	PHOTO, LETTER: £20.00</p>
-<p>Bielig, Gerhard: (U-177):	PHOTO, CV: £20.00</p>
-<p>Brasack, Paul: (U-737):	PHOTO: £15.00</p>
-<p>Bülow,	von Otto (Oakleaves): (U-404):	PHOTO: £20.00</p>
-<p>Dammeier,	Heinrich: (U-270):	PHOTO, LETTER, ENVELOPE, CV: £30.00</p>
-<p>Dobratz,	Kurt Karl Anton: (U-1232):	PHOTO: £15.00</p>
-<p>Dommes,	Wilhelm	: (U-431):	PHOTO, LETTER, 2 X PRINT OUTS: £25.00</p>
-<p>Eick,	Alfred	: (U-510):	PHOTO, LETTER, PRINT OUT, CV: £30.00</p>
-<p>Franke,	Heinz	: (U-262):	PHOTO, LETTER: £20.00</p>
-<p>Gelhaus,	Harald	: (U-107):	PHOTO: £15.00</p>
-<p>Hardegen,	Reinhard (Oakleaves)	: (U-123):	PHOTO: £20.00</p>
-<p>Heß,	Hans-Georg: (U-995):	PHOTO, NOTE: £20.00</p>
-<p>Koitschka,	Siegfried: (U-616): PHOTO, ENVELOPE, CV: £25.00</p>
-<p>Kraus,	Hans-Werner: (U-83):	PHOTO: £15.00</p>
-<p>Landfermann,	Carl-August: (U-181):	PHOTO, PRINT OUT: £20.00</p>
-<p>Lange,	Hans-Günther (Oakleaves): (U-711):	PHOTO, LETTER, PRINT OUT: £30.00</p>
-<p>Marbach,	Karl-Heinz: (U-953):	PHOTO, 3-PAGE PRINT OUT, ADDRESS CARD: £25.00</p>
-<p>Mehl,	Waldemar: (U-371):	PHOTO, 3-PAGE CV, MAGAZINE: £30.00</p>
-<p>Merten,	Karl-Friedrich	(Oakleaves): (U-68):	LETTER only: £15.00</p>
-<p>Mühlbauer,	Rudolf: (U-123):	PHOTO: £15.00</p>
-<p>Öhrn,	Victor: (U-37):	PHOTO, LETTER: £20.00</p>
-<p>Östen,	Jürgen: (U-106):	PHOTO, LETTER, CV: £25.00</p>
-<p>Rösing,	Hans Rudolf: (U-48):	PHOTO (clipped), CV, LETTER, PRINT OUT (signed): £25.00</p>
-<p>Rohweder,	Hellmut: (U-69, U-514):	PHOTO, CV (3 pages): £20.00</p>
-<p>Schröteler,	Heinrich: (U-1023):	PHOTO, LETTER, ENVELOPE, CV: £25.00</p>
-<p>Schröter, von	Horst: (U-123):	PHOTO: £15.00</p>
-<p>Thomsen,	Rolf	(Oakleaves): (U-1202): PHOTO: £20.00</p>
-<p>Westphalen,	Otto: (U-121, U-968):	PHOTO, ENVELOPE: £20.00</p>
-<p>Witte,	Helmut: (U-159):	PHOTO, LETTER, CV, PRINT OUT, ENVELOPE: £35.00</p>
+<p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, focusing on the surface fleet men.</b><br />
+<p>Bastian,	Helmut: (Sprengboot Flotilla Kdr.):	PHOTO, LETTER: £20.00</p>
+<p>Birnbacher,	Heinz: (1. Schnellbootsflottille Chief):	PHOTO, LETTER, ENVELOPE, COPY PHOTO: £30.00</p>
+<p>Bögel,	Hermann: (M4040 (40. MS Flotille)):	PHOTO (CLIPPED): £15.00</p>
+<p>Bramesfeld, Heinrich: (2. Sicherungs Division):	PHOTO, LETTER: £20.00</p>
+<p>Büchting,	Hermann: (Schnellboot S-27):	SIGNED CARD ONLY: £10.00</p>
+<p>Detmers,	Theodore: (Hilfskreuzer Kormoran):	UNSIGNED PHOTO, PRINT OUT, DEATH NOTICE: £10.00</p>
+<p>Feldt,	Kurt: (Schnellboot (S-43, 2. Schn. Flott.)):	PHOTO: £20.00</p>
+<p>Fimmen,	Kurt: (Schnellboots Flotille 1):	PHOTO, LETTER, PRINT OUT: £25.00</p>
+<p>Gartzen, von,	Wilrich: (10. Torpeedobootsflottille):	PHOTO, LETTER, ENVELOPE, PRINT OUT: £30.00</p>
+<p>Kemnade,	Friedrich (Oakleaves): (3. Schnellboots Flotille):	PHOTO, LETTER, DEATH NOTICE: £30.00</p>
+<p>Künzel,	Karl-Friedrich: (Schnellboot S-28):	PHOTO: £15.00</p>
+<p>Martienssen,	Ekkehard: (Vp. 203 Vorpostenflottille): PHOTO: £15.00</p>
+<p>Müller,	Alfred: (Schnellboot S-59):	PHOTO: £15.00</p>
+<p>Muser,	Alfred: (8. Raumboots-flottille Commander): PHOTO, LETTER: £20.00</p>
+<p>Paul,	Friedrich-Karl: (2. Torpedoboots Flottille C.O.): PHOTO, NOTE: £20.00</p>
+<p>Rehm,	Hans: (2. Minensuchflottille C.O.):	PHOTO, 2 LETTERS, ENVELOPE: £25.00</p>
+<p>Ruge,	Friedrich: (Commodore, Minensuchboote West):	PHOTO, LETTER: £40.00</p>
+<p>Schneider,	Gerd-Dietrich): (8 Artillerie träger flottille):	PHOTO: £15.00</p>
+<p>Schulz,	Karl: (VP 1509):	PHOTO, LETTER, ENVELOPE, CV: £30.00</p>
+<p>Weber,	Horst: (Schnellboot S-55):	SIGNED PRINT: £15.00</p>
+<p>Weyher,	Kurt: (Hilfskreuzer "Orion"):	PHOTO: £35.00</p>
+<p>Witt,	Hermann: (Hafenkommandant Cherbourg):	PHOTO, LETTER, CV: £45.00</p>
+<p>Wuppermann,	Siegfried: (Schnellboot S-60):	PHOTO, LETTER, PRINT OUT, COPY PHOTO: £30.00</p>
+<p>Zymalkowski,	Felix: (8. Schnellbootsflottille Chief):	PHOTO, SIGNED ADDRESS CARD: £20.00</p>
 <br />
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
+
 
 
