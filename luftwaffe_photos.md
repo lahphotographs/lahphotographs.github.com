@@ -6,36 +6,38 @@ permalink: /luftwaffe_photos.html
 ---
 <div id="booksBySameAuthor">
   <p float="left">
-<img src="./assets/Emil Berner.jpg"/>
-<img src="./assets/Cleve.jpeg"/>
-<img src="./assets/Fahlbusch.jpeg"/>
-<img src="./assets/Ludke.jpeg"/>
-<img src="./assets/Hundertmark.jpeg"/>
+<img src="./assets/Erwin Fischer.jpg"/>
+<img src="./assets/Richard Hofsass.jpeg"/>
+<img src="./assets/Peter Mullensiefen.jpeg"/>
+<img src="./assets/Ludwig Hammer.jpeg"/>
+<img src="./assets/Hans Sehringer.jpeg"/>
+<img src="./assets/Gerhard Reinecke.jpeg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, this batch focusing on the FLAK crew</b></p>
-<p>Bartels,	Herbert: Flak. Regiment 293 (mot.):	PHOTO, LETTER: £20.00
-<p>Berner,	Emil: Flak Regiment 18 (D.A.K.):	PHOTO, PRINT OUT:	£15.00
-<p>Bonnke,	Friedrich: Flak Regiment 42 (mot.):	PHOTO, ENVELOPE:	£20.00
-<p>Bürger,	Albert:	4. Flak Division:	PHOTOs 3 x post war, CV:	£20.00
-<p>Cleve,	Rudolf:	Flak Regiment 4 (mot.):	PHOTO, LETTER, PRINT OUT:	£25.00
-<p>Corts,	Helmut:	Flak Regiment 64 (mot.):	PHOTO, LETTER: £20.00
-<p>Dally,	Hans:	Flak Abteilung 5 (L) (mot.):	PHOTO:	£15.00
-<p>Eggers,	Hermann: Flak Regiment 64: PHOTO, LETTER:	£20.00
-<p>Fahlbusch,	Wilhelm: Flak Regiment 11 (mot.):	PHOTO, LETTER:	£20.00
-<p>Fischer,	Michael: Flak Regiment 14 (mot.):	PHOTO:	£15.00
-<p>Fröbel,	Hans-Roland: Flak Kampfgruppe 287: 	PHOTO, LETTER:	£20.00
-<p>Gemünden,	Otto:	Flak Regiment 49:	PHOTO, LETTER, ENVELOPE, CV, PRINT OUT:	£35.00
-<p>Heintze,	Erich: Flak Regiment 33 (mot.) (D.A.K.):	PHOTO:	£15.00
-<p>Hundertmark,	Gerhard: gem. Flak Sturm Abt. 802 (v.):	PHOTO, LETTER, ENVELOPE, 11-page print out:	£35.00
-<p>Junge,	Herbert: (schwere) Flak Abteilung 326:	PHOTO:	£15.00
-<p>Krebs,	Erich: Flak Regiment 11:	PHOTO:	£15.00
-<p>Lüdke,	Ernst: gem. Flak Abteilung 241:	PHOTO, LETTER, ENVELOPE:	£25.00
-<p>Pirhofer,	Ernst: Flak Regiment 43 (mot.):	PHOTO, PRINT OUT: £20.00
-<p>Prentl,	Josef (Oakleaves): Flak Regiment 29:	PHOTO, SIGNED ADDRESS CARD:	£25.00
-<p>Schneider,	Herbert: Flak Regiment 48 (mot.):	PHOTO:	£15.00
-<p>Schulze,	Franz-Joseph: Flak Sturm Regiment 241:	PHOTO:	£15.00
-<p>Schwabach,	Theo: Flak Regiment 33 (D.A.K.):	PHOTO (clipped):	£10.00
-<p>Vesenmayer,	Dr. agrar. Hans: Flak Abteilung 77 (mot.):	PHOTO, LETTER:	£20.00
+<p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, focusing on the Aufklärungs crew</b></p>
+<p>Fischer,	Erwin	(OAKLEAVES): Aufklärungs-Gruppe 121: PHOTO, ENVELOPE, RK doc PHOTO:	£30.00
+<p>Hammer,	Ludwig:	Aufklärungs-Gruppe 12:	PHOTO, 1 POSTWAR PHOTO, 1 MEDALS PHOTO, ENVELOPE:	£30.00
+<p>Heindorff,	Hans:	Fern-Aufkl. Gruppe des OdL:	PHOTO:	£15.00
+<p>Hemmer,	Hermann: Aufklärungs-Gruppe 122:	PHOTO:	£15.00
+<p>Hirn,	Johannes/Hans: Nahaufkl. Gruppe 32:	PHOTO, LETTER:	£20.00
+<p>Hofsäss,	Richard: Nahaufkl. Gruppe 2:	PHOTO, LETTER, ENVELOPE: £25.00
+<p>Knabe,	Konrad: Fernaufklarungs Staffel Lappland:	PHOTO:	£15.00
+<p>Kuhenne,	Helmut:	Fernaufklärungsgruppe 3:	PHOTO, LETTER:	£20.00
+<p>Lotter,	Hans: Aufklärungs Gruppe 12:	PHOTO:	£15.00
+<p>Meisel,	Martin:	Aufklärungs-Gruppe 123:	PHOTO:	£15.00
+<p>Meisel,	Hans:	Aufklärungs-Gruppe 41:	PHOTO:	£15.00
+<p>Müllensiefen,	Peter-Eberhard:	Aufklärungsgruppe 31:	PHOTO, PRINT OUT, ENVELOPE:	£25.00
+<p>Noell,	Cornelius: Aufklärungsgruppe d. Ob.d.l.:	PHOTO, PRINT OUT:	£20.00
+<p>Pleß,	Helmut:	Aufklärungs-Gruppe 31:	PHOTO:	£15.00
+<p>Reinecke,	Gerhard: Aufklärungs-Gruppe 121:	PHOTO, ENVELOPE:	£20.00
+<p>Remberg,	Josef: Aufklärungs-Gruppe 11:	PHOTO:	£15.00
+<p>Schöbitz,	Ernst: Aufklärungs-Gruppe 12:	PHOTO (clipped): £10.00
+<p>Schürmeyer,	Fritz: Aufkl. Grp. d. OdL: PHOTO:	£15.00
+<p>Sehringer,	Hans:	Aufklärungsgruppe 123:	PHOTO, CV, ADDRESS LABEL:	£25.00
+<p>Sell,	Wilheilm:	Nahaufklärergruppe 5:	PHOTO:	£15.00
+<p>Sommer,	Joachim: Aufklärungsgruppe 31:	PHOTO:	£15.00
+<p>Steffen,	Helmut:	Aufklärungs Gruppe 122:	PHOTO, copy LETTER:	£20.00
+<p>Stumpe,	Erich: Aufklärungsgruppe 121:	PHOTO, PHOTO CARD:	£20.00
+<p>Winter,	Friedrich: Aufklärungsgruppe 16:	PHOTO:	£15.00
 <p>
 <b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
