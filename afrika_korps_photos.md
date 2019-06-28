@@ -20,7 +20,7 @@ permalink: /afrika_korps_photos.html
 <p>Briel,	Georg: Heeres Flak Btl. 606:	PHOTO: £15.00</p>
 <p>Buschhausen,	Friedrich-Wilhelm: Panzer Gren. Rgt. 69:	PHOTO, ENVELOPE:	£20.00</p>
 <p>Christl,	Georg:Luftwaffe	ZG26 "Horst Wessel", (D.A.K.):	PHOTO:	£15.00</p>
-<p>Crinius,	Wilhelm (Oaklevaes):Luftwaffe	JG53, (D.A.K.):	PHOTO, ENVELOPE:	£25.00</p>
+<p>Crinius,	Wilhelm (Oakleaves):Luftwaffe	JG53, (D.A.K.):	PHOTO, ENVELOPE:	£25.00</p>
 <p>Ehle,	Curt	(Oakleaves): 15. Kradschutzen Btl.:	PHOTO, LETTER:	£25.00</p>
 <p>Ewert,	Herbert: Panzer Gren. Rgt. 104: LETTER and PRINT OUT:	£15.00</p>
 <p>Halm,	Günther: Panzer.Gren.Rgt. 104: PHOTO, LETTER, ENVELOPE:	£25.00</p>
