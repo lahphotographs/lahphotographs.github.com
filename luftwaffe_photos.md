@@ -7,11 +7,11 @@ permalink: /luftwaffe_photos.html
 <div id="booksBySameAuthor">
   <p float="left">
 <img src="./assets/Erwin Fischer.jpg"/>
-<img src="./assets/Richard Hofsass.jpeg"/>
-<img src="./assets/Peter Mullensiefen.jpeg"/>
-<img src="./assets/Ludwig Hammer.jpeg"/>
-<img src="./assets/Hans Sehringer.jpeg"/>
-<img src="./assets/Gerhard Reinecke.jpeg"/>
+<img src="./assets/Richard Hofsass.jpg"/>
+<img src="./assets/Peter Mullensiefen.jpg"/>
+<img src="./assets/Ludwig Hammer.jpg"/>
+<img src="./assets/Hans Sehringer.jpg"/>
+<img src="./assets/Gerhard Reinecke.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, focusing on the Aufklärungs crew</b></p>
