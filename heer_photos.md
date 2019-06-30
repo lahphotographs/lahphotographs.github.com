@@ -18,7 +18,6 @@ class: book_cover
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, focusing on: Top scoring Panzer / Armour Aces.</b></p>
 <br />
 <p><b><center>'Panzer Aces'</center></b></p>
-<p>Bölter,	Johannes: (OAKLEAVES),	(schwere) Panzer Abteilung 502:	(139 kills): PHOTO:	£20.00</p>
 <p>Sandrock,	Hans: Fallschirmjäger Pz. Rgt. "HG":	(123 kills): PHOTO, ENVELOPE, NOTE:	£25.00</p>
 <p>Fischer,	Gerhard: Panzer Regiment 23:	(102 kills): PHOTO, LETTER:	£20.00</p>
 <p>Kerscher,	Albert:	(schwere) Panzer Abteilung 502:	(100+ kills): PHOTO:	£15.00</p>
