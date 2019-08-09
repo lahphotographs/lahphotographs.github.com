@@ -31,3 +31,5 @@ permalink: /waffen_ss_photos.html
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £25.00
 <p>Siegel,	Hans: 12. SS-Pz.Div. Hitlerjugend:	PHOTO:	£30.00
 <p>Sonne,	Heinrich: 1. SS-Infantry Brigade (mot.):	PHOTO: £25.00
+<br />
+<p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
