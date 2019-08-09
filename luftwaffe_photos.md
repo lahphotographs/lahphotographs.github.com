@@ -6,12 +6,12 @@ permalink: /luftwaffe_photos.html
 ---
 <div id="booksBySameAuthor">
   <p float="left">
-<img src="./assets/Beerenbrock.jpg"/>
+<img src="./assets/Beerenbrock.jpeg"/>
 <img src="./assets/Duttmann 2.jpg"/>
-<img src="./assets/Adolf Dickfield.jpg"/>
-<img src="./assets/Seiler.jpg"/>
+<img src="./assets/Adolf Dickfield.jpeg"/>
+<img src="./assets/Seiler.jpeg"/>
 <img src="./assets/Tegtmeier 2.JPG"/>
-<img src="./assets/Alfred Grislawski.jpg"/>
+<img src="./assets/Alfred Grislawski.jpeg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, focusing on those pilots who scored 100+ victories</b></p>
