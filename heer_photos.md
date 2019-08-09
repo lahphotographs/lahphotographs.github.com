@@ -8,7 +8,7 @@ class: book_cover
 
 <p float="left">
 <img src="./assets/Josef Gollas.jpg"/>
-<img src="./assets/Behrend.jpg"/>
+<img src="./assets/ Behrend.jpg"/>
 <img src="./assets/Vielwerth.jpg"/>
 <img src="./assets/Niehoff.jpg"/>
 <img src="./assets/Goebel.jpg"/>
