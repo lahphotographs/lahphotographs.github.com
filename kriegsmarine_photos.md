@@ -42,7 +42,6 @@ class: book_cover
 <p>Schröteler,	Heinrich: (U-1023):	PHOTO, LETTER, ENVELOPE, CV: £25.00</p>
 <p>Schröter, von	Horst: (U-123):	PHOTO: £15.00</p>
 <p>Schuhart,	Otto:	(U-29):	LETTER ONLY:	£10.00</p>
-<p>Thomsen,	Rolf	(Oakleaves): (U-1202): PHOTO: £20.00</p>
 <p>Westphalen,	Otto: (U-121, U-968):	PHOTO, ENVELOPE: £20.00</p>
 <p>Witte,	Helmut: (U-159):	PHOTO, LETTER, CV, PRINT OUT, ENVELOPE: £35.00</p>
 <br />
