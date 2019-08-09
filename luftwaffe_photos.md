@@ -6,38 +6,33 @@ permalink: /luftwaffe_photos.html
 ---
 <div id="booksBySameAuthor">
   <p float="left">
-<img src="./assets/Erwin Fischer.jpg"/>
-<img src="./assets/Richard Hofsass.jpg"/>
-<img src="./assets/Peter Mullensiefen.jpg"/>
-<img src="./assets/Ludwig Hammer.jpg"/>
-<img src="./assets/Hans Sehringer.jpg"/>
-<img src="./assets/Gerhard Reinecke.jpg"/>
+<img src="./assets/Beerenbrock.jpg"/>
+<img src="./assets/Duttmann 2.jpg"/>
+<img src="./assets/Adolf Dickfield.jpg"/>
+<img src="./assets/Seiler.jpg"/>
+<img src="./assets/Tegtmeier 2.JPG"/>
+<img src="./assets/Alfred Grislawski.jpg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, focusing on the Aufklärungs crew</b></p>
-<p>Fischer,	Erwin	(OAKLEAVES): Aufklärungs-Gruppe 121: PHOTO, ENVELOPE, RK doc PHOTO:	£30.00
-<p>Hammer,	Ludwig:	Aufklärungs-Gruppe 12:	PHOTO, 1 POSTWAR PHOTO, 1 MEDALS PHOTO, ENVELOPE:	£30.00
-<p>Heindorff,	Hans:	Fern-Aufkl. Gruppe des OdL:	PHOTO:	£15.00
-<p>Hemmer,	Hermann: Aufklärungs-Gruppe 122:	PHOTO:	£15.00
-<p>Hirn,	Johannes/Hans: Nahaufkl. Gruppe 32:	PHOTO, LETTER:	£20.00
-<p>Hofsäss,	Richard: Nahaufkl. Gruppe 2:	PHOTO, LETTER, ENVELOPE: £25.00
-<p>Knabe,	Konrad: Fernaufklärungs Staffel Lappland:	PHOTO:	£15.00
-<p>Kuhenne,	Helmut:	Fernaufklärungsgruppe 3:	PHOTO, LETTER:	£20.00
-<p>Lotter,	Hans: Aufklärungs Gruppe 12:	PHOTO:	£15.00
-<p>Meisel,	Martin:	Aufklärungs-Gruppe 123:	PHOTO:	£15.00
-<p>Meisel,	Hans:	Aufklärungs-Gruppe 41:	PHOTO:	£15.00
-<p>Müllensiefen,	Peter-Eberhard:	Aufklärungsgruppe 31:	PHOTO, PRINT OUT, ENVELOPE:	£25.00
-<p>Noell,	Cornelius: Aufklärungsgruppe d. Ob.d.l.:	PHOTO, PRINT OUT:	£20.00
-<p>Pleß,	Helmut:	Aufklärungs-Gruppe 31:	PHOTO:	£15.00
-<p>Reinecke,	Gerhard: Aufklärungs-Gruppe 121:	PHOTO, ENVELOPE:	£20.00
-<p>Remberg,	Josef: Aufklärungs-Gruppe 11:	PHOTO:	£15.00
-<p>Schöbitz,	Ernst: Aufklärungs-Gruppe 12:	PHOTO (clipped): £10.00
-<p>Schürmeyer,	Fritz: Aufkl. Grp. d. OdL: PHOTO:	£15.00
-<p>Sehringer,	Hans:	Aufklärungsgruppe 123:	PHOTO, CV, ADDRESS LABEL:	£25.00
-<p>Sell,	Wilheilm:	Nahaufklärergruppe 5:	PHOTO:	£15.00
-<p>Sommer,	Joachim: Aufklärungsgruppe 31:	PHOTO:	£15.00
-<p>Steffen,	Helmut:	Aufklärungs Gruppe 122:	PHOTO, copy LETTER:	£20.00
-<p>Stumpe,	Erich: Aufklärungsgruppe 121:	PHOTO, PHOTO CARD:	£20.00
-<p>Winter,	Friedrich: Aufklärungsgruppe 16:	PHOTO:	£15.00
+<p><b>Below is a selection of Luftwaffe Knight's Cross holder photographs currently for sale, focusing on those pilots who scored 100+ victories</b></p>
+<p>Beerenbrock,	Franz Josef	(OAKLEAVES): JG51 "Mölders":	PHOTO, PHOTO unsigned:	110+ victories:	£25.00
+<p>Crinius,	Wilhelm	(OAKLEAVES): JG53, (D.A.K.):	PHOTO, ENVELOPE:	110+ victories:	£25.00
+<p>Dahl,	Walther	(OAKLEAVES):	JG3 "Udet":	PHOTO, PRINT OUT, 2 documents:	110+ victories:	£30.00
+<p>Dickfeld,	Adolf	(OAKLEAVES):	JG52:	PHOTO: 130+ victories:	£20.00
+<p>Düttmann,	Peter:	JG52:	PHOTO:	140+ victories:	£15.00
+<p>Eisenach,	Franz Josef:	JG54:	PHOTO:	120+ victories:	£15.00
+<p>Grislawski,	Alfred	(OAKLEAVES):	JG52:	PHOTO, +1 SIGNED MEDAL GROUPING PHOTO:	120+ victories:	£30.00
+<p>Hrabak,	Dietrich	(OAKLEAVES):	JG54:	PHOTO, PRINT OUT:	120+ victories:	£25.00
+<p>Josten,	Günther	(OAKLEAVES):	JG51 "Mölders":	PHOTO:	170+ victories:	£20.00
+<p>Reinert,	Ernst-Wilhelm	(SWORDS & OAKLEAVES):	JG77 (D.A.K.):	Colour PHOTO:	160+ victories:	£30.00
+<p>Rudorffer,	Erich	(SWORDS & OAKLEAVES):	JG2 "Richthofen" (D.A.K.):	PHOTO, LETTER:	210+ victories:	£30.00
+<p>Schack,	Günther	(OAKLEAVES):	JG51 "Mölders":	Colour PHOTO:	170+ victories:	£25.00
+<p>Schuck,	Walter	(OAKLEAVES):	JG5:	PHOTO, LETTER:	180+ victories: Finland:	£25.00
+<p>Seiler,	Reinhard	(OAKLEAVES):	JG54:	PHOTO:	100+ victories:	£20.00
+<p>Steinhoff,	Johannes	(SWORDS & OAKLEAVES):	JG52:	PHOTO BW, LETTER, PRINT OUT x 2:	160+ victories:	£30.00
+<p>Tegtmeier,	Fritz:	JG54:	PHOTO:	140+ victories:	£20.00
+<p>Thyben,	Gerhard	(OAKLEAVES):	JG54:	PHOTO:	150+ victories:	£20.00
+<p>Trenkel,	Rudolf:	JG52:	PHOTO (clipped), LETTER:	130+ victories:	£20.00
+<p>Wolfrum,	Walter:	JG52:	PHOTO:	130+ victories:	£15.00
 <p>
 <b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
