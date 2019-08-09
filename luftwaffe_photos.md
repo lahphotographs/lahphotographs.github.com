@@ -6,11 +6,11 @@ permalink: /luftwaffe_photos.html
 ---
 <div id="booksBySameAuthor">
   <p float="left">
-<img src="./assets/Beerenbrock.jpeg"/>
+<img src="./assets/Beerenbrock.jpg"/>
 <img src="./assets/Duttmann 2.jpg"/>
 <img src="./assets/Adolf Dickfield.jpeg"/>
 <img src="./assets/Seiler.jpeg"/>
-<img src="./assets/Tegtmeier 2.JPG"/>
+<img src="./assets/Tegtmeier 2.jpeg"/>
 <img src="./assets/Alfred Grislawski.jpeg"/>
 </p>  
 <br />
