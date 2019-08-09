@@ -7,11 +7,11 @@ permalink: /waffen_ss_photos.html
 <div id="axisforces">
 <p float="left">
 <img src="./assets/Scherg 2.jpg"/>
-<img src="./assets/Siegel.jpg"/>
-<img src="./assets/Nugiseks.jpg"/>
-<img src="./assets/Nicolussi-Leck.jpg"/>
-<img src="./assets/Baum.jpg"/>
-<img src="./assets/Heder.jpg"/>
+<img src="./assets/Siegel.jpeg"/>
+<img src="./assets/Nugiseks.jpeg"/>
+<img src="./assets/Nicolussi-Leck.jpeg"/>
+<img src="./assets/Baum.jpeg"/>
+<img src="./assets/Heder.jpeg"/>
 <img src="./assets/Remi Schrijnen.jpg"/>
 </p>  
 <br />  
