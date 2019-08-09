@@ -9,7 +9,6 @@ permalink: /luftwaffe_photos.html
 <img src="./assets/Beerenbrock.jpg"/>
 <img src="./assets/Duttmann 2.jpg"/>
 <img src="./assets/Adolf Dickfield.jpeg"/>
-<img src="./assets/Seiler.jpeg"/>
 <img src="./assets/Tegtmeier 2.jpeg"/>
 <img src="./assets/Alfred Grislawski.jpeg"/>
 </p>  
