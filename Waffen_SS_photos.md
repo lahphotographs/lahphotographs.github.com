@@ -19,8 +19,8 @@ permalink: /waffen_ss_photos.html
 <br />
 <p>Baum,	Otto: 2. SS-Panzer Division Das Reich:	PHOTO:	£35.00
 <p>Blond,	Friedrich: LSSAH Ausb. u. Ersatz Batt. 1:	PHOTO:	£25.00
-<p>Heder<	Eberhard: 5. SS-Panzer Division Wiking:	PHOTO:	£25.00
-<p>Lainer	Sepp: 2. SS-Panzer Div. Das Reich:	PHOTO:	£25.00
+<p>Heder,	Eberhard: 5. SS-Panzer Division Wiking:	PHOTO:	£25.00
+<p>Lainer,	Sepp: 2. SS-Panzer Div. Das Reich:	PHOTO:	£25.00
 <p>Lichte,	Karl-Heinz: 5. SS-Panzer Division Wiking:	PHOTO:	£25.00
 <p>Jürgens,	Heinz: 4. SS-Polizei Division:	PHOTO, LETTER:	£30.00
 <p>Nicolussi-Leck,	Karl: 5. SS-Panzer Division Wiking:	PHOTO:	£25.00
