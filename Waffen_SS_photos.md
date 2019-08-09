@@ -10,14 +10,12 @@ permalink: /waffen_ss_photos.html
 <img src="./assets/Siegel.jpeg"/>
 <img src="./assets/Nugiseks.jpeg"/>
 <img src="./assets/Nicolussi-Leck.jpeg"/>
-<img src="./assets/Baum.jpeg"/>
 <img src="./assets/Heder.jpeg"/>
 <img src="./assets/Remi Schrijnen.jpg"/>
 </p>  
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<p>Baum,	Otto: 2. SS-Panzer Division Das Reich:	PHOTO:	£35.00
 <p>Blond,	Friedrich: LSSAH Ausb. u. Ersatz Batt. 1:	PHOTO:	£25.00
 <p>Heder,	Eberhard: 5. SS-Panzer Division Wiking:	PHOTO:	£25.00
 <p>Lainer,	Sepp: 2. SS-Panzer Div. Das Reich:	PHOTO:	£25.00
