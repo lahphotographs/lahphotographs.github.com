@@ -18,7 +18,6 @@ class: book_cover
 <p>Bargsten,	Klaus: (U-521):	PHOTO, LETTER: £20.00</p>
 <p>Bielig, Gerhard: (U-177):	PHOTO, CV: £20.00</p>
 <p>Brasack, Paul: (U-737):	PHOTO: £15.00</p>
-<p>Bülow,	von Otto (Oakleaves): (U-404):	PHOTO: £20.00</p>
 <p>Dammeier,	Heinrich: (U-270):	PHOTO, LETTER, ENVELOPE, CV: £30.00</p>
 <p>Dobratz,	Kurt Karl Anton: (U-1232):	PHOTO: £15.00</p>
 <p>Dommes,	Wilhelm	: (U-431):	PHOTO, LETTER, 2 X PRINT OUTS: £25.00</p>
