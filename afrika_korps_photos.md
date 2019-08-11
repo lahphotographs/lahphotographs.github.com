@@ -8,6 +8,7 @@ permalink: /afrika_korps_photos.html
 <p float="left">
 <img src="./assets/Emil Berner.jpg"/>
 <img src="./assets/Konrad Rittmeyer.jpg"/>
+<img src="./assets/Nehring.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Afrika Korps Knight's Cross holder photographs currently for sale.</b></p>
@@ -40,5 +41,5 @@ permalink: /afrika_korps_photos.html
 <p>Schultz,	Otto: JG51 "Mölders": PHOTO: £20.00</p>
 <p>Schwabach,	Theo: Flak Regiment 33: PHOTO, ENVELOPE: £20.00</p>
 <p>Zahn,	Dr. rer. Pol. Eberhard:	Heer Panzerjäger Abt. 33 (D.A.K.): PHOTO: £20.00</p>
-	
-	Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
+<br />
+<p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
