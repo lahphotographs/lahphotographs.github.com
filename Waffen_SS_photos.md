@@ -14,7 +14,7 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<p>Barkmann,	Ernst: 2. SS-Panzer Div. Das Reic:	PHOTO:	£30.00
+<p>Barkmann,	Ernst: 2. SS-Panzer Div. Das Reich:	PHOTO:	£30.00
 <p>Blond,	Friedrich: LSSAH Ausb. u. Ersatz Batt. 1:	PHOTO:	£25.00
 <p>Heder,	Eberhard: 5. SS-Panzer Division Wiking:	PHOTO:	£25.00
 <p>Lainer,	Sepp: 2. SS-Panzer Div. Das Reich:	PHOTO:	£25.00
