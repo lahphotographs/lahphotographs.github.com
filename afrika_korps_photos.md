@@ -8,7 +8,7 @@ permalink: /afrika_korps_photos.html
 <p float="left">
 <img src="./assets/Emil Berner.jpg"/>
 <img src="./assets/Konrad Rittmeyer.jpg"/>
-<img src="./assets/Nehring.jpg"/>
+<img src="./assets/Nehring.JPG"/>
 </p>  
 <br />
 <p><b>Below is a selection of Afrika Korps Knight's Cross holder photographs currently for sale.</b></p>
