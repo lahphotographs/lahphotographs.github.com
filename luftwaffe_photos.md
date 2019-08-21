@@ -24,7 +24,6 @@ permalink: /luftwaffe_photos.html
 <p>Hrabak,	Dietrich	(OAKLEAVES):	JG54:	PHOTO, PRINT OUT:	120+ victories:	£25.00
 <p>Josten,	Günther	(OAKLEAVES):	JG51 "Mölders":	PHOTO:	170+ victories:	£20.00
 <p>Reinert,	Ernst-Wilhelm	(SWORDS & OAKLEAVES):	JG77 (D.A.K.):	Colour PHOTO:	160+ victories:	£30.00
-<p>Rudorffer,	Erich	(SWORDS & OAKLEAVES):	JG2 "Richthofen" (D.A.K.):	PHOTO, LETTER:	210+ victories:	£30.00
 <p>Schack,	Günther	(OAKLEAVES):	JG51 "Mölders":	Colour PHOTO:	170+ victories:	£25.00
 <p>Schuck,	Walter	(OAKLEAVES):	JG5:	PHOTO, LETTER:	180+ victories: Finland:	£25.00
 <p>Seiler,	Reinhard	(OAKLEAVES):	JG54:	PHOTO:	100+ victories:	£20.00
