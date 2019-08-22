@@ -19,6 +19,7 @@ permalink: /waffen_ss_photos.html
 <p>Lichte,	Karl-Heinz: 5. SS-Panzer Division "Wiking":	PHOTO:	£25.00
 <p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO, LETTER:	£30.00
 <p>Nugiseks,	Harald: 20. SS-Division "Estnische Nr. 1":	PHOTO:	£25.00
+<p>Reber,	Gustav-Peter:	Kampfgruppe XI. SS-Panzer Korps:	PHOTO:	£25.00
 <p>Sametreiter,	Kurt:	1. SS-Panzer Division "LSSAH":	PHOTO (stamped signature):	£20.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £25.00
 <br />
