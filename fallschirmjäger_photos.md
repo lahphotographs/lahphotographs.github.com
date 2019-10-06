@@ -18,11 +18,9 @@ permalink: /fallschirmjäger_photos.html
 <p>Beine,	Erich: Fallschirmjäger Regiment 12:	Photo, letter, print out:	£35.00
 <p>Blauensteiner,	Ernst: Ia, II. Fallschirmjäger Korps:	Photo: £25.00
 <p>Büttner,	Manfred: Fallschirmjäger Regiment 26: Photo, letter, envelope: £35.00
-<p>Conrath,	Paul (Swords): Inspector der Fallschirmjäger / General der Fallschirmjaeger: Photo:	£50.00
-<p>Delica,	Egon: Fallschirmjäger Sturm Abteiung "Koch":	Photo: £45.00
-<p>Deutsch,	Heinz: Fallschirmjäger Stug. Brig. 12:	Photo, letter: £35.00
+<p>Conrath,	Paul (Swords): Inspector der Fallschirmjäger / General der Fallschirmjaeger: Photo:	£40.00
+<p>Delica,	Egon: Fallschirmjäger Sturm Abteiung "Koch":	Photo: £35.00
 <p>Donth,	Rudolf:	Fallschirmjäger Regiment 4:	Photo: £30.00
-<p>Genz,	Alfred:	Fallschirmjäger Sturm Rgt. 1: Photo: £25.00
 <p>Germer,	Ernst: Fallschirmjäger Regiment 1:	Photo: £25.00
 <p>Gerstner,	Siegfried: Fallschirmjäger Regiment 1:	Photo, address card: £30.00
 <p>Hübner,	Eduard:	1. Fallschirmjäger Armee:	Photo (clipped): £20.00
@@ -36,7 +34,7 @@ permalink: /fallschirmjäger_photos.html
 <p>Riedel,	Gerd:	Fallschirmjäger Regiment 7 C.O.:	Photo, 2 letters, envelope:	£35.00
 <p>Schirmer,	Gerhart	(Oakleaves): Fallschirmjäger Regiment 2:	Photo, letter, print out:	£35.00
 <p>Stecken,	Albert:	Ia, 8. Fallschirmjäger Division:	Letter only:	£15.00
-<p>Trettner,	Heinrich	(Oakleaves): 4. Fallschirmjäger Division C.O.: Photo, letter, envelope, BW photo:	£50.00
+<p>Trettner,	Heinrich	(Oakleaves): 4. Fallschirmjäger Division C.O.: Photo, letter, envelope, BW photo:	£45.00
 <p>Uhlig,	Alexander: Fallschirmjäger Regiment 6:	Photo, note, signed CV:	£35.00
 <p>Wangerin,	Friedrich-Wilhelm: Fallschirmjäger Regiment 16:	Photo, letter, envelope: £35.00
 
