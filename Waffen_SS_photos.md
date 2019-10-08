@@ -8,6 +8,7 @@ permalink: /waffen_ss_photos.html
 <p float="left">
 <img src="./assets/Remi Schrijnen grouping.jpeg"/>
 <img src="./assets/Heinz Jurgens 2.jpg"/>
+<img src="./assets/Kurt panzer.jpeg"/>
 </p>  
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
