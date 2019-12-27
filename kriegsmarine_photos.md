@@ -7,11 +7,10 @@ class: book_cover
 ---
 
 <p float="left">
+<img src="./assets/Alfred Eick.jpg"/>
+<img src="./assets/Paul Brasack.jpg"/>
 <img src="./assets/Carl Landfermann.jpg"/>
 <img src="./assets/Otto Westphalen.jpg"/>
-<img src="./assets/Feldt 2.jpg"/>
-<img src="./assets/Bramesfeld 2.jpg"/>
-<img src="./assets/Helmut Witt 2 2.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Kriegsmarine Knight's Cross holder photographs currently for sale, focusing on the U-Boat men.</b><br />
