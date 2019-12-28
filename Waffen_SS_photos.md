@@ -13,12 +13,10 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<p>Bromann,	Karl:	(schwere) SS-Panzer Abteilung 503:	PHOTO (double signed, with note on rear): £30.00
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £25.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£30.00
 <p>Heder,	Eberhard: 5. SS-Panzer Division Wiking:	PHOTO, POST-WAR PHOTO:	£25.00
 <p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO, LETTER, ENVELOPE:	£35.00
-<p>Kumm,	Otto (SWORDS): 2. SS-Panzer Division 'Das Reich', 7. SS-Gebirgs Division 'Prinz Eugen':	PHOTO, POST-WAR PHOTO:	£35.00
 <p>Nicolussi-Leck, Karl: 5. SS-Panzer Division 'Wiking':	PHOTO:	£25.00
 <p>Sailer,	Johann:	9. SS-Division "Hohenstaufen":	PHOTO: £25.00
 <p>Sametreiter,	Kurt:	1. SS-Panzer Division "Leibstandarte SS-Adolf Hitler":	PHOTO (stamped signature): £20.00  
