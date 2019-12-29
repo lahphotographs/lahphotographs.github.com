@@ -15,7 +15,6 @@ permalink: /waffen_ss_photos.html
 <br />
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £25.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£30.00
-<p>Heder,	Eberhard: 5. SS-Panzer Division Wiking:	PHOTO, POST-WAR PHOTO:	£25.00
 <p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO, LETTER, ENVELOPE:	£35.00
 <p>Nicolussi-Leck, Karl: 5. SS-Panzer Division 'Wiking':	PHOTO:	£25.00
 <p>Sailer,	Johann:	9. SS-Division "Hohenstaufen":	PHOTO: £25.00
