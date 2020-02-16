@@ -6,10 +6,16 @@ permalink: /waffen_ss_photos.html
 
 <div id="axisforces">
 <p float="left">
-<img src="./assets/Remi Schrijnen grouping.jpeg"/>
-<img src="./assets/Heinz Jurgens 2.jpg"/>
-<img src="./assets/Kurt panzer.jpeg"/>
-</p>  
+<img src="./assets/Rolleke copy.jpg"/>
+<img src="./assets/Hausser Hans copy.jpg"/>
+<img src="./assets/Siegel Hans copy.jpg"/>
+<img src="./assets/Sandig copy.jpg"/>
+<img src="./assets/Rudolf Richard copy.jpg"/>
+<img src="./assets/Frey copy.jpg"/>
+<img src="./assets/Krag copy.jpg"/>
+<img src="./assets/Fenet copy.jpg"/>
+<img src="./assets/Frauscher copy.jpg"/>
+<img src="./assets/Gresiak copy.jpg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
