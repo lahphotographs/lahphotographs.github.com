@@ -16,6 +16,10 @@ permalink: /waffen_ss_photos.html
 <img src="./assets/Fenet copy.jpg"/>
 <img src="./assets/Frauscher copy.jpg"/>
 <img src="./assets/Gresiak copy.jpg"/>
+<img src="./assets/Schrijnen studio copy.jpg"/>
+<img src="./assets/Fey copy.jpg"/>
+<img src="./assets/Damsch copy.jpg"/>
+<img src="./assets/Brommann copy.jpg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
