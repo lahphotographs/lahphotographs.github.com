@@ -29,6 +29,7 @@ permalink: /waffen_ss_photos.html
 <p>Harmel,	Heinz:	10. SS-Division "Frundsberg":	PHOTO: £55.00
 <p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO, LETTER, ENVELOPE:	£50.00
 <p>Lainer,	Sepp:	3. SS-Division "Totenkopf":	PHOTO (large format): £40.00
+<p>Macher,	Heinz (OAKLEAVES): 2. SS-Panzer Division "Das Reich":	PHOTO:	£45.00
 <p>Reber,	Gustav-Peter:	XI. SS-Panzer Korps:	PHOTO: £40.00
 <p>Rolleke,	Josef:	3. SS-Division "Totenkopf":	PHOTO (mid-size format): £40.00
 <p>Rudolf,	Richard:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
