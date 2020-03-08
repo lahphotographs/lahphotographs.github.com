@@ -85,4 +85,5 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Halbe Pocket 1945</center></b></p>  
 <p>Reber,	Gustav-Peter:	XI. SS-Panzer Korps:	PHOTO: £40.00
 <br />
+<br />   
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
