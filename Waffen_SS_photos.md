@@ -16,7 +16,7 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<p><center>Kharkov 1943<center/><p/>  
+<p><center>Kharkov 1943</center></p>  
 <p>Bachmann,	Erwin:	10. SS-Division "Frundsberg":	PHOTO (mid-size format): £40.00
 <p>Behler,	Klemens:	SS-Kampfgruppe Besslein:	PHOTO: £40.00
 <p>Besslein,	Georg-Robert:	9. SS-Division "Hohenstaufen":	PHOTO: £40.00
