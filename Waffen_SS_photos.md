@@ -123,9 +123,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Kurland Pocket 1945</center></b></p>  
 <p>Behler,	Klemens:	23. SS-Division 'Nederland':	PHOTO: £40.00
 <br />  
-<p><b><center>Kolberg 1945</center></b></p>  
-<p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
-<br /> 
 <p><b><center>Pomerania / Poland / Germany 1945</center></b></p>  
 <p>Ax,	Adolf:	15. SS-Frei.Gren. Division "Lettisches Nr. 1":	PHOTO: £120.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 502:	PHOTO (large format): £40.00
