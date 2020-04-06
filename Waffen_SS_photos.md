@@ -20,14 +20,11 @@ permalink: /waffen_ss_photos.html
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
-<p>Bremer, Gerhard (KNIGHT'S CROSS): LSSAH: PHOTO: £70.00
 <p>Gille, Herbert-Otto (KNIGHT'S CROSS): SS-Wiking Division: PHOTO (Wartime signed): £350.00   
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
-<p>Seela,	Max:	SS-Division Totenkopf:	PHOTO: £65.00
 <p>Springer,	Heinrich:	LSSAH:	PHOTO: £55.00
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
 <p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
-<p>Wisch, Theodor (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
 <br />
 <p><b><center>Kharkov 1943</center></b></p>
 <p>Fick,	Jakob:	SS-Division "Das Reich":	PHOTO: £75.00
@@ -41,14 +38,11 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Kursk 1943</center></b></p>
 <p>Baum, Otto (OAKLEAVES): LSSAH: PHOTO: £55.00
 <p>von Ribbentrop,	Rudolf:	SS-Division "Leibstandarte":	PHOTO: £40.00  
-<p>Sametreiter,	Kurt:	SS-Division "Leibstandarte":	PHOTO (stamped signature): £35.00
-<p>Schrieber,	Helmuth:	SS-Division "Das Reich":	PHOTO: £65.00    
+<p>Sametreiter,	Kurt:	SS-Division "Leibstandarte":	PHOTO (stamped signature): £35.00 
 <br />  
-<p><b><center>Russia 1943</center></b></p>  
-<p>Boska,	Karl-Heinz:	2. SS-Panzer Division "Das Reich":	PHOTO: £40.00    
+<p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried: 2. SS-Panzer Division "Das Reich":	PHOTO: £40.00  
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO: £45.00
-<p>Fegelein,	Waldemar:	8. SS-Kavallerie Division "Florian Geyer"(LATER DIVISIONAL COMMANDER):	PHOTO: £65.00
 <p>Gille, Herbert-Otto (OAKLEAVES): 5. SS-Panzer Division 'Wiking' (DIVISIONAL COMMANDER): PHOTO (Wartime signed): £350.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £40.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £55.00
@@ -66,7 +60,6 @@ permalink: /waffen_ss_photos.html
 <p>Zepper,	Erich:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
 <br />   
 <p><b><center>Oranienbaum / Narwa / Tannenberg 1944</center></b></p>  
-<p>Kausch,	Paul-Albert (KNIGHT'S CROSS):	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £55.00
 <p>Langendorf,	Georg:	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £55.00
 <p>Nugiseks,	Harald:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £40.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £40.00
@@ -85,17 +78,14 @@ permalink: /waffen_ss_photos.html
 <p>Rolleke,	Josef:	3. SS-Division "Totenkopf":	PHOTO (mid-size format): £40.00  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
 <p>Ullrich,	Karl (OAKLEAVES):	3. SS-Panzer Division "Totenkopf" (DIVISIONAL COMMANDER):	PHOTO: £55.00
-<p>Wisch, Theodor (OAKLEAVES): 1. SS-Panzer Division "LSSAH" (DIVISIONAL COMMANDER): PHOTO: £55.00
 <br /> 
 <p><b><center>Normandy 1944</center></b></p>  
 <p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
-<p>Bremer, Gerhard (OAKLEAVES): 12. SS-Division "Hitlerjugend": PHOTO: £70.00
 <p>Hinz,	Bruno (OAKLEAVES):	17. SS-Pz.Gren.Div. "Gotz von Berlichingen":	PHOTO (signed 1967): £350.00
 <p>Langanke,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO:	£40.00
 <p>Macher,	Heinz (OAKLEAVES): 2. SS-Panzer Division "Das Reich":	PHOTO:	£45.00
 <p>Rudolf,	Richard:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
 <p>Siegel,	Hans:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00  
-<p>Wisch, Theodor (SWORDS): 1. SS-Panzer Division "LSSAH" (DIVISIONAL COMMANDER): PHOTO: £55.00
 <br />  
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £40.00
@@ -110,7 +100,6 @@ permalink: /waffen_ss_photos.html
 <p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
 <p>Krombholz,	Franz-Josef: 7. SS-Gebirgs Division "Prinz Eugen":	PHOTO: £50.00
 <p>Kumm,	Otto:	(SWORDS) 7. SS-Gebirgs Division "Prinz Eugen" (LATER DIVISIONAL COMMANDER):	PHOTO: £55.00
-<p>Lipinski,	Hans:	18. SS-Pz.Gren.Division "Horst Wessel":	PHOTO: £40.00
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO: £40.00
 <br />  
 <p><b><center>Colmar / Ardennes Offensive 1945</center></b></p>  
@@ -124,7 +113,6 @@ permalink: /waffen_ss_photos.html
 <p>Behler,	Klemens:	23. SS-Division 'Nederland':	PHOTO: £40.00
 <br />  
 <p><b><center>Pomerania / Poland / Germany 1945</center></b></p>  
-<p>Ax,	Adolf:	15. SS-Frei.Gren. Division "Lettisches Nr. 1":	PHOTO: £120.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 502:	PHOTO (large format): £40.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
 <p>Hund,	Willi:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £40.00 
@@ -134,7 +122,6 @@ permalink: /waffen_ss_photos.html
 <p>Porsch,	Frithjof Elmo:	SS-Pz.Jg.Kp. Dora II: PHOTO: £40.00 
 <br />  
 <p><b><center>Slovenia 1945</center></b></p>  
-<p>Hampel,	Desiderius:	13. SS-Division "Handschar" (DIVISIONAL COMMANDER):	PHOTO: £55.00
 <p>Stenwedel,	Albert:	13. SS-Division "Handschar":	PHOTO (large format): £40.00
 <br />  
 <p><b><center>Budapest / Hungary / Austria 1945</center></b></p>  
@@ -147,8 +134,6 @@ permalink: /waffen_ss_photos.html
 <p>Hauser,	Hans:	2. SS-Division "Das Reich": PHOTO: £45.00 
 <p>Kreutz,	Karl:	2. SS-Division "Das Reich" (DIVISIONAL COMMANDER): PHOTO: £40.00 
 <p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00
-<p>Maringgele,	Hermann:	8. SS-Kavallerie Division "Florian Geyer":	PHOTO: £100.00
-<p>Phoenix,	Harry:	8. SS-Kavallerie Division "Florian Geyer":	PHOTO: £50.00
 <p>Riedel,	Franz:	10. SS-Division "Frundsberg":	PHOTO: £50.00
 <p>Rieflin,	Fritz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
 <p>Sailer,	Johann:	9. SS-Division "Hohenstaufen":	PHOTO: £40.00
@@ -164,7 +149,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Battle for Berlin 1945</center></b></p>  
 <p>Fey,	Will:	(s)SS-Pz.Abt. 502:	PHOTO: £50.00
 <p>Gieseler,	Karl:	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £45.00
-<p>Kausch,	Paul-Albert (OAKLEAVES):	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £55.00
 <p>Lobmeyer,	Jakob:	SS-Pz.Jg.Abt. 561:	PHOTO: £50.00
 <br />
 <br />   
