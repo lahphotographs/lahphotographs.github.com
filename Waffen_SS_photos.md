@@ -22,13 +22,11 @@ permalink: /waffen_ss_photos.html
 <p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
 <p>Gille, Herbert-Otto (KNIGHT'S CROSS): SS-Wiking Division: PHOTO (Wartime signed): £350.00   
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
-<p>Seela,	Max:	SS-Division Totenkopf:	PHOTO: £65.00
 <p>Springer,	Heinrich:	LSSAH:	PHOTO: £55.00
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
 <p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
 <br />
 <p><b><center>Kharkov 1943</center></b></p>
-<p>Fick,	Jakob:	SS-Division "Das Reich":	PHOTO: £75.00
 <p>Harmel,	Heinz (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO: £55.00
 <p>Macher,	Heinz (KINGHT'S CROSS): SS-Division "Das Reich":	PHOTO:	£45.00
@@ -49,9 +47,7 @@ permalink: /waffen_ss_photos.html
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Lainer,	Sepp:	SS-Division "Totenkopf":	PHOTO (large format): £40.00  
 <p>Harmel,	Heinz (OAKLEAVES):	SS-Division "Das Reich":	PHOTO: £55.00
-<p>Hinz,	Bruno (KNIGHT'S CROSS):	5. SS-Panzer Division "Wiking":	PHOTO (signed 1967): £350.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £40.00
-<p>von Milovan,	Berndt Lubich:	SS-Division "Totenkopf":	PHOTO: £125.00 
 <p>Mooymann,	Gerardes:	SS-Freiwilligen Legion  "Nederland":	PHOTO (Wartime clipped signature): £250.00
 <p>Muller,	Albert:	SS-Division "Wiking":	PHOTO: £55.00
 <p>Schneidereit,	Alfred:	1. SS-Panzer Division "LSSAH":	PHOTO: £45.00
@@ -82,7 +78,6 @@ permalink: /waffen_ss_photos.html
 <br /> 
 <p><b><center>Normandy 1944</center></b></p>  
 <p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
-<p>Hinz,	Bruno (OAKLEAVES):	17. SS-Pz.Gren.Div. "Gotz von Berlichingen":	PHOTO (signed 1967): £350.00
 <p>Langanke,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO:	£40.00
 <p>Macher,	Heinz (OAKLEAVES): 2. SS-Panzer Division "Das Reich":	PHOTO:	£45.00
 <p>Rudolf,	Richard:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
