@@ -7,7 +7,6 @@ permalink: /waffen_ss_photos.html
 <div id="axisforces">
 <p float="left">
 <img src="./assets/Rolleke copy.jpg"/>
-<img src="./assets/Siegel Hans copy.jpg"/>
 <img src="./assets/Sandig copy.jpg"/>
 <img src="./assets/Rudolf Richard copy.jpg"/>
 <img src="./assets/Schrijnen studio copy.jpg"/>
@@ -22,15 +21,12 @@ permalink: /waffen_ss_photos.html
 <p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
 <p>Gille, Herbert-Otto (KNIGHT'S CROSS): SS-Wiking Division: PHOTO (Wartime signed): £350.00   
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
-<p>Springer,	Heinrich:	LSSAH:	PHOTO: £55.00
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
 <p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
 <br />
 <p><b><center>Kharkov 1943</center></b></p>
 <p>Harmel,	Heinz (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO: £55.00
-<p>Macher,	Heinz (KINGHT'S CROSS): SS-Division "Das Reich":	PHOTO:	£45.00
-<p>Reder,	Walter:	SS-Division "Totenkopf":	PHOTO: £50.00
 <p>Sandig,	Rudi:	SS-Division "Leibstandarte":	PHOTO: £50.00
 <p>Stadler,	Sylvester (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £65.00  
 <br />  
@@ -45,7 +41,6 @@ permalink: /waffen_ss_photos.html
 <p>Gille, Herbert-Otto (OAKLEAVES): 5. SS-Panzer Division 'Wiking' (DIVISIONAL COMMANDER): PHOTO (Wartime signed): £350.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £40.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £55.00
-<p>Lainer,	Sepp:	SS-Division "Totenkopf":	PHOTO (large format): £40.00  
 <p>Harmel,	Heinz (OAKLEAVES):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £40.00
 <p>Mooymann,	Gerardes:	SS-Freiwilligen Legion  "Nederland":	PHOTO (Wartime clipped signature): £250.00
@@ -72,14 +67,14 @@ permalink: /waffen_ss_photos.html
 <p><b><center>U.S.S.R. 1944</center></b></p>  
 <p>Gille, Herbert-Otto (DIAMONDS): 5. SS-Panzer Division 'Wiking'(LATER KORPS COMMANDER): PHOTO (Wartime signed): £350.00
 <p>Hack,	Franz (KNIGHT'S CROSS):	5. SS-Panzer Division "Wiking":	PHOTO: £50.00 
-<p>Rolleke,	Josef:	3. SS-Division "Totenkopf":	PHOTO (mid-size format): £40.00  
+<p>Rolleke,	Josef:	3. SS-Division "Totenkopf":	PHOTO (mid-size format): £40.00
+<p>Feidler,	Johannes:	SS-Division "Totenkopf":	PHOTO (large format): £40.00  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
 <p>Ullrich,	Karl (OAKLEAVES):	3. SS-Panzer Division "Totenkopf" (DIVISIONAL COMMANDER):	PHOTO: £55.00
 <br /> 
 <p><b><center>Normandy 1944</center></b></p>  
 <p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
 <p>Langanke,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO:	£40.00
-<p>Macher,	Heinz (OAKLEAVES): 2. SS-Panzer Division "Das Reich":	PHOTO:	£45.00
 <p>Rudolf,	Richard:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
 <p>Siegel,	Hans:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00  
 <br />  
@@ -114,7 +109,7 @@ permalink: /waffen_ss_photos.html
 <p>Hund,	Willi:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £40.00 
 <p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO, LETTER, ENVELOPE:	£50.00
 <p>Langhorst,	Bernhard:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £40.00
-<p>Lohmann,	Hanns-Heinrich:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £50.00 
+<p>Lohmann, Hanns-Heinrich: 11. SS-Pz.Gren.Division "Nordland": PHOTO: £50.00
 <p>Porsch,	Frithjof Elmo:	SS-Pz.Jg.Kp. Dora II: PHOTO: £40.00 
 <br />  
 <p><b><center>Slovenia 1945</center></b></p>  
@@ -143,9 +138,7 @@ permalink: /waffen_ss_photos.html
 <p>Richter,	Friedrich 'Fritz':	10. SS-Division "Frundsberg":	PHOTO: £50.00  
 <br />
 <p><b><center>Battle for Berlin 1945</center></b></p>  
-<p>Fey,	Will:	(s)SS-Pz.Abt. 502:	PHOTO: £50.00
 <p>Gieseler,	Karl:	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £45.00
-<p>Lobmeyer,	Jakob:	SS-Pz.Jg.Abt. 561:	PHOTO: £50.00
 <br />
 <br />   
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
