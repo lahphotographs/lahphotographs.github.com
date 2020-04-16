@@ -9,7 +9,6 @@ class: book_cover
 <p float="left">
 <img src="./assets/Alfred Eick.jpg"/>
 <img src="./assets/Paul Brasack.jpg"/>
-<img src="./assets/Carl Landfermann.jpg"/>
 <img src="./assets/Otto Westphalen.jpg"/>
 </p>  
 <br />
