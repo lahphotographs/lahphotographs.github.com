@@ -21,7 +21,7 @@ permalink: /waffen_ss_photos.html
 <p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
 <p>Gille, Herbert-Otto (KNIGHT'S CROSS): SS-Wiking Division: PHOTO (Wartime signed): £350.00   
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
-<p>Springer,	Heinrich (KNIGHT'S CROSS):	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
+<p>Springer,	Heinrich:	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
 <p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
 <br />
