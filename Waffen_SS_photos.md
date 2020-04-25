@@ -21,13 +21,14 @@ permalink: /waffen_ss_photos.html
 <p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
 <p>Gille, Herbert-Otto (KNIGHT'S CROSS): SS-Wiking Division: PHOTO (Wartime signed): £350.00   
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
+<p>Springer,	Heinrich (KNIGHT'S CROSS):	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
 <p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
 <br />
 <p><b><center>Kharkov 1943</center></b></p>
 <p>Harmel,	Heinz (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO: £55.00
-<p>Sandig,	Rudi:	SS-Division "Leibstandarte":	PHOTO: £50.00
+<p>Sandig,	Rudi:	Leibstandarte SS-Adolf Hitler:	PHOTO: £50.00
 <p>Stadler,	Sylvester (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £65.00  
 <br />  
 <p><b><center>Kursk 1943</center></b></p>
@@ -104,6 +105,7 @@ permalink: /waffen_ss_photos.html
 <p>Behler,	Klemens:	23. SS-Division 'Nederland':	PHOTO: £40.00
 <br />  
 <p><b><center>Pomerania / Poland / Germany 1945</center></b></p>  
+<p>Brommann,	Karl:	(s) SS-Panzer Abteilung 503:	SIGNED ILLUSTRATION: £35.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 502:	PHOTO (large format): £40.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
 <p>Hund,	Willi:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £40.00 
