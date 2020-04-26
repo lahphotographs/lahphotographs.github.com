@@ -56,7 +56,6 @@ permalink: /waffen_ss_photos.html
 <p>Langendorf,	Georg:	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £55.00
 <p>Nugiseks,	Harald:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £40.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £40.00
-<p>Seebach,	Walter:	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £60.00
 <p>Steiner,	Felix (SWORDS):	III. (Germ.) SS-Panzer Korps (KORPS COMMANDER):	SIGNED NOTE 1964: £200.00
 <br />  
 <p><b><center>Tscherkassy Pocket 1944</center></b></p>
@@ -88,7 +87,6 @@ permalink: /waffen_ss_photos.html
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
 <br />  
 <p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> <p><b><center>Romania 1944</center></b></p>  
-<p>Auer,	Karl:	4. SS-Division "Polizei":	PHOTO: £60.00
 <p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
 <p>Krombholz,	Franz-Josef: 7. SS-Gebirgs Division "Prinz Eugen":	PHOTO: £50.00
 <p>Kumm,	Otto:	(SWORDS) 7. SS-Gebirgs Division "Prinz Eugen" (LATER DIVISIONAL COMMANDER):	PHOTO: £55.00
