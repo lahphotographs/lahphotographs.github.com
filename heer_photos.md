@@ -33,7 +33,7 @@ class: book_cover
 <p>Erasmus,	Dr. jur. Johannes: Ia, XXXXVI. Panzer Korps: PHOTO, LETTER, ENVELOPE, CV:	£25.00</p>
 <p>Everling,	Dr. Wolfgang: 35. Panzer Rgt.: LETTER ONLY:	£10.00</p>
 <p>Fischer,	Gerhard: Panzer Regiment 23: PHOTO, LETTER:	£20.00</p>
-<p>Fretter-Pico,	Maximillian (OAKLEAVES): Armee Gruppe Fretter-Pico: PHOTO, LETTER, DEATH NOTICE:	£40.00</p>
+<p>Fretter-Pico,	Maximillian (OAKLEAVES): Armee Gruppe Fretter-Pico: PHOTO, LETTER:	£35.00</p>
 <p>Fröhlich,	Karl: Panzer Abteilung 18: PHOTO, CV, ENVELOPE:	£25.00</p>
 <p>Gabriel,	Erdmann: Panzer Regiment 35: PHOTO, ENVELOPE:	£20.00</p>
 <p>Jähde,	Willy: (schwere) Panzer Abteilung 502: PHOTO:	£15.00</p>
