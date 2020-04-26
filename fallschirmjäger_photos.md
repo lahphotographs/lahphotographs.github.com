@@ -32,7 +32,6 @@ permalink: /fallschirmjäger_photos.html
 <p>Neumann,	Dr. med. Heinrich: Fallschirmjäger Sturm Regiment:	Photo: £25.00
 <p>Reininghaus,	Adolf: Fallschirmjäger Regiment 7:	Photo, signed print out: £30.00
 <p>Riedel,	Gerd:	Fallschirmjäger Regiment 7 C.O.:	Photo, 2 letters, envelope:	£35.00
-<p>Schirmer,	Gerhart	(Oakleaves): Fallschirmjäger Regiment 2:	Photo, letter, print out:	£35.00
 <p>Stecken,	Albert:	Ia, 8. Fallschirmjäger Division:	Letter only:	£15.00
 <p>Trettner,	Heinrich	(Oakleaves): 4. Fallschirmjäger Division C.O.: Photo, letter, envelope, BW photo:	£45.00
 <p>Uhlig,	Alexander: Fallschirmjäger Regiment 6:	Photo, note, signed CV:	£35.00
