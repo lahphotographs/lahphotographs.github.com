@@ -8,7 +8,6 @@ permalink: /fallschirmjäger_photos.html
 
 <p float="left">
 <img src="./assets/Walter Liebing.jpg"/>
-<img src="./assets/Heinz Trettner.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Fallschirmjäger Knight's Cross holder photographs currently for sale.</b></p>
