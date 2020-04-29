@@ -28,7 +28,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Kharkov 1943</center></b></p>
 <p>Harmel,	Heinz (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO: £55.00
-<p>Sandig,	Rudi:	Leibstandarte SS-Adolf Hitler:	PHOTO: £50.00
 <p>Stadler,	Sylvester (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £65.00  
 <br />  
 <p><b><center>Kursk 1943</center></b></p>
@@ -67,7 +66,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>U.S.S.R. 1944</center></b></p>  
 <p>Gille, Herbert-Otto (DIAMONDS): 5. SS-Panzer Division 'Wiking'(LATER KORPS COMMANDER): PHOTO (Wartime signed): £350.00
 <p>Hack,	Franz (KNIGHT'S CROSS):	5. SS-Panzer Division "Wiking":	PHOTO: £50.00 
-<p>Rolleke,	Josef:	3. SS-Division "Totenkopf":	PHOTO (mid-size format): £40.00
 <p>Feidler,	Johannes:	SS-Division "Totenkopf":	PHOTO (large format): £40.00  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
 <p>Ullrich,	Karl (OAKLEAVES):	3. SS-Panzer Division "Totenkopf" (DIVISIONAL COMMANDER):	PHOTO: £55.00
@@ -87,8 +85,7 @@ permalink: /waffen_ss_photos.html
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
 <br />  
 <p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> <p><b><center>Romania 1944</center></b></p>  
-<p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
-<p>Krombholz,	Franz-Josef: 7. SS-Gebirgs Division "Prinz Eugen":	PHOTO: £50.00
+<p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	SIGNED POSTCARD:	£35.00
 <p>Kumm,	Otto:	(SWORDS) 7. SS-Gebirgs Division "Prinz Eugen" (LATER DIVISIONAL COMMANDER):	PHOTO: £55.00
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO: £40.00
 <br />  
@@ -107,7 +104,7 @@ permalink: /waffen_ss_photos.html
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 502:	PHOTO (large format): £40.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
 <p>Hund,	Willi:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £40.00 
-<p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO, LETTER, ENVELOPE:	£50.00
+<p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO:	£40.00
 <p>Langhorst,	Bernhard:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £40.00
 <p>Lohmann, Hanns-Heinrich: 11. SS-Pz.Gren.Division "Nordland": PHOTO: £50.00
 <p>Porsch,	Frithjof Elmo:	SS-Pz.Jg.Kp. Dora II: PHOTO: £40.00 
