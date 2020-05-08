@@ -16,7 +16,6 @@ permalink: /waffen_ss_photos.html
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
-<p>Gille, Herbert-Otto (KNIGHT'S CROSS): SS-Wiking Division: PHOTO (Wartime signed): £350.00   
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
 <p>Springer,	Heinrich:	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
@@ -29,13 +28,11 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b><center>Kursk 1943</center></b></p>
 <p>Baum, Otto (OAKLEAVES): LSSAH: PHOTO: £55.00
-<p>von Ribbentrop,	Rudolf:	SS-Division "Leibstandarte":	PHOTO: £40.00  
 <p>Sametreiter,	Kurt:	SS-Division "Leibstandarte":	PHOTO (stamped signature): £35.00 
 <br />  
 <p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried: 2. SS-Panzer Division "Das Reich":	PHOTO: £40.00  
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO: £45.00
-<p>Gille, Herbert-Otto (OAKLEAVES): 5. SS-Panzer Division 'Wiking' (DIVISIONAL COMMANDER): PHOTO (Wartime signed): £350.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £40.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Harmel,	Heinz (OAKLEAVES):	SS-Division "Das Reich":	PHOTO: £55.00
@@ -56,13 +53,10 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b><center>Tscherkassy Pocket 1944</center></b></p>
 <p>Fischer,	Gerhard:	5. SS-Panzer Division "Wiking":	PHOTO: £55.00 
-<p>Gille, Herbert-Otto (SWORDS): 5. SS-Panzer Division 'Wiking'(DIVISIONAL COMMANDER): PHOTO (Wartime signed): £350.00
 <p>Meyer,	Werner:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
 <p>Schönfelder,	Manfred:	5. SS-Panzer Division "Wiking":	PHOTO: £55.00 
 <br /> 
 <p><b><center>U.S.S.R. 1944</center></b></p>  
-<p>Gille, Herbert-Otto (DIAMONDS): 5. SS-Panzer Division 'Wiking'(LATER KORPS COMMANDER): PHOTO (Wartime signed): £350.00
-<p>Hack,	Franz (KNIGHT'S CROSS):	5. SS-Panzer Division "Wiking":	PHOTO: £50.00 
 <p>Feidler,	Johannes:	SS-Division "Totenkopf":	PHOTO (large format): £40.00  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
 <p>Ullrich,	Karl (OAKLEAVES):	3. SS-Panzer Division "Totenkopf" (DIVISIONAL COMMANDER):	PHOTO: £55.00
@@ -71,14 +65,12 @@ permalink: /waffen_ss_photos.html
 <p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
 <p>Langanke,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO:	£40.00
 <p>Rudolf,	Richard:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
-<p>Siegel,	Hans:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00  
 <br />  
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £40.00
 <p>Harmel,	Heinz (SWORDS):	10. SS-Division "Frundsberg"(DIVISIONAL COMMANDER):	PHOTO: £55.00  
 <br />    
 <p><b><center>Poland 1944</center></b></p>
-<p>Flugel,	Hans:	5. SS-Panzer Division "Wiking":	PHOTO: £60.00
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
 <br />  
 <p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> <p><b><center>Romania 1944</center></b></p>  
@@ -115,7 +107,6 @@ permalink: /waffen_ss_photos.html
 <p>Buhler,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO: £65.00
 <p>Darges,	Fritz:	5. SS-Panzer Division "Wiking" (FUHRER ADJUTANT):	PHOTO: £50.00  
 <p>Gustavsson,	Karl-Heinz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
-<p>Hack,	Franz (OAKLEAVES):	5. SS-Panzer Division "Wiking":	PHOTO: £50.00 
 <p>Hauser,	Hans:	2. SS-Division "Das Reich": PHOTO: £45.00 
 <p>Kreutz,	Karl:	2. SS-Division "Das Reich" (DIVISIONAL COMMANDER): PHOTO: £40.00 
 <p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00
