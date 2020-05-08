@@ -15,7 +15,7 @@ permalink: /waffen_ss_photos.html
 <p>Steiner,	Felix (KNIGHT'S CROSS):	SS-V Division: SIGNED NOTE 1964: £200.00
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
-<p>Baum, Otto (KNIGHT'S CROSS): LSSAH: PHOTO: £55.00
+<p>Baum, Otto (KNIGHT'S CROSS): SS-Division Totenkopf: PHOTO: £55.00
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
 <p>Springer,	Heinrich:	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
@@ -27,7 +27,7 @@ permalink: /waffen_ss_photos.html
 <p>Stadler,	Sylvester (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £65.00  
 <br />  
 <p><b><center>Kursk 1943</center></b></p>
-<p>Baum, Otto (OAKLEAVES): LSSAH: PHOTO: £55.00
+<p>Baum, Otto (OAKLEAVES): SS-Division Totenkopf: PHOTO: £55.00
 <p>Sametreiter,	Kurt:	SS-Division "Leibstandarte":	PHOTO (stamped signature): £35.00 
 <br />  
 <p><b><center>Russia 1943</center></b></p>    
