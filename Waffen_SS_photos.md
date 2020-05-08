@@ -57,7 +57,6 @@ permalink: /waffen_ss_photos.html
 <p>Schönfelder,	Manfred:	5. SS-Panzer Division "Wiking":	PHOTO: £55.00 
 <br /> 
 <p><b><center>U.S.S.R. 1944</center></b></p>  
-<p>Feidler,	Johannes:	SS-Division "Totenkopf":	PHOTO (large format): £40.00  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
 <p>Ullrich,	Karl (OAKLEAVES):	3. SS-Panzer Division "Totenkopf" (DIVISIONAL COMMANDER):	PHOTO: £55.00
 <br /> 
