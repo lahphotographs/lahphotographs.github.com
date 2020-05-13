@@ -7,68 +7,41 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Bruno Kahl 2.jpg"/>
-<img src="./assets/Hermann Bix 2.jpg"/>
-<img src="./assets/Heinrich Eberbach.jpg"/>
-<img src="./assets/Hellmuth Schlomer.jpg"/>
+<img src="./assets/Hans-Georg Borck.jpg"/>
+<img src="./assets/Heinz Grimberg.jpeg"/>
 </p>  
 <br />
-<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Panzermen.</b></p>
+<p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Pioneermen.</b></p>
 <br />
-<p><b><center>'Panzer Soldaten'</center></b></p>
-<p>Alber,	Robert: Panzer Abteilung 201: PHOTO, LETTER, ENVELOPE, CV: £25.00</p>
-<p>Bachor, Willy: Panzer Regiment 24: PHOTO: £15.00</p>
-<p>Bauer,	Ludwig: Panzer Rgt. 33 'Prinz Eugen': PHOTO, LETTER, ENVELOPE:	£25.00
-<P>Beschnidt, Werner: Panzer Abteilung 103:	PHOTO, LETTER, CV: £25.00</p>
-<p>Bix,	Hermann: Panzer Regiment 35: PHOTO:	£15.00</p>
-<p>Bölter,	Johannes: (OAKLEAVES) (schwere) Panzer Abteilung 502: PHOTO:	£20.00</p>
-<p>Breidenbach,	Friedrich-Wilhelm: Panzer Brigade 101: PHOTO:	£15.00</p>
-<p>Brockdorff, von,	Baron Cay-Lorenz: Panzer Regiment 15: PHOTO:	£15.00</p>
-<p>Burmester,	Hans-Jürgen: (OAKLEAVES) (schwere) Panzer Abteilung 509: PHOTO, LETTER, NOTE:	£25.00</p>
-<p>Diest-Körber, von,		Ernst Nordewin: (schwere) Panzer Abteilung 503: PHOTO, LETTER, CV, ENVELOPE:	£30.00</p>
-<p>Eberbach,	Heinrich (OAKLEAVES): 7. Panzer Armee (Normandy): PHOTO, LETTER:	£35.00</p>
-<p>Eckardt,	Hermann: Panzer Abteilung 8: PHOTO, LETTER, CV:	£25.00</p>
-<p>Edelsheim, von,	Reichsfreiherr Maximilian	(SWORDS) General der Panzertruppen: 24. Panzer Division CO, XXXXVIII. Pz. Korps, Tangermunde Bridge surrender to Yanks: PHOTO (clipped):	£30.00</p>
-<p>Erasmus,	Dr. jur. Johannes: Ia, XXXXVI. Panzer Korps: PHOTO, LETTER, ENVELOPE, CV:	£25.00</p>
-<p>Everling,	Dr. Wolfgang: 35. Panzer Rgt.: LETTER ONLY:	£10.00</p>
-<p>Fischer,	Gerhard: Panzer Regiment 23: PHOTO, LETTER:	£20.00</p>
-<p>Fretter-Pico,	Maximillian (OAKLEAVES): Armee Gruppe Fretter-Pico: PHOTO, LETTER, COPY PHOTO:	£35.00</p>
-<p>Fröhlich,	Karl: Panzer Abteilung 18: PHOTO, CV, ENVELOPE:	£25.00</p>
-<p>Gabriel,	Erdmann: Panzer Regiment 35: PHOTO, ENVELOPE:	£20.00</p>
-<p>Jähde,	Willy: (schwere) Panzer Abteilung 502: PHOTO:	£15.00</p>
-<p>Kagenek von,	Graf Clemens-Heinrich	(OAKLEAVES): (schwere) Panzer Abteilung 503: PHOTO:	£20.00</p>
-<p>Kahl,	Bruno	(OAKLEAVES): Panzer Regiment 21: PHOTO, 1 COPY AWARD:	£25.00</p>
-<p>Kerscher,	Albert: (schwere) Panzer Abteilung 502: PHOTO:	£15.00</p>
-<p>Klemz,	Bernhard: Panzer Regt. Grossdeutschland: PHOTO: £15.00</p>
-<p>Koltermann,	Wolfgang: (schwere) Panzer Abteilung 507: PHOTO, BW PHOTO:	£20.00</p>
-<p>Kujacinski,	Norbert: Panzer Regiment 23: PHOTO:	£15.00</p>
-<p>Lange,	Gerhard: Panzer Regiment 35: PHOTO, LETTER:	£20.00</p>
-<p>Lemke,	Max, General Major: 7. Pz. Division: PHOTO: £35.00</p>
-<p>Meyer, von	Kuno (OAKLEAVES): Panzer Regiment 24: PHOTO, LETTER, NOTE: £30.00</p>
-<p>Mildebrath,	Werner: Panzer Regiment 5 (D.A.K.): PHOTO:	£15.00</p>
-<p>Müller,	Klaus: Panzer Abteilung 60: PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Neuer,	Walther: Panzer Regiment 118: 1 UNSIGNED PHOTO, NOTE, SIGNED PRINT OUT:	£20.00</p>
-<p>Nökel,	Friedrich-Karl: Panzer Regiment 31: PHOTO:	£15.00</p>
-<p>Oberwöhrmann,	Erich: Panzer Abt.  "Feldherrnhalle": PHOTO:	£15.00</p>
-<p>Ohrloff,	Horst: Panzer Regiment 25: PHOTO:	£15.00</p>
-<p>Peters,	Reinhard: Panzer Regiment 35: PHOTO:	£15.00</p>
-<p>Philipp,	Ernst	(OAKLEAVES): Panzer Regiment 1: PHOTO: £20.00</p>
-<p>Plato, von,	Anton-Detlev: Ia, 5. Panzer Division: PHOTO, CV: £20.00</p>
-<p>Rettemeier,	Josef	(OAKLEAVES): Panzer Abteilung 5: PHOTO, ENVELOPE:	£25.00</p>
-<p>Schlömer,	Helmuth	(OAKLEAVES) Generalleutnant,: XIV. Panzer Korps, XIV. Pz. Kps, surrender at Stalingrad, Nat Comm Free Germany: PHOTO: £40.00</p>
-<p>Schönfeld,	Kurt: Panzer Regiment 10: PHOTO:	£15.00</p>
-<p>Schultz,	Fritz-Rudolf	(OAKLEAVES): Panzer Regiment 35: PHOTO, LETTER:	£25.00</p>
-<p>Schulze,	Paul	(OAKLEAVES): Panzer Regiment 21: PHOTO:	£20.00</p>
-<p>Schulz-Merkel,	Dr. med. Hans-Joachim: Panzer Regiment 35: PHOTO, LETTER, ENVELOPE:	£25.00</p>
-<p>Strasser,	Erwin: Panzer Regiment 33: PHOTO, LETTER:	£20.00</p>
-<p>Thaler,	Andreas: Panzer Regiment 25: PHOTO, SIGNED BUSINESS CARD:	£20.00</p>
-<p>Weidenbrück,	Wilhelm	(OAKLEAVES): 2. Panzer Division: PHOTO, LETTER, ENVELOPE: £30.00</p>
-<p>Westhoven,	Franz: 3. Pz. Div., 21. Pz. Div., 2. Pz. Div.: PHOTO, LETTER, ENVELOPE:	£40.00</p>
-<p>Wiesmann,	Hugo: Panzer Regiment 11: PHOTO:	£15.00</p>
-<p>Wietersheim, von, 	Walter: Grossdeutschland Panzer Reg.: PHOTO:	£15.00</p>
-<p>Wirsching,		Maximillian: (schwere) Panzer Abteilung 507: PHOTO:	£15.00</p>
-<p>Wolf,	Alfred: Panzer Regiment 23: PHOTO, LETTER:	£20.00</p>
-<p>Wollschläger,	Artur: Panzer Regiment 35: PHOTO, LETTER, ENVELOPE:	£25.00</p>
+<p><b><center>'Pioneer Soldaten'</center></b></p>
+<p>Borck,	Hans-Georg: Panzer Pioneer Battalion 209:	PHOTO: £15.00</p>
+<p>Brandt,	Walter: Panzer Pioneer Battalion 130:	SIGNED PHOTOCOPY IMAGE, COPY PHOTO:	£20.00</p>
+<p>Duncker,	Christoph: Pioneer Battalion 158:	PHOTO, ENVELOPE: £20.00</p>
+<p>Grimberg,	Heinz: Panzer Pionier Bataillon 19:	PHOTO, LETTER: £20.00</p>
+<p>Gunzert,	Ulrich: Pioneer Battalion 258:	PHOTO (clipped): £10.00</p>
+<p>Haase,	Alfred: Pionier Lehr Batallion 2:	PHOTO, LETTER, ENVELOPE, PRINT OUT: £30.00</p>
+<p>Högl,	Franz-Josef: Panzer Pionier Batallion 220:	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Holzapfel,	Karl-Heinz: Pioneer Battalion 29 (mot.):	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Jochimsen,	Bernhard: Pionier Batallion 290:	PHOTO: £15.00</p>
+<p>Keese,	Heinrich	(OAKLEAVES): Pioneer Battalion 20 (mot.):	PHOTO, LETTER, CV: £30.00</p>
+<p>Langenstraß,	Ernst-Friedrich: Pioneer Battalion 28:	PHOTO, LETTER, ENVELOPE, CV: £30.00</p>
+<p>Memmert,	Friedrich: Pioneer Battalion 20 (mot.):	PHOTO, LETTER, CV, ENVELOPE, COPY AWARD DOCS x 3: £35.00</p>
+<p>Müller-Rochholz,	Friedrich: Pz.Stu.Pi.Btl. "Brandenburg":	PHOTO: £15.00</p>
+<p>Mulzer,	Dr. Josef-Georg	(OAKLEAVES): Pionier Bataillon 195:	PHOTO: £20.00</p>
+<p>Munz, Johann: Pionier Bataillon 387:	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Niggemeyer,	Wilhelm	(OAKLEAVES): Pionier Bataillon 26:	PHOTO, NOTE x 2: £25.00</p>
+<p>Pasternack,	Eberhard: Pionier Bataillon 8 (mot.):	PHOTO, NOTE, ENVELOPE: £25.00</p>
+<p>Pfitzner,	Heinz: Pionier Bataillon 290:	PHOTO, NOTE, ENVELOPE: £25.00</p>
+<p>Püttcher,	Heinrich: Panzer Pioneer Battalion 86:	PHOTO, LETTER, PRINT OUT: £25.00</p>
+<p>Rampf,	Alois: Pionier Bataillon 88:	PHOTO, LETTER, 6 COPY AWARD DOCS: £35.00</p>
+<p>Rehbein,	Max: Pioneer Battalion 23:	PHOTO: £15.00</p>
+<p>Schlingmann,	Harry: Pioneer Battalion 112:	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Schmischke,	Helmut: Pioneer Battalion 36:	PHOTO, LETTER, 8 COPY AWARD DOCS, SIGNED ADDRESS CARD: £35.00</p>
+<p>Stettin,	Günter: Panzer Pioneer Battalion 92:	PHOTO, PRINT OUT, ENVELOPE: £25.00</p>
+<p>Thünemann,	Heinrich: Panzer Pioneer Battalion 79:	PHOTO, LETTER, ENVELOPE: £25.00</p>
+<p>Walterbach,	Bernhard: Pioneer Battalion 253:	PHOTO: £15.00</p>
+<p>Zastrow,	Max: Pioneer Battalion 81:	PHOTO, LETTER, COPY RK DOC: £25.00</p>
+<p>Zurmöhle,	Walter: Pioneer Battalion 6:	PHOTO, LETTER: £20.00</p>
 <br />
 <p><b><center>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.</center></b></p>
 
