@@ -6,7 +6,6 @@ permalink: /waffen_ss_photos.html
 
 <div id="axisforces">
 <p float="left">
-<img src="./assets/Rudolf Richard copy.jpg"/>
 <img src="./assets/Damsch copy.jpg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
@@ -63,7 +62,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Normandy 1944</center></b></p>  
 <p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
 <p>Langanke,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO:	£40.00
-<p>Rudolf,	Richard:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
 <br />  
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £40.00
@@ -103,7 +101,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Budapest / Hungary / Austria 1945</center></b></p>  
 <p>Boosfeld,	Joachim:	8. SS-Division "Florian Geyer":	PHOTO: £40.00
 <p>Buck,	Friedrich:	8. SS-Division "Florian Geyer":	PHOTO: £40.00
-<p>Buhler,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO: £65.00
 <p>Darges,	Fritz:	5. SS-Panzer Division "Wiking" (FUHRER ADJUTANT):	PHOTO: £50.00  
 <p>Gustavsson,	Karl-Heinz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
 <p>Hauser,	Hans:	2. SS-Division "Das Reich": PHOTO: £45.00 
