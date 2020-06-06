@@ -6,7 +6,12 @@ permalink: /waffen_ss_photos.html
 
 <div id="axisforces">
 <p float="left">
-<img src="./assets/Damsch copy.jpg"/>
+<img src="./assets/Fischer SS.jpeg"/>
+<img src="./assets/Grieme.jpeg"/>
+<img src="./assets/Baum.jpeg"/>
+<img src="./assets/Ulrich.jpeg"/>
+<img src="./assets/Lainer.jpeg"/>
+<img src="./assets/Lohmann.jpeg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
