@@ -76,7 +76,6 @@ permalink: /waffen_ss_photos.html
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO: £40.00
 <br />  
 <p><b><center>Colmar / Ardennes Offensive 1945</center></b></p>  
-<p>Damsch,	Werner:	12. SS-Division "Hitlerjugend":	PHOTO: £45.00
 <p>Sattler,	Karl:	SS-Regiment "Sattler":	PHOTO: £40.00
 <br />  
 <p><b><center>Operation Nordwind 1945</center></b></p>  
