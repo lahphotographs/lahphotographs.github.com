@@ -11,18 +11,13 @@ permalink: /waffen_ss_photos.html
 <img src="./assets/Baum.jpeg"/>
 <img src="./assets/Ulrich.jpeg"/>
 <img src="./assets/Lainer.jpeg"/>
-<img src="./assets/Lohmann.jpeg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<p><b><center>West 1940</center></b></p>
-<p>Steiner,	Felix (KNIGHT'S CROSS):	SS-V Division: SIGNED NOTE 1964: £200.00
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Baum, Otto (KNIGHT'S CROSS): SS-Division Totenkopf: PHOTO: £55.00
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
-<p>Springer,	Heinrich:	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
-<p>Steiner,	Felix (OAKLEAVES):	SS-Wiking Division (DIVISIONAL COMMANDER):	SIGNED NOTE 1964: £200.00
 <p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
 <br />
 <p><b><center>Kharkov 1943</center></b></p>
@@ -53,7 +48,6 @@ permalink: /waffen_ss_photos.html
 <p>Langendorf,	Georg:	11. SS-Pz.Gren.Division "Nordland":	PHOTO: £55.00
 <p>Nugiseks,	Harald:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £40.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £40.00
-<p>Steiner,	Felix (SWORDS):	III. (Germ.) SS-Panzer Korps (KORPS COMMANDER):	SIGNED NOTE 1964: £200.00
 <br />  
 <p><b><center>Tscherkassy Pocket 1944</center></b></p>
 <p>Fischer,	Gerhard:	5. SS-Panzer Division "Wiking":	PHOTO: £55.00 
@@ -75,7 +69,7 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Poland 1944</center></b></p>
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
 <br />  
-<p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> <p><b><center>Romania 1944</center></b></p>  
+<p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> 
 <p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	SIGNED POSTCARD:	£35.00
 <p>Kumm,	Otto:	(SWORDS) 7. SS-Gebirgs Division "Prinz Eugen" (LATER DIVISIONAL COMMANDER):	PHOTO: £55.00
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO: £40.00
@@ -83,20 +77,15 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Colmar / Ardennes Offensive 1945</center></b></p>  
 <p>Sattler,	Karl:	SS-Regiment "Sattler":	PHOTO: £40.00
 <br />  
-<p><b><center>Operation Nordwind 1945</center></b></p>  
-<p>Bachmann,	Erwin:	10. SS-Division "Frundsberg":	PHOTO (mid-size format): £40.00
-<br />  
 <p><b><center>Kurland Pocket 1945</center></b></p>  
 <p>Behler,	Klemens:	23. SS-Division 'Nederland':	PHOTO: £40.00
 <br />  
 <p><b><center>Pomerania / Poland / Germany 1945</center></b></p>  
-<p>Brommann,	Karl:	(s) SS-Panzer Abteilung 503:	SIGNED ILLUSTRATION: £35.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 502:	PHOTO (large format): £40.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	PHOTO, POST-WAR PHOTO:	£45.00
 <p>Hund,	Willi:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £40.00 
 <p>Jürgens,	Heinz: 4. "SS-Polizei" Division:	PHOTO:	£40.00
 <p>Langhorst,	Bernhard:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £40.00
-<p>Lohmann, Hanns-Heinrich: 11. SS-Pz.Gren.Division "Nordland": PHOTO: £50.00
 <p>Porsch,	Frithjof Elmo:	SS-Pz.Jg.Kp. Dora II: PHOTO: £40.00 
 <br />  
 <p><b><center>Slovenia 1945</center></b></p>  
