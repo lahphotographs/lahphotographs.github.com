@@ -8,25 +8,18 @@ permalink: /waffen_ss_photos.html
 <p float="left">
 <img src="./assets/Fischer SS.jpeg"/>
 <img src="./assets/Grieme.jpeg"/>
-<img src="./assets/Baum.jpeg"/>
-<img src="./assets/Ulrich.jpeg"/>
 <img src="./assets/Lainer.jpeg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
-<p>Baum, Otto (KNIGHT'S CROSS): SS-Division Totenkopf: PHOTO: £55.00
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO: £55.00
-<p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £55.00
 <br />
 <p><b><center>Kharkov 1943</center></b></p>
-<p>Harmel,	Heinz (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO: £55.00
-<p>Stadler,	Sylvester (KNIGHT'S CROSS):	SS-Division "Das Reich":	PHOTO: £65.00  
 <br />  
 <p><b><center>Kursk 1943</center></b></p>
-<p>Baum, Otto (OAKLEAVES): SS-Division Totenkopf: PHOTO: £55.00
 <p>Sametreiter,	Kurt:	SS-Division "Leibstandarte":	PHOTO (stamped signature): £35.00 
 <br />  
 <p><b><center>Russia 1943</center></b></p>    
@@ -34,14 +27,12 @@ permalink: /waffen_ss_photos.html
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO: £45.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £40.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £55.00
-<p>Harmel,	Heinz (OAKLEAVES):	SS-Division "Das Reich":	PHOTO: £55.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £40.00
 <p>Mooymann,	Gerardes:	SS-Freiwilligen Legion  "Nederland":	PHOTO (Wartime clipped signature): £250.00
 <p>Muller,	Albert:	SS-Division "Wiking":	PHOTO: £55.00
 <p>Schneidereit,	Alfred:	1. SS-Panzer Division "LSSAH":	PHOTO: £45.00
 <p>Schulze,	Herbert: 2. SS-Panzer Division "Das Reich":	PHOTO: £50.00 
 <p>Sonne,	Heinrich: 1. SS-Infanterie Brigade (mot.):	PHOTO: £40.00    
-<p>Stadler,	Sylvester (OAKLEAVES):	SS-Division "Das Reich":	PHOTO: £65.00 
 <p>Zepper,	Erich:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
 <br />   
 <p><b><center>Oranienbaum / Narwa / Tannenberg 1944</center></b></p>  
@@ -52,11 +43,9 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Tscherkassy Pocket 1944</center></b></p>
 <p>Fischer,	Gerhard:	5. SS-Panzer Division "Wiking":	PHOTO: £55.00 
 <p>Meyer,	Werner:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
-<p>Schönfelder,	Manfred:	5. SS-Panzer Division "Wiking":	PHOTO: £55.00 
 <br /> 
 <p><b><center>U.S.S.R. 1944</center></b></p>  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
-<p>Ullrich,	Karl (OAKLEAVES):	3. SS-Panzer Division "Totenkopf" (DIVISIONAL COMMANDER):	PHOTO: £55.00
 <br /> 
 <p><b><center>Normandy 1944</center></b></p>  
 <p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
@@ -64,7 +53,6 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £40.00
-<p>Harmel,	Heinz (SWORDS):	10. SS-Division "Frundsberg"(DIVISIONAL COMMANDER):	PHOTO: £55.00  
 <br />    
 <p><b><center>Poland 1944</center></b></p>
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00 
@@ -94,15 +82,12 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Budapest / Hungary / Austria 1945</center></b></p>  
 <p>Boosfeld,	Joachim:	8. SS-Division "Florian Geyer":	PHOTO: £40.00
 <p>Buck,	Friedrich:	8. SS-Division "Florian Geyer":	PHOTO: £40.00
-<p>Darges,	Fritz:	5. SS-Panzer Division "Wiking" (FUHRER ADJUTANT):	PHOTO: £50.00  
 <p>Gustavsson,	Karl-Heinz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
 <p>Hauser,	Hans:	2. SS-Division "Das Reich": PHOTO: £45.00 
-<p>Kreutz,	Karl:	2. SS-Division "Das Reich" (DIVISIONAL COMMANDER): PHOTO: £40.00 
 <p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00
 <p>Riedel,	Franz:	10. SS-Division "Frundsberg":	PHOTO: £50.00
 <p>Rieflin,	Fritz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
 <p>Sailer,	Johann:	9. SS-Division "Hohenstaufen":	PHOTO: £40.00
-<p>Stadler,	Sylvester (SWORDS):	9. SS-Panzer Division "Hohenstaufen"(DIVISIONAL COMMANDER):	PHOTO: £65.00 
 <br />  
 <p><b><center>Fortress Breslau 1945</center></b></p>  
 <p>Besslein,	Georg-Robert:	9. SS-Division "Hohenstaufen":	PHOTO: £40.00  
