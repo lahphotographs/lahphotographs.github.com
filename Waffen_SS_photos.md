@@ -19,9 +19,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Kharkov 1943</center></b></p>
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO: £55.00
 <br />  
-<p><b><center>Kursk 1943</center></b></p>
-<p>Sametreiter,	Kurt:	SS-Division "Leibstandarte":	PHOTO (stamped signature): £35.00 
-<br />  
 <p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried: 2. SS-Panzer Division "Das Reich":	PHOTO: £40.00  
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO: £45.00
@@ -47,10 +44,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>U.S.S.R. 1944</center></b></p>  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £40.00  
 <br /> 
-<p><b><center>Normandy 1944</center></b></p>  
-<p>Barkmann,	Ernst: 2. SS-Panzer Division "Das Reich":	PHOTO:	£50.00
-<p>Langanke,	Fritz: 2. SS-Panzer Division "Das Reich":	PHOTO:	£40.00
-<br />  
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Division "Frundsberg":	PHOTO: £40.00
 <br />    
