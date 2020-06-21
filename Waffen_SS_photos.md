@@ -78,7 +78,6 @@ permalink: /waffen_ss_photos.html
 <p>Gustavsson,	Karl-Heinz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
 <p>Hauser,	Hans:	2. SS-Division "Das Reich": PHOTO: £45.00 
 <p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO: £40.00
-<p>Riedel,	Franz:	10. SS-Division "Frundsberg":	PHOTO: £50.00
 <p>Rieflin,	Fritz:	2. SS-Division "Das Reich":	PHOTO: £40.00  
 <p>Sailer,	Johann:	9. SS-Division "Hohenstaufen":	PHOTO: £40.00
 <br />  
