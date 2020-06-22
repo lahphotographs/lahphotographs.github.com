@@ -6,9 +6,16 @@ permalink: /waffen_ss_photos.html
 
 <div id="axisforces">
 <p float="left">
-<img src="./assets/Fischer SS.jpeg"/>
-<img src="./assets/Grieme.jpeg"/>
+<img src="./assets/Kumm.jpeg"/>
+<img src="./assets/Grieme grouping.jpeg"/>
+<img src="./assets/Fischer grouping.jpeg"/>
+<img src="./assets/Schneidereit.jpeg"/>
+<img src="./assets/Geisler.jpeg"/>
 <img src="./assets/Lainer.jpeg"/>
+<img src="./assets/Girg.jpeg"/>
+<img src="./assets/Hauser.jpeg"/>
+<img src="./assets/Euling template.jpeg"/>
+<img src="./assets/Lichte template.jpeg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
