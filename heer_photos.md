@@ -7,14 +7,12 @@ class: book_cover
 ---
 
 <p float="left">
-<img src="./assets/Hans-Georg Borck.jpg"/>
 <img src="./assets/Heinz Grimberg.jpeg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Pioneermen.</b></p>
 <br />
 <p><b><center>'Pioneer Soldaten'</center></b></p>
-<p>Borck,	Hans-Georg: Panzer Pioneer Battalion 209:	PHOTO: £20.00</p>
 <p>Brandt,	Walter: Panzer Pioneer Battalion 130:	SIGNED PHOTOCOPY IMAGE, COPY PHOTO:	£25.00</p>
 <p>Duncker,	Christoph: Pioneer Battalion 158:	PHOTO, ENVELOPE: £25.00</p>
 <p>Grimberg,	Heinz: Panzer Pionier Bataillon 19:	PHOTO, LETTER: £25.00</p>
@@ -29,7 +27,6 @@ class: book_cover
 <p>Müller-Rochholz,	Friedrich: Pz.Stu.Pi.Btl. "Brandenburg":	PHOTO: £20.00</p>
 <p>Mulzer,	Dr. Josef-Georg	(OAKLEAVES): Pionier Bataillon 195:	PHOTO: £25.00</p>
 <p>Munz, Johann: Pionier Bataillon 387:	PHOTO, LETTER, ENVELOPE: £30.00</p>
-<p>Niggemeyer,	Wilhelm	(OAKLEAVES): Pionier Bataillon 26:	PHOTO, NOTE x 2: £30.00</p>
 <p>Pasternack,	Eberhard: Pionier Bataillon 8 (mot.):	PHOTO, NOTE, ENVELOPE: £30.00</p>
 <p>Pfitzner,	Heinz: Pionier Bataillon 290:	PHOTO, NOTE, ENVELOPE: £30.00</p>
 <p>Püttcher,	Heinrich: Panzer Pioneer Battalion 86:	PHOTO, LETTER, PRINT OUT: £30.00</p>
