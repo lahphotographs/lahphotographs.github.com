@@ -7,6 +7,12 @@ permalink: /fallschirmjäger_photos.html
 <div id="publishedByLAH">
 
 <p float="left">
+<img src="./assets/Witzig.png"/>
+<img src="./assets/Reininghaus.jpg"/>
+<img src="./assets/Jamrowski.jpg"/>
+<img src="./assets/Trettner.jpg"/>
+<img src="./assets/Donth.jpg"/>
+<img src="./assets/Naumann.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Fallschirmjäger Knight's Cross holder photographs currently for sale.</b></p>
