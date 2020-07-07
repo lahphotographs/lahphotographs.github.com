@@ -8,6 +8,11 @@ class: book_cover
 
 <p float="left">
 <img src="./assets/Heinz Grimberg.jpeg"/>
+<img src="./assets/Rampf.jpg"/>
+<img src="./assets/Schlingmann.jpg"/>
+<img src="./assets/Pasterneck.jpg"/>
+<img src="./assets/Puttscher.jpg"/>
+<img src="./assets/Stettin.jpg"/>
 </p>  
 <br />
 <p><b>Below is a selection of Heer Knight's Cross holder photographs currently for sale, this batch focusing on: HEER Pioneermen.</b></p>
