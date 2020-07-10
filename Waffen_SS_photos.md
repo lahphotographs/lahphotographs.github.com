@@ -42,7 +42,6 @@ permalink: /waffen_ss_photos.html
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £50.00
 <p>Mooymann,	Gerardes:	SS-Freiwilligen Legion  "Nederland":	PHOTO (Wartime clipped signature): £250.00
 <p>Muller,	Albert:	SS-Division "Wiking":	PHOTO: £55.00
-<p>Harmel,	Heinz: (KNIGHT'S CROSS) SS-Division "Das Reich":	PHOTO: £60.00
 <p>Schmidt,	Walter:	(KNIGHT'S CROSS) SS-Division "Wiking":	PHOTO: £55.00
 <p>Schulze,	Herbert: 2. SS-Panzer Division "Das Reich":	PHOTO: £50.00 
 <p>Zepper,	Erich:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
