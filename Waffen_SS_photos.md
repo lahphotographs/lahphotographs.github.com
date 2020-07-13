@@ -10,7 +10,6 @@ permalink: /waffen_ss_photos.html
 <img src="./assets/Grieme grouping.jpeg"/>
 <img src="./assets/Fischer grouping.jpeg"/>
 <img src="./assets/Schneidereit.jpeg"/>
-<img src="./assets/Geisler.jpeg"/>
 <img src="./assets/Lainer.jpeg"/>
 <img src="./assets/Girg.jpeg"/>
 <img src="./assets/Hauser.jpeg"/>
@@ -23,22 +22,15 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO, SIGNED CARD: £70.00
 <br />
-<p><b><center>Demjansk Pocket 1942</center></b></p>
-<p>Baum,	Otto (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £60.00
-<p>Ullrich,	Karl (KNIGHT'S CROSS):	SS-Division Totenkopf:	PHOTO: £60.00
-<br />
 <p><b><center>Kharkov / Kursk 1943</center></b></p>
-<p>Harmel,	Heinz: (KNIGHT'S CROSS) SS-Division "Das Reich":	PHOTO: £60.00
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO, SIGNED CARD: £70.00
 <p>Sandig,	Rudi:	(KNIGHT'S CROSS) LSSAH:	PHOTO: £55.00
-<p>Baum,	Otto (OAKLEAVES):	SS-Division Totenkopf:	PHOTO: £60.00
 <br />  
 <p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried: 2. SS-Panzer Division "Das Reich":	PHOTO: £50.00  
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO, LEBENSLAUF: £60.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £50.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO, LEBENSLAUF: £60.00
-<p>Harmel,	Heinz: (OAKLEAVES) SS-Division "Das Reich":	PHOTO: £60.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £50.00
 <p>Mooymann,	Gerardes:	SS-Freiwilligen Legion  "Nederland":	PHOTO (Wartime clipped signature): £250.00
 <p>Muller,	Albert:	SS-Division "Wiking":	PHOTO: £55.00
@@ -59,19 +51,13 @@ permalink: /waffen_ss_photos.html
 <br /> 
 <p><b><center>U.S.S.R. 1944</center></b></p>  
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £45.00  
-<p>Ullrich,	Karl (OAKLEAVES):	SS-Division Totenkopf:	PHOTO: £60.00
 <br /> 
 <p><b><center>'Normandy' 1944</center></b></p>  
 <p>Barkmann,	Ernst:	2. SS-Panzer Division "Das Reich": SIGNED NOTE: £35.00
-<p>Baum,	Otto (SWORDS):	2. SS-Panzer Division "Das Reich" / 17. SS-Pz.Gren. Div. 'GvB':	PHOTO: £60.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 102:	PHOTO: £45.00
-<p>Krag,	Ernst-August (KNIGHT'S CROSS):	2. SS-Panzer Division "Das Reich": PHOTO: £60.00
-<p>Mohnke,	Wilhelm:	12. SS-Panzer Division "Hitlerjugend": PHOTO: £150.00
 <br />    
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Panzer Division "Frundsberg":	PHOTO: £45.00
-<p>Harmel,	Heinz: (SWORDS) 10. SS-Panzer Division "Frundsberg":	PHOTO: £60.00
-<p>Kertz,	Wolfram:	Kampfgruppe Bruhn:	PHOTO: £30.00
 <br />    
 <p><b><center>Poland 1944</center></b></p>
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
@@ -83,7 +69,6 @@ permalink: /waffen_ss_photos.html
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO, LEBENSLAUF, PRINT OUT: £50.00
 <br />  
 <p><b><center>Colmar / Ardennes Offensive 1945</center></b></p>  
-<p>Krag,	Ernst-August (OAKLEAVES):	2. SS-Panzer Division "Das Reich": PHOTO: £60.00
 <p>Sattler,	Karl:	SS-Regiment "Sattler":	PHOTO: £50.00
 <br />  
 <p><b><center>Kurland Pocket 1945</center></b></p>  
@@ -116,12 +101,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Halbe Pocket 1945</center></b></p>  
 <p>Reber,	Gustav-Peter:	XI. SS-Panzer Korps:	PHOTO: £45.00
 <p>Richter,	Friedrich 'Fritz':	10. SS-Division "Frundsberg":	PHOTO: £50.00  
-<br />
-<p><b><center>Battle for Berlin 1945</center></b></p>  
-<p>Fenet,	Henri:	33. SS-Frei.Gren.Division "Charlemagne":	SIGNED AND DATED CARD: £30.00
-<p>Fey,	Will:	(s) SS-Panzer Abteilung 502:	PHOTO: £60.00
-<p>Gieseler,	Karl:	11. SS-Pz.Gren.Division "Nordland":	PHOTO, LEBENSLAUF: £50.00
-<p>Schafer,	Oskar:	(s) SS-Panzer Abteilung 503:	PHOTO & SIGNED ADDRESS CARD: £80.00
 <br />
 <br />   
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
