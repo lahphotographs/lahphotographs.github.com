@@ -27,7 +27,6 @@ permalink: /waffen_ss_photos.html
 <p>Sandig,	Rudi:	(KNIGHT'S CROSS) LSSAH:	PHOTO: £55.00
 <br />  
 <p><b><center>Russia 1943</center></b></p>    
-<p>Brosow,	Siegfried: 2. SS-Panzer Division "Das Reich":	PHOTO: £50.00  
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO, LEBENSLAUF: £60.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £50.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO, LEBENSLAUF: £60.00
@@ -55,6 +54,7 @@ permalink: /waffen_ss_photos.html
 <p><b><center>'Normandy' 1944</center></b></p>  
 <p>Barkmann,	Ernst:	2. SS-Panzer Division "Das Reich": SIGNED NOTE: £35.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 102:	PHOTO: £45.00
+<p>Kreutz,	Karl:	2. SS-Panzer Division "Das Reich":	PHOTO: £55.00
 <br />    
 <p><b><center>'Market Garden' 1944</center></b></p>  
 <p>Euling,	Karl-Heinz:	10. SS-Panzer Division "Frundsberg":	PHOTO: £45.00
