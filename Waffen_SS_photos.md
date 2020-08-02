@@ -13,7 +13,6 @@ permalink: /waffen_ss_photos.html
 <img src="./assets/Lainer.jpeg"/>
 <img src="./assets/Girg.jpeg"/>
 <img src="./assets/Hauser.jpeg"/>
-<img src="./assets/Euling template.jpeg"/>
 <img src="./assets/Lichte template.jpeg"/>
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
@@ -31,7 +30,6 @@ permalink: /waffen_ss_photos.html
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO (large format): £50.00
 <p>Grieme,	Wilhelm:	SS-Division "Das Reich":	PHOTO, LEBENSLAUF: £60.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £50.00
-<p>Mooymann,	Gerardes:	SS-Freiwilligen Legion  "Nederland":	PHOTO (Wartime clipped signature): £250.00
 <p>Muller,	Albert:	SS-Division "Wiking":	PHOTO: £55.00
 <p>Schmidt,	Walter:	(KNIGHT'S CROSS) SS-Division "Wiking":	PHOTO: £55.00
 <p>Schulze,	Herbert: 2. SS-Panzer Division "Das Reich":	PHOTO: £50.00 
@@ -40,7 +38,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Oranienbaum / Narwa / Tannenberg 1944</center></b></p>  
 <p>Langendorf,	Georg:	11. SS-Pz.Gren.Division "Nordland":	PHOTO, COPY RK SUBMISSION AND PRINT OUTS (6-PAGES): £60.00
 <p>Nugiseks,	Harald:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £45.00
-<p>Schluter,	Wilhelm:	SS-Brigade "Nederland":	PHOTO: £50.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	PHOTO: £45.00
 <br />  
 <p><b><center>Tscherkassy Pocket 1944</center></b></p>
@@ -56,9 +53,6 @@ permalink: /waffen_ss_photos.html
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 102:	PHOTO: £45.00
 <p>Kreutz,	Karl:	2. SS-Panzer Division "Das Reich":	PHOTO: £55.00
 <br />    
-<p><b><center>'Market Garden' 1944</center></b></p>  
-<p>Euling,	Karl-Heinz:	10. SS-Panzer Division "Frundsberg":	PHOTO: £45.00
-<br />    
 <p><b><center>Poland 1944</center></b></p>
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
 <p>Kam,	Soren:	5. SS-Panzer Division "Wiking":	PHOTO: £65.00 
@@ -73,7 +67,6 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b><center>Kurland Pocket 1945</center></b></p>  
 <p>Behler,	Klemens:	23. SS-Division 'Nederland':	PHOTO: £50.00
-<p>Hofer,	Lothar:	23. SS-Division 'Nederland':	PHOTO: £50.00
 <br />  
 <p><b><center>Pomerania / Poland / Germany 1945</center></b></p>  
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	SIGNED POSTCARD, SIGNED LETTER, LEBENSLAUF:	£45.00
