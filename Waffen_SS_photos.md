@@ -20,6 +20,7 @@ permalink: /waffen_ss_photos.html
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO, SIGNED CARD: £70.00
+<p>Springer,	Heinrich (KNIGHT'S CROSS):	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <br />
 <p><b><center>Kharkov / Kursk 1943</center></b></p>
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO, SIGNED CARD: £70.00
@@ -46,11 +47,14 @@ permalink: /waffen_ss_photos.html
 <p>Schmidt,	Walter:	(OAKLEAVES) SS-Division "Wiking":	PHOTO: £55.00
 <br /> 
 <p><b><center>U.S.S.R. 1944</center></b></p>  
+<p>Hack,	Franz (KNIGHT'S CROSS): 5. SS-Panzer Division "Wiking": PHOTO: £55.00 
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £45.00  
 <br /> 
 <p><b><center>'Normandy' 1944</center></b></p>  
 <p>Barkmann,	Ernst:	2. SS-Panzer Division "Das Reich": SIGNED NOTE: £35.00
+<p>Barkmann,	Ernst:	2. SS-Panzer Division "Das Reich": PHOTO (IN PANTHER): £55.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 102:	PHOTO: £45.00
+<p>Hurdelbrink,	Georg:	12. SS-Panzer Division "Hitlerjugend":	PHOTO: £75.00
 <p>Kreutz,	Karl:	2. SS-Panzer Division "Das Reich":	PHOTO: £55.00
 <br />    
 <p><b><center>Poland 1944</center></b></p>
@@ -59,6 +63,7 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> 
 <p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	SIGNED POSTCARD, SIGNED LETTER, LEBENSLAUF:	£45.00
+<p>Hack,	Franz (OAKLEAVES): 5. SS-Panzer Division "Wiking": PHOTO: £55.00 
 <p>Kumm,	Otto:	(SWORDS) 7. SS-Gebirgs Division "Prinz Eugen" (LATER DIVISIONAL COMMANDER):	PHOTO, SIGNED CARD: £70.00
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO, LEBENSLAUF, PRINT OUT: £50.00
 <br />  
@@ -69,6 +74,7 @@ permalink: /waffen_ss_photos.html
 <p>Behler,	Klemens:	23. SS-Division 'Nederland':	PHOTO: £50.00
 <br />  
 <p><b><center>Pomerania / Poland / Germany 1945</center></b></p>  
+<p>Brommann,	Karl:	(s) SS-Panzer Abteilung 503: PHOTO: £55.00
 <p>Girg,	Walter (OAKLEAVES): SS-Jäger-Battalion 502:	SIGNED POSTCARD, SIGNED LETTER, LEBENSLAUF:	£45.00
 <p>Hoffmann,	Ludwig 'Lutz':	11. SS-Pz.Gren.Division "Nordland": PHOTO: £55.00 
 <p>Hund,	Willi:	11. SS-Pz.Gren.Division "Nordland": PHOTO: £45.00 
@@ -78,6 +84,7 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b><center>Slovenia 1945</center></b></p>  
 <p>Stenwedel,	Albert:	13. SS-Division "Handschar":	PHOTO (large format): £45.00
+<p>Stenwedel,	Albert:	13. SS-Division "Handschar":	POSTWAR PHOTO WITH SEPP DIETRICH: £35.00
 <br />  
 <p><b><center>Budapest / Hungary / Austria 1945</center></b></p>  
 <p>Boosfeld,	Joachim:	8. SS-Division "Florian Geyer":	PHOTO: £45.00
