@@ -20,6 +20,7 @@ permalink: /waffen_ss_photos.html
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO, SIGNED CARD: £70.00
+<p>Muhlenkamp,	Johannes (KNIGHT'S CROSS):	SS-Division Wiking:	PHOTO: £150.00 
 <p>Springer,	Heinrich (KNIGHT'S CROSS):	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <br />
 <p><b><center>Kharkov / Kursk 1943</center></b></p>
@@ -48,6 +49,7 @@ permalink: /waffen_ss_photos.html
 <br /> 
 <p><b><center>U.S.S.R. 1944</center></b></p>  
 <p>Hack,	Franz (KNIGHT'S CROSS): 5. SS-Panzer Division "Wiking": PHOTO: £55.00 
+<p>Muhlenkamp,	Johannes (OAKLEAVES):	SS-Division Wiking:	PHOTO: £150.00 
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £45.00  
 <br /> 
 <p><b><center>'Normandy' 1944</center></b></p>  
