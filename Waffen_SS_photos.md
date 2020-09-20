@@ -21,7 +21,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>
 <p>Kumm,	Otto (KNIGHT'S CROSS):	SS-Division Reich:	PHOTO, SIGNED CARD: £70.00
 <p>Muhlenkamp,	Johannes (KNIGHT'S CROSS):	SS-Division Wiking:	PHOTO: £150.00 
-<p>Springer,	Heinrich (KNIGHT'S CROSS):	Leibstandarte SS-Adolf Hitler:	PHOTO: £55.00  
 <br />
 <p><b><center>Kharkov / Kursk 1943</center></b></p>
 <p>Kumm,	Otto:	(OAKLEAVES) SS-Division "Das Reich":	PHOTO, SIGNED CARD: £70.00
@@ -57,11 +56,9 @@ permalink: /waffen_ss_photos.html
 <p>Barkmann,	Ernst:	2. SS-Panzer Division "Das Reich": PHOTO (IN PANTHER): £55.00
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 102:	PHOTO: £45.00
 <p>Hurdelbrink,	Georg:	12. SS-Panzer Division "Hitlerjugend":	PHOTO: £75.00
-<p>Kreutz,	Karl:	2. SS-Panzer Division "Das Reich":	PHOTO: £55.00
 <br />    
 <p><b><center>Poland 1944</center></b></p>
 <p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
-<p>Kam,	Soren:	5. SS-Panzer Division "Wiking":	PHOTO: £65.00 
 <br />  
 <p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> 
 <p>Girg,	Walter (KNIGHT'S CROSS): SS-Jäger-Battalion 502:	SIGNED POSTCARD, SIGNED LETTER, LEBENSLAUF:	£45.00
@@ -93,7 +90,6 @@ permalink: /waffen_ss_photos.html
 <p>Buck,	Friedrich:	8. SS-Division "Florian Geyer":	PHOTO, COPY LETTER: £50.00
 <p>Gustavsson,	Karl-Heinz:	2. SS-Division "Das Reich":	PHOTO: £45.00  
 <p>Hauser,	Hans:	2. SS-Division "Das Reich": PHOTO, SIGNED NOTE: £65.00 
-<p>Lichte,	Karl-Heinz:	5. SS-Panzer Division "Wiking":	PHOTO, LEBENSLAUF: £50.00
 <p>Rieflin,	Fritz:	2. SS-Division "Das Reich":	PHOTO, LEBENSLAUF: £50.00  
 <p>Sailer,	Johann:	9. SS-Division "Hohenstaufen":	PHOTO, LEBENSLAUF: £50.00
 <br />  
