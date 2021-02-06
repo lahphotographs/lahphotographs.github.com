@@ -14,7 +14,7 @@ permalink: /waffen_ss_photos.html
 <br />
 <br />
 <p><b><center>Russia 1943</center></b></p>    
-<p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO: £50.00
+<p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO, Lebenslauf: £60.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO: £50.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £50.00
 <p>Schulze,	Herbert: 2. SS-Panzer Division "Das Reich":	SIGNED RK CARD: £30.00 
