@@ -14,28 +14,19 @@ permalink: /waffen_ss_photos.html
 <br />
 <br />
 <p><b><center>Russia 1943</center></b></p>    
-<p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO, LEBENSLAUF: £60.00
+<p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO: £50.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO: £50.00
 <p>Lainer,	Josef:	SS-Division "Das Reich":	PHOTO: £50.00
-<p>Muller,	Albert:	SS-Division "Wiking":	PHOTO: £55.00
-<p>Schmidt,	Walter:	(KNIGHT'S CROSS) SS-Division "Wiking":	PHOTO: £55.00
 <p>Schulze,	Herbert: 2. SS-Panzer Division "Das Reich":	SIGNED RK CARD: £30.00 
-<p>Zepper,	Erich:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
 <br />   
 <p><b><center>Oranienbaum / Narwa / Tannenberg 1944</center></b></p>  
 <p>Nugiseks,	Harald:	20. SS-Frei.Gren.Division "Estnische Nr. 1":	PHOTO: £45.00
 <p>Schrijnen,	Remi:	27. SS-Division "Langemarck":	SIGNED COPY FLYER: £30.00
 <br />  
-<p><b><center>Tscherkassy Pocket 1944</center></b></p>
-<p>Hein,	Willi:	5. SS-Panzer Division "Wiking":	PHOTO: £50.00 
-<p>Schmidt,	Walter:	(OAKLEAVES) SS-Division "Wiking":	PHOTO: £55.00
 <br /> 
 <p><b><center>'Normandy' 1944</center></b></p>  
 <p>Egger,	Paul:	(s) SS-Panzer Abteilung 102:	PHOTO: £45.00
 <br />    
-<p><b><center>Poland 1944</center></b></p>
-<p>Heder,	Eberhard:	5. SS-Panzer Division "Wiking":	PHOTO: £45.00 
-<br />  
 <p><b><center>Balkans / Romania / Hungary 1944 / 1945</center></b></p> 
 <p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO, LEBENSLAUF, PRINT OUT: £50.00
 <br />  
