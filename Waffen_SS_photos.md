@@ -15,7 +15,7 @@ permalink: /waffen_ss_photos.html
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>    
-<p>Hausser,	Paul:	SS-Division Reich:	Hand-written note from 1972: £100.00<br />
+<p>Hausser,	Paul:	SS-Division Reich:	HAND-WRITTEN NOTE 1972: £100.00<br />
 <p>Kumm,	Otto:	SS-Division Reich:	PHOTO: £60.00<br />
 <p>Springer,	Heinrich:	Leibstandarte:	PHOTO: £55.00
 <p>Ullrich,	Karl:	SS-Division Totenkopf:	PHOTO: £60.00
