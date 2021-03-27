@@ -14,13 +14,11 @@ permalink: /waffen_ss_photos.html
 <br />  
 <p><b>Below is a selection of Waffen-SS Knight's Cross holder photographs currently for sale.</b></p>
 <br />
-<br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>    
 <p>Hausser,	Paul:	SS-Division Reich:	Hand-written note from 1972: £100.00<br />
 <p>Kumm,	Otto:	SS-Division Reich:	PHOTO: £60.00<br />
 <p>Springer,	Heinrich:	Leibstandarte:	PHOTO: £55.00
 <p>Ullrich,	Karl:	SS-Division Totenkopf:	PHOTO: £60.00
-<br />
 <br />
 <p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried:	2. SS-Panzer Division "Das Reich":	PHOTO: £40.00
@@ -49,7 +47,7 @@ permalink: /waffen_ss_photos.html
 <p>Siegel,	Hans:	12. SS-Panzer Division Hitlerjugend:	PHOTO: £50.00
 <br />    
 <p><b><center>Balkans / Romania / Hungary 1944/1945</center></b></p> 
-<p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO, LEBENSLAUF, PRINT OUT: £50.00
+<p>Scherg,	Johannes:	4. SS-Division "Polizei":	PHOTO: £40.00
 <br />  
 <p><b><center>Colmar / Ardennes Offensive 1945</center></b></p>  
 <p>Sattler,	Karl:	SS-Regiment "Sattler":	PHOTO: £50.00
@@ -79,8 +77,7 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Halbe Pocket 1945</center></b></p>  
 <p>Reber,	Gustav-Peter:	XI. SS-Panzer Korps:	PHOTO: £45.00
 <p>Richter,	Friedrich 'Fritz':	10. SS-Division "Frundsberg":	PHOTO: £50.00  
-<br />
-<br />  
+<br /> 
 <p><b><center>Battle of Berlin 1945</center></b></p>  
 <p>Fey,	Will:	(s) SS-Panzer Abt. 502:	PHOTO: £50.00
 <p>Gunsche,	Otto:	Führerbegleitkommando:	PHOTO: £50.00 (non-Knight's Cross)
