@@ -17,15 +17,13 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>    
 <p>Hausser,	Paul:	SS-Division Reich:	HAND-WRITTEN NOTE 1972: £100.00<br />
 <p>Kumm,	Otto:	SS-Division Reich:	PHOTO: £60.00<br />
-<p>Springer,	Heinrich:	Leibstandarte:	PHOTO: £55.00
-<p>Ullrich,	Karl:	SS-Division Totenkopf:	PHOTO: £60.00
 <br />
 <p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried:	2. SS-Panzer Division "Das Reich":	PHOTO: £40.00
 <p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO, Lebenslauf: £60.00
 <p>Frey,	Albert:	SS-Panzer Division "LSSAH":	PHOTO: £50.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO: £50.00
-<p>Macher,	Heinz:	SS-Division "Ds Reich":	PHOTO: £50.00
+<p>Greime,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £60.00
 <p>Schmidt,	Walter:	SS-Division "Wiking":	PHOTO: £50.00<br />
 <p>Schneidereit,	Alfred:	1. SS-Panzer Division "LSSAH":	PHOTO: £45.00
 <p>Schulze,	Herbert: 2. SS-Panzer Division "Das Reich":	SIGNED RK CARD: £30.00 
@@ -81,7 +79,6 @@ permalink: /waffen_ss_photos.html
 <p><b><center>Battle of Berlin 1945</center></b></p>  
 <p>Fey,	Will:	(s) SS-Panzer Abt. 502:	PHOTO: £50.00
 <p>Gunsche,	Otto:	Führerbegleitkommando:	PHOTO: £50.00 (non-Knight's Cross)
-<p>Misch,	Rochus:	Führerbegleitkommando:	PHOTO: £40.00 (non-Knight's Cross)
 <br />  
 <br />  
 <p><b><centre>Not see the person you would like to add to your collection in the list above? Just ask for who you seek, so that I can confirm whether they are within the wider collection.
