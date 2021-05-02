@@ -16,11 +16,9 @@ permalink: /waffen_ss_photos.html
 <br />
 <p><b><center>Operation Barbarossa 1941 / 1942</center></b></p>    
 <p>Hausser,	Paul:	SS-Division Reich:	HAND-WRITTEN NOTE 1972: £100.00<br />
-<p>Kumm,	Otto:	SS-Division Reich:	PHOTO: £60.00<br />
 <br />
 <p><b><center>Russia 1943</center></b></p>    
 <p>Brosow,	Siegfried:	2. SS-Panzer Division "Das Reich":	PHOTO: £40.00
-<p>Eichhorn,	Hugo:	SS-Division "Wiking":	PHOTO, Lebenslauf: £60.00
 <p>Frey,	Albert:	SS-Panzer Division "LSSAH":	PHOTO: £50.00
 <p>Goehler,	Johannes:	SS-Division "Florian Geyer":	PHOTO: £50.00
 <p>Greime,	Wilhelm:	SS-Division "Das Reich":	PHOTO: £60.00
@@ -35,7 +33,6 @@ permalink: /waffen_ss_photos.html
 <p>Traupe,	Hans:	4. SS-Division "Polizei":	PHOTO: £45.00
 <br />  
 <p><b><center>Ukraine / Cherkassy Pocket / Kovel 1944</center></b></p>  
-<p>Hack,	Franz:	5. SS-Division "Wiking":	PHOTO: £50.00
 <p>Henke,	Fritz:	1. SS-Panzer Division "LSSAH":	PHOTO: £45.00
 <p>Hein,	Willi:	5. SS-Division "Wiking":	PHOTO: £45.00
 <br />  
